@@ -1,3 +1,5 @@
+import csv, codecs
+
 class UTF8Recoder:
 
     def __init__(self, f, encoding):
