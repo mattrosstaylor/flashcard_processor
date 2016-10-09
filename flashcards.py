@@ -125,6 +125,8 @@ for s in sentences:
 	else:
 		passed.append(s)
 
+
+
 known = dict()
 
 for s in passed:
@@ -145,15 +147,18 @@ for s in passed:
 """
 
 covering = []
+#passed.sort(key=lambda x: len(x.related))
 
 while passed:
 	passed.sort(key=lambda x: x.count, reverse=False)
 	#passed.sort(key=lambda x: len(x.related))
 
 	#top = passed.pop()
-	top = passed[random.randint(0,len(passed)-1)]
-	passed.remove(top)
 
+	l = len(passed)
+	top = passed[random.randint(0,l-1)/2 + l/4]
+	passed.remove(top)
+	
 	for s in passed:
 		for chars in top.related:
 			if chars in s.related:
@@ -164,8 +169,7 @@ while passed:
 
 	covering.append(top)
 
-
-print len(covering)
+#	print (top.text).encode("utf-8")
 
 #for w in words:
 #	if not w.text in known:
@@ -173,7 +177,12 @@ print len(covering)
 
 #output_word_list(known)
 
+print len(covering)
+
 print "// Learning".encode('utf-8')
 for s in covering:
 	if s.text and s.pinyin and s.english:
-		print (s.text +"\t" +s.pinyin +"\t" +s.english).encode('utf-8')
+		#print (s.text +"\t" +s.pinyin +"\t" +s.english).encode('utf-8')
+		print (s.text).encode('utf-8')
+
+
