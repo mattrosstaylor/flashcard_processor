@@ -21,7 +21,6 @@ class Entry:
 	def __unicode__(self):
 		return self.sc +" " +self.py +" " +self.category
 
-
 def read_entries_from_csv(path):
 
 	lines = UnicodeReader(open(path))
@@ -125,8 +124,6 @@ for s in sentences:
 	else:
 		passed.append(s)
 
-
-
 known = dict()
 
 for s in passed:
@@ -147,8 +144,9 @@ for s in passed:
 """
 
 covering = []
+covering = passed
 #passed.sort(key=lambda x: len(x.related))
-
+"""
 while passed:
 	passed.sort(key=lambda x: x.count, reverse=False)
 	#passed.sort(key=lambda x: len(x.related))
@@ -170,19 +168,31 @@ while passed:
 	covering.append(top)
 
 #	print (top.text).encode("utf-8")
-
+"""
 #for w in words:
 #	if not w.text in known:
 #		print w.text
 
 #output_word_list(known)
 
-print len(covering)
-
-print "// Learning".encode('utf-8')
+print ("// Learning " +str(len(covering))).encode('utf-8')
 for s in covering:
 	if s.text and s.pinyin and s.english:
-		#print (s.text +"\t" +s.pinyin +"\t" +s.english).encode('utf-8')
-		print (s.text).encode('utf-8')
+		print (s.text +"\t" +s.pinyin +"\t" +s.english).encode('utf-8')
+		#print (s.text).encode('utf-8')
 
+#print len(covering)
 
+#known = dict()
+
+#for s in covering:
+#	example = s.text
+#
+#	for w in words:
+#		if w.text in example:
+#			example = example.replace(w.text,"")
+#			increment_word(known, w.text)
+#			s.related.add(w)
+#			w.related.add(s)
+
+#output_word_list(known)
