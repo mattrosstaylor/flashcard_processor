@@ -125,6 +125,7 @@ for s in sentences:
 		passed.append(s)
 
 passed = list(set(passed))
+random.shuffle(passed)
 
 known_word_counts = dict()
 original_known_word_counts = dict()
@@ -143,50 +144,59 @@ for s in passed:
 covering = []
 added_word_counts = dict()
 added_sentences = set()
-looping = True
+
 
 for w in known_word_counts:
 	added_word_counts[w] = 0
 
-while len(covering) < 1000:
+looping = True
+
+minimum_desired_count = 3
+
+while looping:
+	if not len(covering) < 10000:
+		looping = False
+		break
 
 	it = sorted(added_word_counts.items(), key=operator.itemgetter(1))
-	
-	looping = False
+
+	maximum_prevalence = added_word_counts[it[len(it)-1][0]]
 
 	for w in it:
 		smallest_word = w[0]
 
-		if added_word_counts[smallest_word] < 100:
-			
-			sentence = None
-			float cost = 999999
-
-			for s in smallest_word.related:
-				if s not in added_sentences:
-					
-					float total = 0
-					for ww in s.related:
-						total += float(added_word_counts[ww]*added_word_counts[ww])
-					
-					total = total / float(len(s.related))
-
-					if total < cost:
-						sentence = s
-						cost = total
-
-			if not sentence:
-				continue
-
-			covering.append(sentence)
-			added_sentences.add(sentence)
-
-			for ww in sentence.related:
-				increment_word(added_word_counts, ww)
-			
-			break
-		else:
+		if known_word_counts[smallest_word] == added_word_counts[smallest_word]:
 			continue
+
+		if not added_word_counts[smallest_word] < minimum_desired_count:
+			looping = False
+			break
+
+		
+		sentence = None
+		cost = 0
+
+		for s in smallest_word.related:
+			if s not in added_sentences:
+				
+				total = 0
+				for ww in s.related:
+					total += 1 + maximum_prevalence - added_word_counts[ww]
+				
+				if total > cost:
+					sentence = s
+					cost = total
+
+		if not sentence:
+			continue
+
+		covering.append(sentence)
+		added_sentences.add(sentence)
+
+		for ww in sentence.related:
+			increment_word(added_word_counts, ww)
+		
+		break
 
 #for w in words:
 #	if not w.text in known_word_counts:
