@@ -51,42 +51,6 @@ def read_entries_from_csv(path):
 
 	return entries
 
-entries = read_entries_from_csv("export.txt")
-
-words = []
-sentences = []
-
-for entry in entries:
-	if "Example" in entry.category:
-		sentences.append(entry)
-	elif not "Learning" in entry.category:
-		words.append(entry)
-
-words.sort(key=operator.attrgetter('count'), reverse=True)
-
-bad_chars = [
-	u"、" , 
-	u"。" , 
-	u"；" ,
-	u"—" ,
-	u"？" ,
-	u"（" ,
-	u"）" ,
-	u"→" , 
-	u"”" , 
-	u"“" ,
-	u"！" ,
-	"(" ,
-	")" ,
-	"/" ,
-	"," , 
-	"!" ,
-	";" ,
-	":" ,
-	"?" ,
-	" "
-]
-
 def increment_word(words, character):
 	if character in words:
 		words[character] += 1
@@ -98,46 +62,86 @@ def output_word_list(words):
 	for sc in it:
 		print sc[0].text +" " +str(words[sc[0]])
 
-unknown_word_counts = dict()
-passed = []
+def load_export_file(path):
+	entries = read_entries_from_csv(path)
 
-for s in sentences:
-	example = s.text
-	example_printable = s.text
+	words = []
+	sentences = []
 
-	for w in words:
-		if w.text in example:
-			example = example.replace(w.text,"")
-			example_printable = example_printable.replace(w.text, u' '*w.count)
+	for entry in entries:
+		if "Example" in entry.category:
+			sentences.append(entry)
+		elif not "Learning" in entry.category:
+			words.append(entry)
 
-	for bc in bad_chars:
-		example = example.replace(bc,"")
-		example_printable = example_printable.replace(bc,"*")
-	
-	if example:
-		example_printable = re.sub(r'(\*)\1+', r'\1', example_printable) 
-		example_printable = example_printable.replace("*", " ").strip()
+	words.sort(key=operator.attrgetter('count'), reverse=True)
 
-		junk = example_printable.split(' ')
-		for j in junk:
-			increment_word(unknown_word_counts, j)
-	else:
-		passed.append(s)
+	bad_chars = [
+		u"、" , 
+		u"。" , 
+		u"；" ,
+		u"—" ,
+		u"？" ,
+		u"（" ,
+		u"）" ,
+		u"→" , 
+		u"”" , 
+		u"“" ,
+		u"！" ,
+		"(" ,
+		")" ,
+		"/" ,
+		"," , 
+		"!" ,
+		";" ,
+		":" ,
+		"?" ,
+		" "
+	]
 
-passed = list(set(passed))
-random.shuffle(passed)
+	unknown_word_counts = dict()
+	passed = []
+
+	for s in sentences:
+		example = s.text
+		example_printable = s.text
+
+		for w in words:
+			if w.text in example:
+				example = example.replace(w.text,"")
+				example_printable = example_printable.replace(w.text, u' '*w.count)
+
+		for bc in bad_chars:
+			example = example.replace(bc,"")
+			example_printable = example_printable.replace(bc,"*")
+		
+		if example:
+			example_printable = re.sub(r'(\*)\1+', r'\1', example_printable) 
+			example_printable = example_printable.replace("*", " ").strip()
+
+			junk = example_printable.split(' ')
+			for j in junk:
+				increment_word(unknown_word_counts, j)
+		else:
+			passed.append(s)
+
+	return (words, passed, unknown_word_counts)
+
+(words, sentences, unknown) = load_export_file("sample.txt")
+
+sentences = list(set(sentences))
+random.shuffle(sentences)
 
 known_word_counts = dict()
-original_known_word_counts = dict()
 
-for s in passed:
+for s in sentences:
 	example = s.text
 
 	for w in words:
 		if w.text in example:
 			example = example.replace(w.text,"")
 			increment_word(known_word_counts, w)
-			increment_word(original_known_word_counts, w)
+		
 			s.related.add(w)
 			w.related.add(s)
 
@@ -224,8 +228,8 @@ for s in covering:
 #			s.related.add(w)
 #			w.related.add(s)
 
-it = sorted(original_known_word_counts.items(), key=operator.itemgetter(1))
+it = sorted(known_word_counts.items(), key=operator.itemgetter(1))
 for sc in it:
-	oc = original_known_word_counts[sc[0]]
+	oc = known_word_counts[sc[0]]
 	ao = added_word_counts[sc[0]]
 	print (sc[0].text +" " +str(ao) +"/" +str(oc)).encode('utf-8')
