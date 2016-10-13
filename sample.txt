@@ -1,0 +1,2790 @@
+// 2012 HSK/Level 1
+爱	ai4
+八	ba1
+爸爸	ba4ba5
+杯子	bei1zi5
+北京	Bei3jing1
+本	ben3
+不	bu4
+不客气	bu4ke4qi4
+菜	cai4
+茶	cha2
+吃	chi1
+出租车	chu1zu1che1
+打电话	da3 dian4hua4
+大	da4
+的	de5
+点	dian3
+电脑	dian4nao3
+电视	dian4shi4
+电影	dian4ying3
+东西	dong1xi5
+都	dou1
+读	du2
+对不起	dui4bu5qi3
+多	duo1
+多少	duo1shao3
+儿子	er2zi5
+二	er4
+饭店	fan4dian4
+飞机	fei1ji1
+分钟	fen1zhong1
+高兴	gao1xing4
+个	ge4
+工作	gong1zuo4
+狗	gou3
+汉语	Han4yu3
+好	hao3
+号	hao4
+喝	he1
+和	he2
+很	hen3
+后面	hou4mian5
+回	hui2
+会	hui4
+几	ji3
+家	jia1
+叫	jiao4
+今天	jin1tian1
+九	jiu3
+开	kai1
+看	kan4
+看见	kan4jian4
+块	kuai4
+来	lai2
+老师	lao3shi1
+了	le5
+冷	leng3
+里	li3
+六	liu4
+妈妈	ma1ma5
+吗	ma5
+买	mai3
+猫	mao1
+没关系	mei2guan1xi5
+没有	mei2you3
+米饭	mi3fan4
+名字	ming2zi5
+明天	ming2tian1
+哪	na3
+哪儿	na3r5
+那	na4
+呢	ne5
+能	neng2
+你	ni3
+年	nian2
+女儿	nü3er2
+朋友	peng2you5
+漂亮	piao4liang5
+苹果	ping2guo3
+七	qi1
+前面	qian2mian5
+钱	qian2
+请	qing3
+去	qu4
+热	re4
+人	ren2
+认识	ren4shi5
+三	san1
+商店	shang1dian4
+上	shang4
+上午	shang4wu3
+少	shao3
+谁	shei2
+什么	shen2me5
+十	shi2
+时候	shi2hou5
+是	shi4
+书	shu1
+水	shui3
+水果	shui3guo3
+睡觉	shui4jiao4
+说	shuo1
+四	si4
+岁	sui4
+他	ta1
+她	ta1
+太	tai4
+天气	tian1qi4
+听	ting1
+同学	tong2xue2
+喂	wei4
+我	wo3
+我们	wo3men5
+五	wu3
+喜欢	xi3huan5
+下	xia4
+下午	xia4wu3
+下雨	xia4 yu3
+先生	xian1sheng5
+现在	xian4zai4
+想	xiang3
+小	xiao3
+小姐	xiao3jie3
+些	xie1
+写	xie3
+谢谢	xie4xie5
+星期	xing1qi1
+学生	xue2sheng5
+学习	xue2xi2
+学校	xue2xiao4
+一	yi1
+一点儿	yi4dian3r5
+衣服	yi1fu5
+医生	yi1sheng1
+医院	yi1yuan4
+椅子	yi3zi5
+有	you3
+月	yue4
+再见	zai4jian4
+在	zai4
+怎么	zen3me5
+怎么样	zen3me5yang4
+这	zhe4
+中国	Zhong1guo2
+中午	zhong1wu3
+住	zhu4
+桌子	zhuo1zi5
+字	zi4
+昨天	zuo2tian1
+坐	zuo4
+做	zuo4
+// 2012 HSK/Level 2
+吧	ba5
+白	bai2
+百	bai3
+帮助	bang1zhu4
+报纸	bao4zhi3
+比	bi3
+别	bie2
+宾馆	bin1guan3
+长	zhang3
+唱歌	chang4ge1
+出	chu1
+穿	chuan1
+次	ci4
+从	cong2
+错	cuo4
+打篮球	da3 lan2qiu2
+大家	da4jia1
+到	dao4
+得	de5
+等	deng3
+弟弟	di4di5
+第一	di4-yi1
+懂	dong3
+对	dui4
+房间	fang2jian1
+非常	fei1chang2
+服务员	fu2wu4yuan2
+高	gao1
+告诉	gao4su5
+哥哥	ge1ge5
+给	gei3
+公共汽车	gong1gong4 qi4che1
+公司	gong1si1
+贵	gui4
+过	guo4
+还	hai2
+孩子	hai2zi5
+好吃	hao3chi1
+黑	hei1
+红	hong2
+火车站	huo3che1zhan4
+机场	ji1chang3
+鸡蛋	ji1dan4
+件	jian4
+教室	jiao4shi4
+姐姐	jie3jie5
+介绍	jie4shao4
+进	jin4
+近	jin4
+就	jiu4
+觉得	jue2de5
+咖啡	ka1fei1
+开始	kai1shi3
+考试	kao3shi4
+可能	ke3neng2
+可以	ke3yi3
+课	ke4
+快	kuai4
+快乐	kuai4le4
+累	lei4
+离	li2
+两	liang3
+零	ling2
+路	lu4
+旅游	lü3you2
+卖	mai4
+慢	man4
+忙	mang2
+每	mei3
+妹妹	mei4mei5
+门	men2
+面条	mian4tiao2
+男	nan2
+您	nin2
+牛奶	niu2nai3
+女	nü3
+旁边	pang2bian1
+跑步	pao3bu4
+便宜	pian2yi5
+票	piao4
+妻子	qi1zi5
+起床	qi3chuang2
+千	qian1
+铅笔	qian1bi3
+晴	qing2
+去年	qu4nian2
+让	rang4
+日	ri4
+上班	shang4ban1
+身体	shen1ti3
+生病	sheng1 bing4
+生日	sheng1ri4
+时间	shi2jian1
+事情	shi4qing5
+手表	shou3biao3
+手机	shou3ji1
+说话	shuo1hua4
+送	song4
+虽然…但是…	sui1ran2…dan4shi4…	although... nevertheless...
+它	ta1
+踢足球	ti1 zu2qiu2
+题	ti2
+跳舞	tiao4wu3
+外	wai4
+完	wan2
+玩	wan2
+晚上	wan3shang5
+往	wang3
+为什么	wei4shen2me5
+问	wen4
+问题	wen4ti2
+西瓜	xi1gua1
+希望	xi1wang4
+洗	xi3
+小时	xiao3shi2
+笑	xiao4
+新	xin1
+姓	xing4
+休息	xiu1xi5
+雪	xue3
+颜色	yan2se4
+眼睛	yan3jing5
+羊肉	yang2rou4
+药	yao4
+要	yao4
+也	ye3
+一起	yi4qi3
+一下	yi2xia4
+已经	yi3jing1
+意思	yi4si5
+因为…所以…	yin1wei4…suo3yi3…	because of... therefore...
+阴	yin1
+游泳	you2yong3
+右边	you4bian5
+鱼	yu2
+远	yuan3
+运动	yun4dong4
+再	zai4
+早上	zao3shang5
+丈夫	zhang4fu5
+找	zhao3
+着	zhe5
+真	zhen1
+正在	zheng4zai4
+知道	zhi1dao4
+准备	zhun3bei4
+走	zou3
+最	zui4
+左边	zuo3bian5
+// 2012 HSK/Level 3
+阿姨	a1yi2
+啊	a1
+矮	ai3
+爱好	ai4hao4
+安静	an1jing4
+把	ba3
+班	ban1
+搬	ban1
+办法	ban4fa3
+办公室	ban4gong1shi4
+半	ban4
+帮忙	bang1mang2
+包	bao1
+饱	bao3
+北方	bei3fang1
+被	bei4
+鼻子	bi2zi5
+比较	bi3jiao4
+比赛	bi3sai4
+笔记本	bi3ji4ben3
+必须	bi4xu1
+变化	bian4hua4
+别人	bie2ren2
+冰箱	bing1xiang1
+不但…而且…	bu4dan4…er2qie2…	not only... but also...
+菜单	cai4dan1
+参加	can1jia1
+草	cao3
+层	ceng2
+差	cha4
+超市	chao1shi4
+衬衫	chen4shan1
+成绩	cheng2ji4
+城市	cheng2shi4
+迟到	chi2dao4
+除了	chu2le5
+船	chuan2
+春	chun1
+词典	ci2dian3
+聪明	cong1ming2
+打扫	da3sao3
+打算	da3suan4
+带	dai4
+担心	dan1xin1
+蛋糕	dan4gao1
+当然	dang1ran2
+地	de5
+灯	deng1
+地方	di4fang5
+地铁	di4tie3
+地图	di4tu2
+电梯	dian4ti1
+电子邮件	dian4zi3 you2jian4
+东	dong1
+冬	dong1
+动物	dong4wu4
+短	duan3
+段	duan4
+锻炼	duan4lian4
+多么	duo1me5
+饿	e4
+耳朵	er3duo5
+发	fa1
+发烧	fa1shao1
+发现	fa1xian4
+方便	fang1bian4
+放	fang4
+放心	fang4xin1
+分	fen1
+附近	fu4jin4
+复习	fu4xi2
+干净	gan1jing4
+感冒	gan3mao4
+感兴趣	gan3 xing4qu4
+刚才	gang1cai2
+个子	ge4zi5
+根据	gen1ju4
+跟	gen1
+更	geng4
+公斤	gong1jin1
+公园	gong1yuan2
+故事	gu4shi5
+刮风	gua1feng1
+关	guan1
+关系	guan1xi5
+关心	guan1xin1
+关于	guan1yu2
+国家	guo2jia1
+过	guo4
+过去	guo4qu4
+还是	hai2shi5
+害怕	hai4pa4
+黑板	hei1ban3
+后来	hou4lai2
+护照	hu4zhao4
+花	hua1
+画	hua4
+坏	huai4
+欢迎	huan1ying2
+还	hai2
+环境	huan2jing4
+换	huan4
+黄河	Huang2he2
+回答	hui2da2
+会议	hui4yi4
+或者	huo4zhe3
+几乎	ji1hu1
+机会	ji1hui4
+极	ji2
+记得	ji4de5
+季节	ji4jie2
+检查	jian3cha2
+简单	jian3dan1
+见面	jian4mian4
+健康	jian4kang1
+讲	jiang3
+教	jiao4
+角	jiao3
+脚	jiao3
+接	jie1
+街道	jie1dao4
+节目	jie2mu4
+节日	jie2ri4
+结婚	jie2hun1
+结束	jie2shu4
+解决	jie3jue2
+借	jie4
+经常	jing1chang2
+经过	jing1guo4
+经理	jing1li3
+久	jiu3
+旧	jiu4
+句子	ju4zi5
+决定	jue2ding4
+可爱	ke3ai4
+渴	ke3
+刻	ke4
+客人	ke4ren5
+空调	kong1tiao2
+口	kou3
+哭	ku1
+裤子	ku4zi5
+筷子	kuai4zi5
+蓝	lan2
+老	lao3
+离开	li2kai1
+礼物	li3wu4
+历史	li4shi3
+脸	lian3
+练习	lian4xi2
+辆	liang4
+聊天	liao2tian1
+了解	liao3jie3
+邻居	lin2ju1
+留学	liu2xue2
+楼	lou2
+绿	lü4
+马	ma3
+马上	ma3shang4
+满意	man3yi4
+帽子	mao4zi5
+米	mi3
+面包	mian4bao1
+明白	ming2bai5
+拿	na2
+奶奶	nai3nai5
+南	nan2
+难	nan2
+难过	nan2guo4
+年级	nian2ji2
+年轻	nian2qing1
+鸟	niao3
+努力	nu3li4
+爬山	pa2shan1
+盘子	pan2zi5
+胖	pang4
+皮鞋	pi2xie2
+啤酒	pi2jiu3
+瓶子	ping2zi5
+其实	qi2shi2
+其他	qi2ta1
+奇怪	qi2guai4
+骑	qi2
+起飞	qi3fei1
+起来	qi3lai5
+清楚	qing1chu5
+请假	qing3jia4
+秋	qiu1
+裙子	qun2zi5
+然后	ran2hou4
+热情	re4qing2
+认为	ren4wei2
+认真	ren4zhen1
+容易	rong2yi4
+如果	ru2guo3
+伞	san3
+上网	shang4wang3
+生气	sheng1qi4
+声音	sheng1yin1
+世界	shi4jie4
+试	shi4
+瘦	shou4
+叔叔	shu1shu5
+舒服	shu1fu5
+树	shu4
+数学	shu4xue2
+刷牙	shua1ya2
+双	shuang1
+水平	shui3ping2
+司机	si1ji1
+太阳	tai4yang5
+特别	te4bie2
+疼	teng2
+提高	ti2gao1
+体育	ti3yu4
+甜	tian2
+条	tiao2
+同事	tong2shi4
+同意	tong2yi4
+头发	tou2fa5
+突然	tu1ran2
+图书馆	tu2shu1guan3
+腿	tui3
+完成	wan2cheng2
+碗	wan3
+万	wan4
+忘记	wang4ji4
+为	wei4
+为了	wei4le5
+位	wei4
+文化	wen2hua4
+西	xi1
+习惯	xi2guan4
+洗手间	xi3shou3jian1
+洗澡	xi3zao3
+夏	xia4
+先	xian1
+相信	xiang1xin4
+香蕉	xiang1jiao1
+向	xiang4
+像	xiang4
+小心	xiao3xin1
+校长	xiao4zhang3
+新闻	xin1wen2
+新鲜	xin1xian1
+信用卡	xin4yong4 ka3
+行李箱	xing2li3xiang1
+熊猫	xiong2mao1
+需要	xu1yao4
+选择	xuan3ze2
+要求	yao1qiu2
+爷爷	ye2ye5
+一般	yi4ban1
+一边	yi1bian1
+一定	yi2ding4
+一共	yi2gong4
+一会儿	yi2hui4r5
+一样	yi2yang4
+一直	yi4zhi2
+以前	yi3qian2
+音乐	yin1yue4
+银行	yin2hang2
+饮料	yin3liao4
+应该	ying1gai1
+影响	ying3xiang3
+用	yong4
+游戏	you2xi4
+有名	you3ming2
+又	you4
+遇到	yu4dao4
+元	yuan2
+愿意	yuan4yi4
+月亮	yue4liang5
+越	yue4
+站	zhan4
+张	zhang1
+长	zhang3
+着急	zhao2ji2
+照顾	zhao4gu5
+照片	zhao4pian4
+照相机	zhao4xiang4ji1
+只	zhi3
+只有…才…	zhi3you3…cai2…	only if... then...
+中间	zhong1jian1
+中文	Zhong1wen2
+终于	zhong1yu2
+种	zhong3
+重要	zhong4yao4
+周末	zhou1mo4
+主要	zhu3yao4
+注意	zhu4yi4
+自己	zi4ji3
+自行车	zi4xing2che1
+总是	zong3shi4
+嘴	zui3
+最后	zui4hou4
+最近	zui4jin4
+作业	zuo4ye4
+
+// Example Sentences
+这些小动物真可爱!	zhe4 xie1xiao3 dong4wu4 zhen1 ke3ai4	These little animals are really adorable! 
+这小东西真可爱。	zhe4 xiao3dong1xi5 zhen1 ke3ai4。	What a cute little thing! (referring to a baby or kitten) 
+我和爱人结婚十年了。	wo3 he2 ai4ren5 jie2hun1 shi2 nian2 le5。	My husband (or wife) and I have been married for ten years. 
+水果人人都爱吃。	shui3guo3 ren2ren2 dou1 ai4 chi1。	Everybody loves to eat fruit. 
+我爱爸爸妈妈, 爸爸妈妈也爱我。	wo3 ai4 ba4ba5 ma1ma5, ba4ba5 ma1ma5 ye3 ai4 wo3。	I love my mom and dad, and they love me too. 
+我想每个人都爱自己的妈妈。	wo3 xiang3 mei3 ge4ren2 dou1 ai4 zi4ji3 de5 ma1ma5。	I think everyone loves their mom. 
+她脸长得很可爱。	ta1 lian3 zhang3 de5 hen3 ke3ai4。	She has a lovely face. 
+你不知道我多么地爱她。	ni3 bu4zhi1dao4 wo3 duo1me5 di4 ai4 ta1。	You don't know how much I loved her! 
+我们热爱我们的国家。	wo3men5 re4ai4 wo3men5 de5 guo2jia1。	We love our country dearly. 
+我在那里住了八个月。	wo3 zai4 na4li5 zhu4 le5 ba1 ge4 yue4。	I stayed there for eight months. 
+八八六十四。	ba1 ba1 liu4shi2si4。	Eight times eight is sixty-four. 
+九九八十一。	jiu3jiu3 ba1shi2yi1。	Nine times nine is eighty-one. 
+四千五百八十	si4qian1 wu3bai3 ba1shi2	four thousand, five hundred and eighty, 4,580 
+八块九角五分	ba1 kuai4 jiu3 jiao3 wu3 fen1	eight <py>yuan</py> nine <py>jiao</py> and five <py>fen</py> = eight dollars and ninety-five cents 
+“我们明天什么时候出发?”“早上八点。”	“ wo3men5 ming2tian1 shen2me5 shi2hou5 chu1fa1”“ zao3shang5 ba1 dian3。”	“When do we set off tomorrow?” “Eight o'clock in the morning.” 
+你可以打电话九一八三一八七, 到我办公室找我。	ni3 ke3yi3 da3 dian4hua4 Jiu3-Yi1ba1 san1 yi1 ba1 qi1, dao4 wo3 ban4gong1shi4 zhao3 wo3。	You can reach me at my office on 918-3187. 
+我爸爸工作很努力。	wo3 ba4ba5 gong1zuo4 hen3 nu3li4。	My father works hard. 
+我为爸爸的身体担心。	wo3 wei2 ba4ba5 de5 shen1ti3 dan1xin1。	I'm worried about daddy's health. 
+这孩子喜欢读书, 他爸爸妈妈看了真高兴。	zhe4 hai2zi5 xi3huan5 du2shu1, ta1 ba4ba5 ma1ma5 kan4 le5 zhen1 gao1xing4。	The child likes reading, much to the delight of his parents. 
+我爸爸身体很好。	wo3 ba4ba5 shen1ti3 hen3 hao3。	My father is in good health. 
+爸爸的办公室离家很近。	ba4ba5 de5 ban4gong1shi4 li2jia1 hen3 jin4。	Father's office is close to home. 
+爸爸每星期五买很多啤酒。	ba4ba5 mei3 xing1qi1 wu3 mai3 hen3 duo1 pi2jiu3。	Daddy buys lots of beer every Friday. 
+我们不等爸爸了, 吃起来吧。	wo3men5 bu4deng3 ba4ba5 le5, chi1 qi3lai5 ba5。	We're not going to wait for daddy any longer. Let's start eating. 
+哥哥长得和爸爸一般高了。	ge1ge5 zhang3 de5 he2 ba4ba5 yi4ban1 gao1 le5。	My elder brother is now as tall as Daddy. 
+“你爸爸在家吗?” “他不在家。”	“ ni3 ba4ba5 zai4jia1 ma5”“ ta1 bu4 zai4jia1。”	“Is your father home?” “No, he isn't.” 
+这张桌子是我爸爸做的。	zhe4 zhang1 zhuo1zi5 shi4 wo3 ba4ba5 zuo4 de5。	This table was made by my father. 
+我爸爸教我游泳。	wo3 ba4ba5 jiao4 wo3 you2yong3。	My father taught me to swim. 
+这些杯子要洗一下。	zhe4xie1 bei1zi5 yao4 xi3 yi2xia4。	These cups/mugs/glasses need washing. 
+桌子上有几本书和一个杯子。	zhuo1zi5 shang4 you3 ji3 ben3 shu1 he2 yi1 ge4 bei1zi5。	There are some books and a cup on the table. 
+北京来的飞机什么时候到?	Bei3jing1 lai2 de5 fei1ji1 shen2me5 shi2hou5 dao4	When will the flight from Beijing arrive? 
+从北京来的飞机什么时候到?	cong2 Bei3jing1 lai2 de5 fei1ji1 shen2me5 shi2hou5 dao4	When does the plane from Beijing arrive? 
+我的中文老师是北京人。	wo3 de5 Zhong1wen2 lao3shi1 shi4 Bei3jing1ren2。	My Chinese teacher is from Beijing. 
+你想去北京学习, 我也想去北京学习。	ni3 xiang3 qu4 Bei3jing1 xue2xi2, wo3 ye3 xiang3 qu4 Bei3jing1 xue2xi2。	You want to study in Beijing, so do I. 
+我需要一本中文词典。	wo3 xu1yao4 yi1 ben3 Zhong1wen2 ci2dian3。	I need a Chinese dictionary. 
+一本书	yi4 ben3 shu1	a book 
+这本书才十块钱, 太便宜了。	zhe4 ben3 shu1 cai2 shi2 kuai4 qian2, tai4 bian4yi2 le5。	This book is only ten dollars. It's really cheap. 
+这本书我有些地方不大明白。	zhe4 ben3 shu1 wo3 you3xie1 di4fang5 bu2da4 ming2bai5。	I'm not quite clear about parts of this book. 
+这本书多少钱?	zhe4 ben3 shu1 duo1shao5 qian2	How much is this book? 
+这本书在这个星期一定要还给图书馆。	zhe4 ben3 shu1 zai4 zhe4ge5 Xing1qi1yi1 ding4 yao4 huan2gei3 tu2shu1guan3。	This book must be returned to the library within this week. 
+我上星期买了几本书。	wo3 shang4 xing1qi1 mai3 le5 ji3 ben3 shu1。	I bought several books last week. 
+你上星期买了几本书?	ni3 shang4 xing1qi1 mai3 le5 ji3 ben3 shu1	How many books did you buy last week? 
+两本书	liang3 ben3 shu1	two books 
+你这本书在哪儿买的?	ni3 zhe4 ben3 shu1 zai4 na3r5 mai3 de5	Where did you buy this book? 
+“这本书是你的吗?”“不是, 不是我的。”	“ zhe4 ben3 shu1 shi4 ni3 de5 ma5”“ bu2shi5, bu2shi5 wo3 de5。”	“Is this book yours?” “No.” 
+这本书很有意思, 你看过没有?	zhe4 ben3 shu1 hen3 you3 yi4si5, ni3 kan4 guo4 mei2you3	This book is very interesting. Have you read it? 
+这本书很有意思, 每个人都应该看。	zhe4 ben3 shu1 hen3 you3 yi4si5, mei3 ge4ren2 dou1 ying1gai1 kan4。	This book is very meaningful. Everybody should read it. 
+这本书太旧了, 没有什么用了。	zhe4 ben3 shu1 tai4 jiu4 le5, mei2you3 shen2me5 yong4 le5。	This book is too outdated, and is not of much use. 
+在桌子上有两本书。	zai4 zhuo1zi5 shang4 you3 liang3 ben3 shu1。	There are two books on the desk. 
+他怎么也找不到那本书。	ta1 zen3me5 ye3 zhao3bu5dao4 na4 ben3 shu1。	No matter how hard he tried, he couldn't find the book. 
+你去过日本吗?	ni3 qu4 guo4 Ri4ben3 ma5	Have you ever been to Japan? 
+这本小说好看不好看?	zhe4 ben3 xiao3shuo1 hao3kan4 bu4 hao3kan4	Is this novel interesting? 
+这是一本很有名的小说。	zhe4 shi4 yi1 ben3 hen3 you3ming2 de5 xiao3shuo1。	This is a well-known novel. 
+你看, 我买了一本新词典。	ni3 kan4, wo3 mai3 le5 yi1 ben3 xin1 ci2dian3。	Look, I've bought a new dictionary. 
+我本来不想去看电影, 他一定要我去, 我就去了。	wo3 ben3lai2 bu4xiang3 qu4 kan4 dian4ying3, ta1 yi2ding4 yao4 wo3 qu4, wo3 jiu4 qu4le5。	At first I did not want to go to the movie, but he insisted I should go, so I went with him. 
+笔记本电脑	bi3ji4ben3 dian4nao3	notebook computer 
+我不大喜欢吃日本菜。	wo3 bu2da4 xi3huan5 chi1 Ri4ben3 cai4。	I'm not very fond of Japanese food. 
+这本词典对我们很有帮助。	zhe4 ben3 ci2dian3 dui4 wo3men5 hen3 you3 bang1zhu4。	This dictionary is very helpful to us. 
+这本词典很有用。	zhe4 ben3 ci2dian3 hen3 you3yong4。	This dictionary is very useful. 
+他昨天买到了这本书的最后一本。	ta1 zuo2tian1 mai3dao4 le5 zhe4 ben3 shu1 de5 zui4hou4 yi1 ben3。	He bought the last copy of the book yesterday. 
+我上星期买了三本书。	wo3 shang4 xing1qi1 mai3 le5 san1 ben3 shu1。	I bought three books last week. 
+我这两本书都要买。	wo3 zhe4 liang3 ben3 shu1 dou1 yao4 mai3。	I will buy both books. 
+这本书还买得到吗？	zhe4 ben3 shu1 hai2 mai3 de2dao4 ma5？	Is that book still in print? 
+这张照片比她本人好看。	zhe4 zhang1 zhao4pian4 bi3 ta1 ben3ren2 hao3kan4。	This photo flatters her. 
+他借了一本关于中国的书。	ta1 jie4 le5 yi1 ben3 guan1yu2 Zhong1guo2 de5 shu1。	He borrowed a book on China. 
+她从图书馆借了几本关于中国的书。	ta1 cong2 tu2shu1guan3 jie4 le5 ji3 ben3 guan1yu2 Zhong1guo2 de5 shu1。	She borrowed several books about China from the library. 
+没有多少东西比一本好词典更有用。	mei2you3 duo1shao3 dong1xi5 bi3 yi1 ben3 hao3 ci2dian3 geng4 you3yong4。	Few things are more useful than a good dictionary. 
+这是一本最新的词典。	zhe4 shi4 yi1 ben3 zui4xin1 de5 ci2dian3。	This is an up-to-date dictionary. 
+我想知道谁借走了我的笔记本电脑。	wo3 xiang3 zhi1dao5 shui2 jie4 zou3 le5 wo3 de5 bi3ji4ben3 dian4nao3。	I would like to know who borrowed my laptop computer. 
+不, 我不要这个, 我要那个。	bu4, wo3 bu2yao4 zhe4ge5, wo3 yao4 na4ge5。	No, I don't want this one; I want that one. 
+对不起, 这不是您的, 是我的。	dui4bu5qi3, zhe4 bu2shi5 nin2 de5, shi4 wo3 de5。	Sorry, that's not yours, that's mine. 
+对不起, 我一会儿就回来。	dui4bu5qi3, wo3 yi1hui4r5 jiu4 hui2lai5。	Excuse me, I'll be back in a little while. 
+对不起, 我在地图上找不到这个国家。	dui4bu5qi3, wo3 zai4 di4tu2 shang4 zhao3bu5dao4 zhe4ge5 guo2jia1。	Sorry, I can't locate this country on the map. 
+对不起, 我迟到了。	dui4bu5qi3, wo3 chi2dao4 le5。	I'm sorry I'm late. 
+对不起, 那是我的过错。	dui4bu5qi3, na4shi5 wo3 de5 guo4cuo4。	I'm sorry, that was my fault. 
+对不起, 我不是这个意思。	dui4bu5qi3, wo3 bu2shi5 zhe4ge5 yi4si5。	Excuse me, I didn't mean it. 
+对不起, 能告诉我现在几点吗？	dui4bu5qi3, neng2 gao4su5 wo3 xian4zai4 ji3 dian3 ma5？	Excuse me, could you tell the time? 
+您能不能借给我您的新中文词典？	nin2 neng2 bu4neng2 jie4gei3 wo3 nin2 de5 xin1 Zhong1wen2 ci2dian3？	Would you be so kind as to lend me your new Chinese dictionary? 
+我太忙了, 不能跟你去看电影。	wo3 tai4 mang2 le5, bu4neng2 gen1 ni3 qu4 kan4 dian4ying3。	I can't go to the movies with you tonight, as I'm too busy. 
+我不知道这个在中文里怎么说？	wo3 bu4zhi1dao4 zhe4ge5 zai4 Zhong1wen2 li3 zen3me5 shuo1？	I don't know how to say it in Chinese. 
+你不知道, 我也不知道。	ni3 bu4zhi1dao4, wo3 ye3 bu4zhi1dao4。	Your guess is as good as mine. 
+我也不知道。	wo3 ye3 bu4zhi1dao4。	I don't know either. 
+我一点儿也不着急。	wo3 yi4dian3r5 ye3 bu4 zhao2ji2。	I'm not in any hurry. 
+我从来不看那种电视游戏节目。	wo3 cong2lai2 bu4 kan4 na4 zhong3 dian4shi4 you2xi4 jie2mu4。	I never watch those TV game shows. 
+这不是我要的。	zhe4 bu2shi5 wo3 yao4 de5。	This is not what I want. 
+我还是不明白她为什么突然离去。	wo3 hai2shi5 bu4 ming2bai5 ta1 wei4shen2me5 tu1ran2 li2qu4。	Her sudden departure is still a puzzle to me. 
+我还是不怎么会用筷子。	wo3 hai2shi5 bu4 zen3me5 hui4 yong4 kuai4zi5。	I'm still awkward with chopsticks. 
+要是不很远, 我们可以走去。	yao4shi4 bu4 hen3 yuan3, wo3men5 ke3yi3 zou3qu4。	We can walk if it's not too far. 
+她最近头发白了不少。	ta1 zui4jin4 tou2 fa1bai2 le5 bu4shao3。	She has turned quite gray recently. 
+我今天不大舒服, 我们明天出去吧。	wo3 jin1tian1 bu2da4 shu1fu5, wo3men5 ming2tian1 chu1qu5 ba5。	I'm not too well today, let's go out tomorrow instead. 
+我书读得不多。	wo3 shu1 du2 de5 bu4 duo1。	I'm not much of reader. 
+等一会—我差不多好了。	deng3 yi1hui3— wo3 cha4bu5duo1 hao3le5。	Hang on half a minute—I'm nearly ready. 
+我打电话的时候, 她不在。	wo3 da3 dian4hua4 de5 shi2hou5, ta1 bu4zai4。	She was not in when I called. 
+等等, 我看看他在不在。	deng3deng5, wo3 kan4kan5 ta1 zai4 bu4zai4。	Hold on, I'll see if he's in. 
+我下星期不在。（→我下星期要外出。）	wo3 xia4 xing1qi1 bu4zai4。（ wo3 xia4 xing1qi1 yao4 wai4chu1。）	I'll be away next week. 
+我没有注意到他不在。	wo3 mei2you3 zhu4yi4dao4 ta1 bu4zai4。	I did not notice his absence. 
+“我不喜欢新来的数学老师。”“我也不喜欢。”	“ wo3 bu4 xi3huan5 xin1lai2 de5 shu4xue2 lao3shi1。”“ wo3 ye3 bu4 xi3huan5。”	“I don't like the new math teacher.” “Neither do I.” 
+很多老师不同意校长的决定。	hen3 duo1 lao3shi1 bu4 tong2yi4 xiao4zhang3 de5 jue2ding4。	Many teachers take issue with the principal's decision. 
+你不可能是认真的！（→ 别开玩笑！）	ni3 bu4 ke3neng2 shi4 ren4zhen1 de5！（ bie2 kai1 wan2xiao4！）	You can't be serious! 
+把药放在孩子拿不到的地方。	ba3 yao4 fang4 zai4 hai2zi5 na2bu5dao4 de5 di4fang5。	Keep the medicines out of the reach of children. 
+对不起, 先生, 您的票呢?	dui4bu5qi3, xian1sheng5, nin2 de5 piao4 ne5	Excuse me, sir, where's your ticket? 
+对不起, 我没有说明白。	dui4bu5qi3, wo3 mei2you3 shuo1 ming2bai5。	Sorry, I didn't make it very clear. 
+“对不起。”“没关系。”	“ dui4bu5qi3。”“ mei2 guan1xi5。”	“I'm sorry.” “It's OK.” 
+我不认识这个人。	wo3 bu4 ren4shi5 zhe4 ge4ren2。	I don't know this person. (or I've never met this person before.) 
+明天你不要再迟到了。	ming2tian1 ni3 bu2yao4 zai4 chi2dao4 le5。	Please do not be late again tomorrow. 
+他是在开玩笑, 你不要太认真。	ta1 shi4 zai4 kai1 wan2xiao4, ni3 bu2yao4 tai4 ren4zhen1。	He's joking. Don't take it too seriously. 
+这个机会很难得, 不要错过。	zhe4ge5 ji1hui4 hen3 nan2de2, bu2yao4 cuo4guo4。	This is a rare opportunity. Don't miss it. 
+请你不要把你的书放在我的桌子上。	qing3 ni3 bu2yao4 ba3 ni3 de5 shu1 fang4 zai4 wo3 de5 zhuo1zi5 shang4。	Please don't put your books on my desk. 
+不舒服	bu4 shu1fu5	(of a person) not very well, be under the weather 
+我今天不舒服, 不能去上班。	wo3 jin1tian1 bu4 shu1fu5, bu4neng2 qu4 shang4ban1。	I'm unwell today and won't be able to go to work. 
+医生: 你什么地方不舒服?	yi1sheng1 ni3 shen2me5 di4fang5 bu4 shu1fu5	Doctor: What spot ails you? (→What's wrong with you?)  
+如果你明天不舒服, 就不用来了。	ru2guo3 ni3 ming2tian1 bu4 shu1fu5, jiu4 bu4 yong4lai2 le5。	If you're not well tomorrow, you don't have to come. 
+你不能只想到自己。	ni3 bu4neng2 zhi3 xiang3dao4 zi4ji3。	You mustn't think of yourself only. 
+今天下午上体育课, 我不能穿皮鞋。	jin1tian1 xia4wu3 shang4 ti3yu4 ke4, wo3 bu4neng2 chuan1 pi2xie2。	I'm having a PE class this afternoon, so I can't wear leather shoes today. 
+我能不能请教您一个问题?	wo3 neng2 bu4neng2 qing3jiao4 nin2 yi1 ge4 wen4ti2	Could I ask you a question, please? 
+我会游泳, 但是今天不能去游泳, 因为我感冒了。	wo3 hui4 you2yong3, dan4shi4 jin1tian1 bu4neng2 qu4 you2yong3, yin1wei4 wo3 gan3mao4 le5。	I can swim, but I'm not able to today because I've got a cold. 
+图书馆里不能吃东西。	tu2shu1guan3 li3 bu4neng2 chi1 dong1xi5。	No food in the library.  
+这个问题不简单, 要好好想一想。	zhe4ge5 wen4ti2 bu4jian3dan1, yao4 hao3hao1 xiang3yi1xiang3。	This question is not a simple one. It needs careful consideration. 
+“你知道他的名字吗?”“不知道。”	“ ni3 zhi1dao5 ta1 de5 ming2zi5 ma5”“ bu4zhi1dao4。”	“Do you know his name?” “No.” 
+你不知道图书馆在哪儿? 我带你去。	ni3 bu4zhi1dao4 tu2shu1guan3 zai4 na3r5 wo3 dai4 ni3 qu4。	You don't know where the library is? I'll take you there. 
+我就是不睡觉, 也要做完这个作业。	wo3 jiu4 shi4bu5 shui4jiao4, ye3 yao4 zuo4wan2 zhe4ge5 zuo4ye4。	Even if I don't sleep, I must finish this assignment. 
+这些衣服很干净, 不用洗。	zhe4xie1 yi1fu5 hen3 gan1jing4, bu2yong4 xi3。	These clothes are clean. They don't need washing. 
+老师, 黑板上的字我看不清楚。	lao3shi1, hei1ban3 shang4 de5 zi4 wo3 kan4bu5qing1chu5。	Teacher, I can't see the words on the blackboard clearly. 
+旧的不去, 新的不来。	jiu4 de5 bu4 qu4, xin1 de5 bu4 lai2。	If the old doesn't go, the new won't come.  (→ If you don't discard old stuff, you won't have new things.) 
+差不多十二点了, 她怎么还不来上班?	cha4bu5duo1 shi2er4 dian3 le5, ta1 zen3me5 hai2 bu4 lai2 shang4ban1	It's almost twelve o'clock. Why hasn't she turned up for work? 
+那个不是我的, 我的在这里。	na4ge5 bu2shi5 wo3 de5, wo3 de5 zai4 zhe4li5。	That one is not mine. Mine's here. 
+五分钟不是一段很长的时间。	wu3 fen1zhong1 bu2shi5 yi1 duan4 hen3 zhang3 de5 shi2jian1。	Five minutes is not a long time. 
+她说懂了, 其实她还是不明白。	ta1 shuo1 dong3 le5, qi2shi2 ta1 hai2shi5 bu4 ming2bai5。	She said she understood, but actually she still didn't comprehend it. 
+这条鱼不新鲜了。	zhe4 tiao2 yu2 bu4 xin1xian1 le5。	This fish is no longer fresh. 
+你一个人去爬山, 我不放心。	ni3 yi2 ge5 ren2 qu4 pa2shan1, wo3 bu4 fang4xin1。	I'd be worried if you go mountain-climbing all by yourself. 
+我不打算买什么。	wo3 bu4 da3suan4 mai3 shen2me5。	I don't intend to buy anything. 
+我不懂你的意思。	wo3 bu4 dong3 ni3 de5 yi4si5。	I don't understand what you mean. 
+你愿意去就去, 你不愿意去就别去。	ni3 yuan4yi4 qu4jiu4 qu4, ni3 bu4 yuan4yi4 qu4jiu4 bie2 qu4。	If you're willing to go, you can go; if you're not willing to go, you don't have to go. 
+你不愿意去, 就别去了。	ni3 bu4 yuan4yi4 qu4, jiu4 bie2 qu4le5。	If you don't want to go, then don't go. 
+我对小说不感兴趣。	wo3 dui4 xiao3shuo1 bu4 gan3 xing4qu4。	I'm not interested in fiction. 
+我不想为难你。	wo3 bu4xiang3 wei2nan2 ni3。	I don't want to make things difficult for you. 
+这把椅子很舒服, 你坐下去就不想起来了。	zhe4 ba3 yi3zi5 hen3 shu1fu5, ni3 zuo4 xia4qu5 jiu4 bu4xiang3 qi3lai5 le5。	This chair is very comfortable. Sit on it and you don't want to get up. 
+昨天热得不得了。	zuo2tian1 re4 de5 bu4de2liao3。	It was extremely hot yesterday. 
+离不开	li2bu5kai1	cannot do without 
+这件衣服洗不干净了。	zhe4 jian4 yi1fu5 xi3 bu4 gan1jing4 le5。	This dress cannot be washed clean. 
+不少大学生一边学习一边工作。	bu4shao3 da4xue2sheng1 yi4bian1 xue2xi2 yi4bian1 gong1zuo4。	Quite a few university students study and work at the same time. 
+我在这个城市有不少好朋友。	wo3 zai4 zhe4ge5 cheng2shi4 you3 bu4shao3 hao3 peng2you5。	I have quite a few good friends in this city. 
+我认为你说得不对。	wo3 ren4wei2 ni3 shuo1de5 bu4dui4。	I think what you said is incorrect. 
+他回答得对不对?	ta1 hui2da2 de5 dui4 bu4dui4	Did he answer correctly? 
+你说得不对。	ni3 shuo1de5 bu4dui4。	You're not correct. 
+不客气。	bu4ke4qi4。	You don't have to be so polite. 
+“谢谢你。”“不客气。”	“ xie4xie5 ni3。”“ bu4ke4qi4。”	“Thank you.” “You're welcome.” 
+那个菜不好吃, 我只吃了一点儿。	na4ge5 cai4 bu4 hao3chi1, wo3 zhi3 chi1 le5 yi4dian3r5。	That dish is not tasty. I ate only a tiny bit of it. 
+借口身体不好不上班	jie4kou3 shen1ti3 bu4hao3 bu4 shang4ban1	use poor health as an excuse for not going to work 
+又让你送我礼物, 真不好意思。	you4 rang4 ni3 song4 wo3 li3wu4, zhen1 bu4 hao3yi4si5。	Oh, you gave me a gift again, it's embarrassing. 
+不好意思, 我又迟到了。	bu4 hao3yi4si5, wo3 you4 chi2dao4 le5。	I'm sorry I'm late again. 
+我开始觉得中文非常难, 现在觉得不太难了。	wo3 kai1shi3 jue2de5 Zhong1wen2 fei1chang2 nan2, xian4zai4 jue2de5 bu4tai4 nan2 le5。	At the beginning I found Chinese very difficult, but now I think it's not too difficult. 
+这件衣服不太旧, 还可以穿。	zhe4 jian4 yi1fu5 bu4tai4 jiu4, hai2 ke3yi3 chuan1。	This jacket is not too old. It can still be worn. 
+这件工作不太难。	zhe4 jian4 gong1zuo4 bu4tai4 nan2。	This job is not too difficult. 
+他不久以前身体不大好。	ta1 bu4jiu3 yi3qian2 shen1ti3 bu4 da4hao3。	He was in poor health not long ago. 
+我经常用电脑, 不大写字。	wo3 jing1chang2 yong4 dian4nao3, bu2da4 xie3zi4。	I often use computers and seldom write with a pen. 
+他今天好像不大高兴, 你知道为什么吗?	ta1 jin1tian1 hao3xiang4 bu2da4 gao1xing4, ni3 zhi1dao5 wei4shen2me5 ma5	He looks unhappy today. Do you know why? 
+这个城市不大, 但是很漂亮。	zhe4ge5 cheng2shi4 bu2da4, dan4shi4 hen3 piao4liang5。	This city is not big, but it's quite beautiful. 
+今天不大热。	jin1tian1 bu2da4 re4。	Today is not very hot. 
+我对中国文化知道得不多。	wo3 dui4 Zhong1guo2 wen2hua4 zhi1dao5 de5 bu4 duo1。	I don't know much about Chinese culture. 
+今天的作业不多。	jin1tian1 de5 zuo4ye4 bu4 duo1。	There isn't much homework today. 
+你喜欢不喜欢中国音乐?	ni3 xi3huan5 bu4 xi3huan5 Zhong1guo2 yin1yue4	Do you like Chinese music? 
+我不喜欢他。	wo3 bu4 xi3huan5 ta1。	I don't like him. 
+你不喜欢吃米饭, 那吃面包吧。	ni3 bu4 xi3huan5 chi1 mi3fan4, na4 chi1 mian4bao1 ba5。	You don't like rice; in that case eat bread. 
+我不喜欢穿黑颜色的衣服。	wo3 bu4 xi3huan5 chuan1 hei1 yan2se5 de5 yi1fu5。	I don't like to wear black. 
+这个女孩子长得很漂亮, 但是大家都不喜欢她。	zhe4ge5 nü3 hai2zi5 zhang3 de5 hen3 piao4liang5, dan4shi4 da4jia1 dou1 bu4 xi3huan5 ta1。	This girl is quite pretty, but nobody likes her. 
+他从来不向人借钱, 也不借钱给别人。	ta1 cong2lai2 bu4 xiang4 ren2 jie4qian2, ye3 bu4 jie4qian2 gei3 bie2ren5。	He never borrows money, nor does he lend money to others. 
+今天我太累了, 不去游泳了。	jin1tian1 wo3 tai4 lei3 le5, bu4 qu4 you2yong3 le5。	Today I'm too tired to go swimming. 
+今天不冷。	jin1tian1 bu4 leng3。	It's not cold today. 
+这家饭店的菜不但好吃, 而且好看。	zhe4 jia1 fan4dian4 de5 cai4 bu2dan4 hao3chi1, er2qie3 hao3kan4。	The dishes in this restaurant are not only delicious but also beautiful. 
+我才认识他, 对他还不了解。	wo3 cai2 ren4shi5 ta1, dui4 ta1 hai2 bu4 liao3jie3。	I came to know him not long ago, and I don't know him very well. 
+这件衣服大了一点儿, 而且比较贵, 还是不买吧。	zhe4 jian4 yi1fu5 da4 le5 yi4dian3r5, er2qie3 bi3jiao3 gui4, hai2shi5 bu4 mai3 ba5。	This dress is a bit too big and also expensive. You shouldn't buy it. 
+不久以前	bu4jiu3 yi3qian2	not long ago 
+这个房间太小, 坐不下二十个人。	zhe4ge5 fang2jian1 tai4 xiao3, zuo4bu5xia4 er4shi2 ge4ren2。	This room is too small. It can't seat twenty people. 
+请大家注意! 明天张老师要开一个重要的会, 所以不上课。	qing3 da4jia1 zhu4yi4 ming2tian1 zhang1 lao3shi1 yao4 kai1 yi1 ge4 zhong4yao4 de5 hui4, suo3yi3 bu4 shang4 ke4。	Attention, please! Tomorrow Teacher Zhang will be attending an important meeting, so there will be no class. 
+从来不	cong2lai2 bu4	never 
+种菜	zhong4 cai4	grow vegetables 
+买菜	mai3 cai4	buy non-staple food, do grocery shopping 
+中国菜	Zhong1guo2cai4	Chinese dishes, Chinese food 
+我们每个人点一个菜, 好吗?	wo3men5 mei3 ge4ren2 dian3 yi1 ge4 cai4, hao3 ma5	Shall we each order a dish? 
+你要什么菜?	ni3 yao4 shen2me5 cai4	Which dish do you want? (or What would you like to order?) 
+我太太要我下班回家的路上买些菜。	wo3 tai4tai5 yao4 wo3 xia4ban1 hui2jia1 de5 lu4shang5 mai3 xie1 cai4。	My wife wants me to buy some vegetables on my way home after work. 
+这个菜又好看又好吃, 是谁做的?	zhe4ge5 cai4 you4 hao3kan4 you4 hao3chi1, shi4 shui2 zuo4 de5	This dish is both beautiful and delicious. Who cooked it? 
+你说说, 这个菜怎么做?	ni3 shuo1shuo5, zhe4ge5 cai4 zen3me5 zuo4	Will you tell me how to cook this dish? 
+那家饭店的菜是不错。	na4 jia1 fan4dian4 de5 cai4 shi4 bu2cuo4。	That restaurant's food is indeed quite good. 
+菜碗	cai4wan3	a dish bowl, big bowl 
+我可以很容易地再做个菜。	wo3 ke3yi3 hen3 rong2yi4 di4 zai4 zuo4 ge4 cai4。	I can easily cook another dinner. 
+先生, 可以请您点菜了吗？	xian1sheng5, ke3yi3 qing3 nin2 dian3 cai4 le5 ma5？	May I take your order, sir? 
+“你喜欢中国菜吗？”“喜欢。”	“ ni3 xi3huan5 Zhong1guo2cai4 ma5？”“ xi3huan5。”	“Don't you like Chinese food?” “Yes, I do.” 
+您喝红茶还是绿茶?	nin2 he1 hong2cha2 hai2shi5 lü4cha2	Do you drink black tea or green tea? 
+红茶	hong2cha2	black tea 
+绿茶	lü4cha2	green tea 
+喝茶	he1 cha2	drink tea 
+请喝茶!	qing3 he1 cha2	Have some tea, please! 
+你喝茶还是喝咖啡?	ni3 he1 cha2 hai2shi5 he1 ka1fei1	Would you like tea or coffee? 
+我可以再要点茶吗？	wo3 ke3yi3 zai4 yao4dian3 cha2 ma5？	May I have some more tea? 
+吃不饱	chi1 bu5 bao3	not have enough to eat (→ not have enough food) 
+你最喜欢吃哪种水果?	ni3 zui4 xi3huan5 chi1 na3 zhong3 shui3guo3	What kind of fruit do you like best? 
+吃完	chi1wan2	finish eating, eat up 
+吃得饱	chi1 de5 bao3	have enough to eat 
+吃药	chi1 yao4	take medicine 
+您吃饱了吗?	nin2 chi1bao3 le5 ma5	Have you had  (← eaten) enough? 
+他今天什么东西都没有吃。	ta1 jin1tian1 shen2me5 dong1xi5 dou1 mei2you3 chi1。	He hasn't eaten a thing today. 
+她昨天晚上吃得很少。	ta1 zuo2tian1 wan3shang5  chi1 de5hen3 shao3。	She ate very little last night. 
+吃饱了, 谢谢。	chi1bao3 le5, xie4xie5。	I'm full. Thanks. 
+他来的时候, 我正在打电话。	ta1 lai2 de5 shi2hou5, wo3 zheng4zai4 da3 dian4hua4。	I was on the phone when he came. 
+您太太刚才打电话来。	nin2 tai4tai5 gang1cai2 da3 dian4hua4 lai2。	Your wife called just now. 
+我现在没有时间, 晚上再打电话给他。	wo3 xian4zai4 mei2you3 shi2jian1, wan3shang5 zai4 da3 dian4hua4 gei3 ta1。	I don't have time now, I'll ring him this evening. 
+我明天上午给你打电话。	wo3 ming2tian1 shang4wu3 gei3 ni3 da3 dian4hua4。	I'll call you tomorrow morning. 
+她打电话来要他马上回家。	ta1 da3 dian4hua4 lai2 yao4 ta1 ma3shang4 hui2jia1。	She called to ask him to go home at once. 
+我每次给他打电话, 他都在电脑上。	wo3 mei3 ci4 gei3 ta1 da3 dian4hua4, ta1 dou1 zai4 dian4nao3 shang4。	Every time I call him, he's on the computer. 
+老大	lao3 da4	the eldest child 
+这个太大, 给我小一点儿的。	zhe4ge5 tai4 da4, gei3 wo3 xiao3 yi4dian3r5 de5。	This one is too big. Give me a smaller one. 
+这张照片请放大。	zhe4 zhang1 zhao4pian4 qing3 fang4da4。	Please enlarge this photo. 
+中国非常大。	Zhong1guo2 fei1chang2 da4。	China is very big. 
+天气变化很大。	tian1qi4 bian4hua4 hen3 da4。	The weather changes dramatically. 
+我爷爷种的树都长大了。	wo3 ye2ye5 zhong3 de5 shu4 dou1 zhang3da4 le5。	The trees that my grandfather planted have all matured. 
+老先生, 您多大了?	lao3 xian1sheng5, nin2 duo1 da4 le5	How old are you, sir? 
+你已经是大人了, 怎么还和孩子一样?	ni3 yi3jing1 shi4 da4ren5 le5, zen3me5 hai2 he2 hai2zi5 yi2yang4	You're a grown-up. How can you behave like a child? 
+大会	da4hui4	an assembly, a rally 
+几乎每一家大公司都想跟中国做买卖。	ji1hu1 mei3 yi1jia1 da4 gong1si1 dou1 xiang3 gen1 Zhong1guo2 zuo4 mai3mai5。	Almost every corporation wants to do business with China. 
+这些年来这个城市没有多大变化。	zhe4xie1 nian2lai2 zhe4ge5 cheng2shi4 mei2you3 duo1 da4 bian4hua4。	This city has not had much change over these years. 
+我喜欢住在大城市里。	wo3 xi3huan5 zhu4 zai4 da4 cheng2shi4 li3。	I like to live in big cities. 
+大城市	da4 cheng2shi4	big city, metropolis 
+我的朋友大多是我的同学。	wo3 de5 peng2you5 da4duo1 shi4 wo3 de5 tong2xue2。	Most of my friends are my schoolmates. 
+请大家安静!	qing3 da4jia1 an1jing4	Please be quiet, everyone! 
+我们大家	wo3men5 da4jia1	all of us 
+说得大家都笑了起来	shuo1 de5 da4jia1 dou1 xiao4le5 qi3lai2	talk in such a way that everybody starts laughing 
+我们大家努力工作, 为了更好的明天。	wo3men5 da4jia1 nu3li4 gong1zuo4, wei4le5 geng4hao3 de5 ming2tian1。	We all work hard for a better tomorrow. 
+校长走进教室, 大家都站起来。	xiao4zhang3 zou3jin4 jiao4shi4, da4jia1 dou1 zhan4 qi3lai5。	When the principal entered the classroom, everybody stood up. 
+大家都很关心这件事情。	da4jia1 dou1 hen3 guan1xin1 zhe4 jian4 shi4qing5。	Everybody is concerned over this matter. 
+教室大楼	jiao4shi4 da4lou2	classroom block 
+大楼	da4lou2	a big building (especially a high-rise building) 
+大笑	da4xiao4	laugh 
+学校晚上十一点半关大门。	xue2xiao4 wan3shang5 shi2 yi1dian3 ban4 guan1 da4men2。	The school gate closes at 11:30 p.m. 
+大门	da4men2	gate 
+她给每个孩子一大块蛋糕。	ta1 gei3 mei3 ge4 hai2zi5 yi1 da4kuai4 dan4gao1。	She gave every child a big piece of the cake. 
+昨天大多时间都在下雨。	zuo2tian1 da4duo1 shi2jian1 dou1 zai4 xia4 yu3。	It rained for most of the day yesterday. 
+请大家听我说。	qing3 da4jia1 ting1 wo3 shuo1。	May I have your attention, please. 
+大家都准备好做游戏了吗？	da4jia1 dou1 zhun3bei4 hao3 zuo4 you2xi4 le5 ma5？	Is everyone ready for the game? 
+请大家坐下。	qing3 da4jia1 zuo4xia5。	Would everyone please be seated? 
+她是阿姨带大的。	ta1 shi4 a1yi2 dai4da4 de5。	She was brought up by her aunt. 
+妈妈给我做了一个很大的生日蛋糕。	ma1ma5 gei3 wo3 zuo4 le5 yi1 ge4 hen3 da4 de5 sheng1ri4 dan4gao1。	Mom made a big birthday cake for me. 
+我们第一次是在什么地方见面的, 你还记得吗?	wo3men5 di4 yi1ci4 shi4 zai4 shen2me5 di4fang5 jian4mian4 de5, ni3 hai2 ji4de5 ma5	Do you still remember where we first met? 
+哪辆自行车是你的?	na3 liang4 zi4xing2che1 shi4 ni3 de5	Which bicycle is yours? 
+这辆自行车是我的, 那辆自行车是我弟弟的。	zhe4 liang4 zi4xing2che1 shi4 wo3 de5, na4 liang4 zi4xing2che1 shi4 wo3 di4di5 de5。	This bike is mine. That one is my younger brother's. 
+人家能做到的, 我也能做到。	ren2jia5 neng2 zuo4dao4 de5, wo3 ye3 neng2 zuo4dao4。	What others can achieve, I can too. 
+这家商店是卖什么的?	zhe4 jia1 shang1dian4 shi4 mai4 shen2me5de5	What does this store sell? 
+这种可能是有的。	zhe4zhong3 ke3neng2 shi4 you3de5。	This is possible. 
+别开玩笑了, 我是说真的。	bie2 kai1 wan2xiao4 le5, wo3 shi4 shuo1 zhen1 de5。	It is no joke; I mean what I say. 
+你认识她的丈夫吗?	ni3 ren4shi5 ta1 de5 zhang4fu5 ma5	Do you know her husband? 
+她的丈夫是外地人。	ta1 de5 zhang4fu5 shi4 wai4di4ren2。	Her husband is from another part of the country. 
+这家商店的东西很贵。	zhe4 jia1 shang1dian4 de5 dong1xi5 hen3 gui4。	The goods in this shop are all very expensive. 
+我听得懂一些简单的中文。	wo3 ting1de2dong3 yi4xie1 jian3dan1 de5 Zhong1wen2。	I can understand a little simple spoken Chinese. 
+我的中文水平不高, 请您多多帮助。	wo3 de5 Zhong1wen2 shui3ping2 bu4 gao1, qing3 nin2 duo1duo1 bang1zhu4。	My proficiency in Chinese is not very high. Please help me. 
+我要提高自己的中文水平。	wo3 yao4 ti2gao1 zi4ji3 de5 Zhong1wen2 shui3ping2。	I want to raise my proficiency in Chinese. 
+为难的事情	wei2nan2 de5 shi4qing2	something one finds difficult to cope with, some perplexing matter 
+现在胖的人越来越多了。	xian4zai4 pang4 de5 ren2 yue4lai2yue4 duo1 le5。	There are more and more fat people now. 
+明天的会你千万别迟到。	ming2tian1 de5 hui4 ni3 qian1wan4 bie2 chi2dao4。	Be sure not to be late for tomorrow's meeting. 
+明天的会非常重要, 请您一定参加。	ming2tian1 de5 hui4 fei1chang2 zhong4yao4, qing3 nin2 yi2ding4 can1jia1。	The meeting tomorrow is very important. Please be sure to attend it. 
+妈妈总是关心孩子的健康。	ma1ma5 zong3shi4 guan1xin1 hai2zi5 de5 jian4kang1。	Mothers are always concerned about their children's health. 
+你试试我的办法。	ni3 shi4shi4 wo3 de5 ban4fa3。	Do try my method. 
+老师的办公室在三楼。	lao3shi1 de5 ban4gong1shi4 zai4 san1 lou2。	Teachers' offices are on the third floor. 
+请问, 最近的医院在哪儿?	qing3wen4, zui4jin4 de5 yi1yuan4 zai4 na3r5	Excuse me, where is the nearest hospital? 
+中国的历史很长。	Zhong1guo2 de5 li4shi3 hen3 zhang3。	China has a long history. 
+你知道这个城市的历史吗?	ni3 zhi1dao5 zhe4ge5 cheng2shi4 de5 li4shi3 ma5	Do you know the history of this city? 
+中国的历史非常长, 有三千多年。	Zhong1guo2 de5 li4shi3 fei1chang2 zhang3, you3 san1qian1 duo1nian2。	China has a very long history of over three thousand years. 
+我很想认真了解中国的历史, 只是没有时间。	wo3 hen3xiang3 ren4zhen1 liao3jie3 Zhong1guo2 de5 li4shi3, zhi3shi4 mei2you3 shi2jian1。	I'd like to learn Chinese history earnestly, it's just that I don't have the time. 
+“他是谁?”“他是我的同学。”	“ ta1 shi4 shui2”“ ta1 shi4 wo3 de5 tong2xue2。”	“Who's he?” “He's my classmate.” 
+中国是世界上人口最多的国家。	Zhong1guo2 shi4 shi4jie4 shang5 ren2kou3 zui4duo1 de5 guo2jia1。	China is the most populous country in the world. 
+我们学校的图书馆没有多少中文书。	wo3men5 xue2xiao4 de5 tu2shu1guan3 mei2you3 duo1shao3 zhong1 wen2shu1。	The library in our school doesn't have many Chinese books. 
+“你从哪里来?”“我从很远的地方来。”	“ ni3 cong2 na3li5 lai2”“ wo3 cong2 hen3 yuan3 de5 di4fang5 lai2。”	“Where did you come from?” “I came from a faraway place.” 
+他在公司里有很高的地位。	ta1 zai4 gong1si1 li3 you3 hen3 gao1 de5 di4wei4。	He holds a high position in the company. 
+他说话的声音很好听。	ta1 shuo1hua4 de5 sheng1yin1 hen3 hao3ting1。	The voice he speaks in is pleasant. (→ He has a pleasant voice.) 
+她的声音很好听。	ta1 de5 sheng1yin1 hen3 hao3ting1。	Her voice is pleasant. 
+明天的天气怎么样?	ming2tian1 de5 tian1qi4 zen3me5yang4	How will the weather be tomorrow? 
+今天的太阳真好。	jin1tian1 de5 tai4yang5 zhen1 hao3。	The sunshine's beautiful today. 
+那个穿着红衣服的女孩子是我哥哥的女朋友。	na4ge5 chuan1zhe5 hong2 yi1fu5 de5 nü3 hai2zi5 shi4 wo3 ge1ge5 de5 nü3peng2you5。	The girl in red is my elder brother's girlfriend. 
+她是我班上的女同学。	ta1 shi4 wo3 ban1 shang4 de5 nü3 tong2xue2。	She's a girl student from my class. 
+把你看做我的好朋友	ba3 ni3 kan4 zuo4 wo3de5 hao3 peng2you5	(I) regard you as my good friend, take you for my good friend 
+一直往东走, 就是我们的学校。	yi4zhi2 wang3 dong1 zou3, jiu4shi4 wo3men5 de5 xue2xiao4。	Walk straight towards the east and you'll come to our school. 
+附近的学校都很好。	fu4jin4 de5 xue2xiao4 dou1 hen3 hao3。	The schools nearby (or in this area) are all very good. 
+他是个认真的学生。	ta1 shi4 ge4 ren4zhen1 de5 xue2sheng5。	He's a conscientious student. 
+他的学习成绩一般。	ta1 de5 xue2xi2 cheng2ji4 yi4ban1。	His school record is average. 
+我终于找到了他的家。	wo3 zhong1yu2 zhao3dao4 le5 ta1 de5 jia1。	I finally found his home. 
+我在前面走, 我的小狗在后面跟。	wo3 zai4 qian2mian5 zou3, wo3 de5 xiao3 gou3 zai4 hou4mian5 gen1。	I walked in front and my puppy followed behind. 
+它是我的小狗。	ta1 shi4 wo3 de5 xiao3 gou3。	It's my puppy. 
+自己的工作自己做。	zi4ji3 de5 gong1zuo4 zi4ji3 zuo4。	Each must do their own work. 
+你的意思很清楚, 我明白。	ni3 de5 yi4si5 hen3 qing1chu5, wo3 ming2bai5。	Your meaning is clear. I understand it. 
+他的意思是你最好别去。	ta1 de5 yi4si5 shi4 ni3 zui4hao3 bie2 qu4。	What he meant is that you'd better not go. 
+有空调的房间	you3 kong4tiao2 de5 fang2jian1	air-conditioned room 
+我的手表慢了, 你的手表几点?	wo3 de5 shou3biao3 man4 le5, ni3 de5 shou3biao3 ji3 dian3	My watch is slow. What time is it by your watch? 
+“你在找什么?”“我在找我的手表。”	“ ni3 zai4 zhao3 shen2me5”“ wo3 zai4 zhao3 wo3 de5 shou3biao3。”	“What are you looking for?” “I'm looking for my watch.” 
+他总是班上最差的。	ta1 zong3shi4 ban1 shang4 zui4 cha1 de5。	He is always at the bottom of the class. 
+让每个人都满意, 是很难的。	rang4 mei3 ge4ren2 dou1 man3yi4, shi4 hen3 nan2 de5。	It's difficult to please everyone. 
+你能借给我你的中文词典吗？	ni3 neng2 jie4gei3 wo3 ni3 de5 Zhong1wen2 ci2dian3 ma5？	Can you lend me your Chinese dictionary? 
+我们的中文老师是中国北方人。	wo3men5 de5 Zhong1wen2 lao3shi1 shi4 Zhong1guo2 bei3fang1ren2。	Our Chinese teacher is a native of Northern China. 
+如果你说简单的中文, 我就听得懂。	ru2guo3 ni3 shuo1 jian3dan1 de5 Zhong1wen2, wo3 jiu4 ting1de2dong3。	If you say it in simple Chinese, I can understand you. 
+越来越少的人想要有很多孩子。	yue4lai2yue4 shao3 de5 ren2 xiang3yao4 you3 hen3 duo1 hai2zi5。	Fewer and fewer people want a large family. 
+“一个三十多岁的人还年轻吗？”“这要看起来。”	“ yi1 ge4 san1shi2 duo1 sui4 de5 ren2 hai2 nian2qing1 ma5？”“ zhe4 yao4 kan4qi5lai5。”	“Is a man in his early thirties still young?” “It depends.” 
+你能参加明天的会议吗？	ni3 neng2 can1jia1 ming2tian1 de5 hui4yi4 ma5？	Will you be able to attend the meeting tomorrow? 
+校长的办公室在二楼。	xiao4zhang3 de5 ban4gong1shi4 zai4 er4lou2。	The principal's office is on the second floor. 
+能给我点喝的吗？	neng2 gei3 wo3 dian3 he1 de5 ma5？	Can you get me something to drink? 
+你真的太好了。	ni3 zhen1 de5 tai4 hao3le5。	You're so kind. 
+他的妻子比他小十岁。	ta1 de5 qi1zi5 bi3 ta1 xiao3 shi2 sui4。	His wife is 10 years his junior. 
+我们的学校里女老师太多了。	wo3men5 de5 xue2xiao4 li3 nü3 lao3shi1 tai4 duo1 le5。	There are too many female teachers in our schools. 
+出发点	chu1fa1dian3	starting point, point of departure 
+水点	shui3 dian3	water stain 
+你比他高一点。	ni3 bi3 ta1 gao1 yi1dian3。	You're a bit taller than he is. 
+三点一刻	san1 dian3 yi2 ke4	a quarter past three 
+十二点三五	shi2er4 dian3 san1 wu3	12.35 (twelve point three five) 
+我昨天看完电视已经十二点了。	wo3 zuo2tian1 kan4wan2 dian4shi4 yi3jing1 shi2er4 dian3 le5。	It was already twelve o'clock when I finished watching TV last night. 
+已经十二点了, 女儿还没有回家, 妈妈很着急。	yi3jing1 shi2er4 dian3 le5, nü3er2 hai2 mei2you3 hui2jia1, ma1ma5 hen3 zhao2ji2。	It was almost twelve o'clock and her daughter was still not home. The mother felt very worried. 
+现在是十点二十分。	xian4zai4 shi4 shi2 dian3 er4 shi2fen1。	It's 10:20 now. 
+妹妹比我矮一点儿。	mei4mei5 bi3 wo3 ai3 yi4dian3r5。	My younger sister is a bit shorter than me. 
+我去商店买一点儿东西, 很快就回来。	wo3 qu4 shang1dian4 mai3 yi4dian3r5 dong1xi5, hen3 kuai4 jiu4 hui2lai5。	I'll go to the store to do a little shopping and will be back soon. 
+这条裤子短了一点儿。	zhe4 tiao2 ku4zi5 duan3 le5 yi4dian3r5。	This pair of trousers is a bit too short. 
+我会说一点儿中文了。	wo3 hui4shuo1 yi4dian3r5 Zhong1wen2 le5。	I can speak a bit of Chinese now. 
+我想买便宜一点儿的衣服。	wo3 xiang3 mai3 pian2yi5 yi4dian3r5 de5 yi1fu5。	I want to buy less expensive clothes. 
+我有一点儿累, 想休息一会儿。	wo3 you3yi4dian3r5 lei3, xiang3 xiu1xi5 yi2hui4r5。	I'm a bit tired. I want to take a little break. 
+我从上午九点到下午三点都要上课。	wo3 cong2 shang4wu3 jiu3 dian3 dao4 xia4wu3 san1dian3 dou1 yao4 shang4 ke4。	I've classes from nine o'clock in the morning till three o'clock in the afternoon. 
+三点四	san1 dian3 si4	3.4 (three point four) 
+现在是十一点差五分。	xian4zai4 shi4 shi2 yi1dian3 cha1 wu3fen1。	It's five to eleven now. 
+我口渴, 我想喝点水。	wo3 kou3ke3, wo3 xiang3 he1 dian3 shui3。	I'm thirsty. I'd like to drink some water. 
+我会说一点汉语。	wo3 hui4shuo1 yi1dian3 Han4yu3。	I speak a little Chinese. 
+下次你得小心一点。	xia4ci4 ni3 de5 xiao3xin1 yi1dian3。	You've got to be more careful next time. 
+她的工作是从九点到五点。	ta1 de5 gong1zuo4 shi4 cong2 jiu3 dian3 dao4 wu3 dian3。	She has a nine-to-five job. 
+我得先喝点东西。	wo3 de5 xian1 he1 dian3 dong1xi5。	I've got to get myself something to drink first. 
+我要点今天的鱼, 你呢？	wo3 yao4dian3 jin1tian1 de5 yu2, ni3 ne5？	I'll order the fish of the day. How about you? 
+你今天好一点儿了吗？	ni3 jin1tian1 hao3 yi4dian3r5 le5 ma5？	Are you any better today? 
+下次你得更小心一点儿。	xia4ci4 ni3 de5 geng4 xiao3xin1 yi4dian3r5。	You'll have to be more careful next time. 
+现在两点十分。	xian4zai4 liang3 dian3 shi2fen1。	It's ten past two. 
+现在是十二点差四分。	xian4zai4 shi4 shi2er4 dian3 cha1 si4fen1。	It's four minutes to 12 o'clock. 
+你有点累了, 是吗？	ni3 you3dian3 lei3 le5, shi4 ma5？	You're a bit tired, aren't you? 
+对你奶奶要好一点！	dui4 ni3 nai3nai5 yao4hao3 yi1dian3！	Be nice to your grandma! 
+你说话注意点！	ni3 shuo1hua4 zhu4yi4 dian3！	Watch your tongue! 
+我的电脑	wo3 de5 dian4nao3	my computer 
+更换旧电脑	geng1huan4 jiu4 dian4nao3	replace old computer(s) 
+我们公司需要电脑人才。	wo3men5 gong1si1 xu1yao4 dian4nao3 ren2cai2。	Our company needs people with computer skills. 
+我们可以把你买的电脑送到你家。	wo3men5 ke3yi3 ba3 ni3 mai3 de5 dian4nao3 song4dao4 ni3 jia1。	We can deliver the computer you've bought to your home. 
+我在电脑上工作, 她在听音乐。	wo3 zai4 dian4nao3 shang4 gong1zuo4, ta1 zai4 ting1 yin1yue4。	As I was working on the computer, she was listening to music. 
+新电脑花了我一千多开钱。	xin1 dian4nao3 hua1le5 wo3 yi1qian1 duo1 kai1 qian2。	The new computer cost me over 1,000 dollars. 
+“从一到十, 你给这个电脑游戏几分？”“我给它七分。”	“ cong2 yi1 dao4 shi2, ni3 gei3 zhe4ge5 dian4nao3 you2xi4 ji3fen1？”“ wo3 gei3 ta1 qi1 fen1。”	“On a scale from 1 to 10, how would you rate this computer game?” “I'd give it a 7.” 
+我用完电脑了, 你要用可以用。	wo3 yong4wan2 dian4nao3 le5, ni3 yao4 yong4 ke3yi3 yong4。	I'm through with the computer now if you still need it. 
+这是我上星期买的电脑。	zhe4 shi4 wo3 shang4 xing1qi1 mai3 de5 dian4nao3。	This is the computer which I bought last week. 
+看电视	kan4 dian4shi4	watch TV 
+“今天晚上的电视有没有好节目?”“没有。”	“ jin1tian1 wan3shang5  de5 dian4shi4 you3 mei2you3 hao3 jie2mu4”“ mei2you3。”	“Are there any good programs on TV tonight?” “No.” 
+我很少看电视。	wo3 hen3 shao3 kan4 dian4shi4。	I seldom watch TV. 
+昨天的电视我只看了一会儿。	zuo2tian1 de5 dian4shi4 wo3 zhi3 kan4 le5 yi2hui4r5。	Yesterday I watched TV for a very short time only. 
+我看一下电视就去洗澡。	wo3 kan4 yi2xia4 dian4shi4 jiu4 qu4 xi3zao3。	I'll watch TV for a short while before taking a bath. 
+他正在看电视。	ta1 zheng4zai4 kan4 dian4shi4。	He's watching TV. 
+你在看什么电视节目？	ni3 zai4 kan4 shen2me5 dian4shi4 jie2mu4？	What television program are you watching? 
+别说话了, 电影开始了。	bie2shuo1 hua4 le5, dian4ying3 kai1shi3 le5。	Don't talk. (→ Stop talking.) The movie has started. 
+这个电影不错。	zhe4ge5 dian4ying3 bu2cuo4。	This movie is rather good. 
+看电影	kan4 dian4ying3	watch a film, go to the movies. 
+电影票	dian4ying3piao4	film ticket 
+我昨天看的电影很有意思。	wo3 zuo2tian1 kan4 de5 dian4ying3 hen3 you3 yi4si5。	The film I saw yesterday was very interesting. 
+这个电影我没有看懂。	zhe4ge5 dian4ying3 wo3 mei2you3 kan4dong3。	I didn't understand that movie. 
+我们今天去看电影还是明天去?	wo3men5 jin1tian1 qu4 kan4 dian4ying3 hai2shi5 ming2tian1 qu4	Shall we go and see the movie today or tomorrow? 
+电影什么时候结束?	dian4ying3 shen2me5 shi2hou5 jie2shu4	When does the movie end? 
+那个电影没有意思。	na4ge5 dian4ying3 mei2you3 yi4si5。	That movie isn't interesting. 
+电影什么时候完?	dian4ying3 shen2me5 shi2hou5 wan2	When will the movie end? 
+你最近看过什么好电影吗?	ni3 zui4jin4 kan4 guo4 shen2me5 hao3 dian4ying3 ma5	Have you seen any good movies lately? 
+这个电影真的很好笑。	zhe4ge5 dian4ying3 zhen1 de5 hen3 hao3xiao4。	The movie is really funny. 
+妈妈出去买东西了。	ma1ma5 chu1qu5 mai3 dong1xi5 le5。	Mother's gone shopping.  
+我没有看到过这种东西。	wo3 mei2you3 kan4 dao4guo5 zhe4zhong3 dong1xi5。	I've never seen such a thing. 
+一件东西	yi2 jian4 dong1xi5	a thing, something 
+借东西要还。	jie4 dong1xi5 yao4 hai2。	If you borrow something, you must return it. 
+这家商店东西很便宜。	zhe4 jia1 shang1dian4 dong1xi5 hen3 bian4yi2。	Things are cheap in this store. 
+“你在做什么?”“我在找东西。”	“ ni3 zai4 zuo4 shen2me5”“ wo3 zai4 zhao3 dong1xi5。”	“What are you doing?” “I'm looking for something.” 
+你今天去, 明天去, 都一样。	ni3 jin1tian1 qu4, ming2tian1 qu4, dou1 yi2yang4。	It's all the same whether you go today or tomorrow. 
+妈妈等到孩子都回来了才睡觉。	ma1ma5 deng3dao4 hai2zi5 dou1 hui2lai5 le5 cai2 shui4jiao4。	Mother did not go to bed until all her children came home. 
+每星期一上午我们一般都开会。	mei3 xing1qi1 yi1 shang4wu3 wo3men5 yi4ban1 dou1 kai1 hui4。	We usually have a meeting every Monday morning. 
+这些书你都看过吗?	zhe4xie1 shu1 ni3 dou1 kan4 guo4 ma5	Have you read all these books? 
+读书会	du2shu1 hui4	book club 
+他讲得多, 做得少。	ta1 jiang3 de5 duo1, zuo4de2 shao3。	He talks a lot but does little. 
+今天比昨天冷得多。	jin1tian1 bi3 zuo2tian1 leng3 de5 duo1。	Today is much colder than yesterday. 
+今天比昨天热得多。	jin1tian1 bi3 zuo2tian1 re4 de5 duo1。	Today is much hotter than yesterday. 
+中国历史长, 人口多。	Zhong1guo2 li4shi3 zhang3, ren2kou3 duo1。	China has a long history and a large population. 
+他有很多中国朋友。	ta1 you3 hen3 duo1 Zhong1guo2 peng2you5。	He has many Chinese friends. 
+她比以前瘦多了。	ta1 bi3 yi3qian2 shou4 duo1 le5。	She is much thinner than before. 
+早上很多人在公园里跑步。	zao3shang5 hen3 duo1 ren2 zai4 gong1yuan2 li3 pao3bu4。	Many people jog in the park early in the morning. 
+我等你等了四十多分钟。	wo3deng3 ni3deng3 le5 si4shi2 duo1 fen1zhong1。	I waited for you for over forty minutes. 
+“你去过中国没有?”“去过, 我去过中国很多地方。”	“ ni3 qu4 guo4 Zhong1guo2 mei2you3”“ qu4 guo4, wo3 qu4 guo4 Zhong1guo2 hen3 duo1 di4fang5。”	“Have you been to China?” “Yes, I've been to many parts of China.” 
+没有多少	mei2you3 duo1shao3	not many, not much 
+你去年中文考试得了多少分?	ni3 qu4nian2 Zhong1wen2 kao3shi4 de2le5 duo1shao5 fen1	What marks did you get for the Chinese examination last year? 
+这一层楼有多少房间?	zhe4 yi1 ceng2lou2 you3 duo1shao5 fang2jian1	How many rooms are there on this floor? 
+这个年级有多少学生?	zhe4ge5 nian2ji2 you3 duo1shao5 xue2sheng5	How many students are there in this grade? 
+这种苹果多少钱一公斤?	zhe4zhong3 ping2guo3 duo1shao5 qian2 yi1 gong1jin1	How much does a kilo of these apples cost? 
+“这个班有多少学生?”“三十二个。”	“ zhe4ge5 ban1 you3 duo1shao5 xue2sheng5”“ san1shi2er4 ge4。”	“How many students are there in this class?” “Thirty-two.” 
+世界上有多少国家?	shi4jie4 shang5 you3 duo1shao5 guo2jia1	How many countries are there in the world? 
+上个周末, 他搬家, 很多朋友来帮忙。	shang4 ge4 zhou1mo4, ta1 ban1jia1, hen3 duo1 peng2you5 lai2 bang1mang2。	Last weekend, he moved house. Many friends came to help out. 
+他有很多朋友。	ta1 you3 hen3 duo1 peng2you5。	He has many friends. 
+她每年花很多钱买衣服。	ta1 mei3 nian2 hua1 hen3 duo1 qian2 mai3 yi1fu5。	She spends lots of money every year buying clothes. 
+我和姐姐分别三年了, 今天见面, 多高兴啊!	wo3 he2 jie3jie5 fen1bie2 san1 nian2 le5, jin1tian1 jian4mian4, duo1 gao1xing4 a5	I'm meeting my older sister today after three years' separation. How happy I am! 
+你知道得越多, 就越想知道更多。	ni3 zhi1dao5 de5 yue4 duo1, jiu4 yue4 xiang3 zhi1dao5 geng4duo1。	The more you know, the more you want to know. 
+这个男孩子在过去一年里长高多了。	zhe4ge5 nan2 hai2zi5 zai4 guo4qu5 yi1 nian2 li3zhang3 gao1 duo1 le5。	The boy has grown much taller in the past year. 
+你要多少时间做完这件工作？	ni3 yao4 duo1shao5 shi2jian1 zuo4wan2 zhe4 jian4 gong1zuo4？	How soon can you finish the job? 
+我需要更多的时间来做作业。	wo3 xu1yao4 geng4duo1 de5 shi2jian1 lai2 zuo4 zuo4ye4。	I need more time to do the homework. 
+二千二百二十二	er4qian1 er4bai3 er4shi2er4	two thousand, two hundred and twenty-two (2,222) 
+老二	lao3 er4	the second child 
+一百零二	yi4bai3 ling2 er4	102 
+星期二	Xing1qi1er4	Tuesday 
+一年有十二个月。	yi1 nian2 you3 shi2er4 ge4 yue4。	There're twelve months in a year. 
+一年有五十二个星期。	yi1 nian2 you3 wu3shi2er4 ge4 xing1qi1。	There're fifty-two weeks in a year. 
+我还差二十块钱, 你可以借给我吗?	wo3 hai2 cha1 er4shi2 kuai4 qian2, ni3 ke3yi3 jie4gei3 wo3 ma5	I'm still short of twenty dollars. Can you give me a loan? 
+“今天几号?”“今天二十号, 九月二十号。”	“ jin1tian1 ji3 hao4”“ jin1tian1 er4shi2 hao4, jiu3yue4 er4shi2 hao4。”	“What is the date today?” “It's the 20th, September 20th.” 
+“明天是几月几日?”“明天是六月二十一日。”	“ ming2tian1 shi4 ji3 yue4 ji3 ri4”“ ming2tian1 shi4 liu4yue4 er4shi2yi1 ri4。”	“What date is tomorrow?” “It's June 21.” 
+三月二十四日	San1yue4 er4shi2 si4 ri4	the twenty-fourth of March 
+五五二十五。	wu3 wu3 er4shi2wu3。	Five times five is twenty-five. 
+十二月	shi2er4yue4	December 
+飞机票	fei1ji1piao4	air ticket 
+开飞机	kai1 fei1ji1	pilot a plane 
+上飞机	shang4 fei5ji1	get on the plane 
+飞机什么时候开?	fei1ji1 shen2me5 shi2hou5 kai1	When will the plane depart? 
+上飞机以前, 要关上手机。	shang4 fei5ji1 yi3qian2, yao4 guan1shang5 shou3ji1。	Switch off your cell phone before boarding a plane. 
+从家里走到公共汽车站要十分钟。	cong2 jia1li3 zou3dao4 gong1gong4 qi4che1zhan4 yao4 shi2 fen1zhong1。	It's 10 minutes' walk from home to the bus stop. 
+高兴极了	gao1xing4 ji2le5	very happy, delighted 
+认识你, 很高兴。	ren4shi5 ni3, hen3 gao1xing4。	I'm glad to make your acquaintance. 
+一个人	yi2 ge5 ren2	a person 
+两个人	liang3 ge5 ren2	two people 
+你认识这个人吗?	ni3 ren4shi5 zhe4 ge4ren2 ma5	Do you know this person? 
+我们每个人讲一个故事, 怎么样?	wo3men5 mei3 ge4ren2 jiang3 yi1 ge4 gu4shi5, zen3me5yang4	We each tell a story, how about that? 
+“你会做这个作业吗?”“会, 我已经做好了。”	“ ni3 hui4 zuo4 zhe4ge5 zuo4ye4 ma5”“ hui4, wo3 yi3jing1 zuo4hao3 le5。”	“Can you do this assignment?” “Yes, I can. I've already done it.” 
+我等她等了一个半小时。	wo3deng3 ta1 deng3 le5 yi1 ge4 ban4 xiao3shi2。	I waited one and a half hours for her. 
+我等你等了一个半小时了。	wo3deng3 ni3deng3 le5 yi1 ge4 ban4 xiao3shi2 le5。	I've been waiting for you for an hour and a half. 
+我们这个周末搬家, 有几位朋友来帮忙。	wo3men5 zhe4ge5 zhou1mo4 ban1jia1, you3 ji3 wei4 peng2you5 lai2 bang1mang2。	We're moving house this weekend. Some friends will come to help. 
+“你有没有弟弟?”“没有, 我只有一个哥哥。”	“ ni3 you3 mei2you3 di4di5”“ mei2you3, wo3 zhi3you3 yi1 ge4 ge1ge5。”	“Do you have a younger brother?” “No, I only have an older brother.” 
+你有几个哥哥?	ni3 you3 ji3 ge4 ge1ge5	How many elder brothers do you have? 
+这个国家历史很长。	zhe4ge5 guo2jia1 li4shi3 hen3 zhang3。	This country has a long history. 
+“你去过几个国家?”	“ ni3 qu4 guo4 ji3 ge4 guo2jia1”	“How many countries have you been to?” 
+我一直住在这个城市。	wo3 yi4zhi2 zhu4 zai4 zhe4ge5 cheng2shi4。	I've always been living in this city. 
+他总是愿意帮助学生, 他是个好老师。	ta1 zong3shi4 yuan4yi4 bang1zhu4 xue2sheng5, ta1 shi4 ge4 hao3 lao3shi1。	He is always ready to help his students.  He is a good teacher. 
+我妈妈有一个姐姐, 一个妹妹, 所以我有两个阿姨。	wo3 ma1ma5 you3 yi1 ge4 jie3jie5, yi1 ge4 mei4mei5, suo3yi3 wo3 you3 liang3 ge4 a1yi2。	My mother has an elder sister and a younger sister, so I have two aunts. 
+你这个字写错了。	ni3 zhe4ge5 zi4 xie3 cuo4le5。	You've written this character wrongly. 
+他老是写错这个字。	ta1 lao3shi5 xie3 cuo4 zhe4ge5 zi4。	He always writes this character wrongly. 
+这个字是什么意思?	zhe4ge5 zi4 shi4 shen2me5 yi4si5	What's the meaning of this character? 
+春夏秋冬, 你最喜欢哪个季节?	chun1-xia4-qiu1-dong1, ni3 zui4 xi3huan5 na3ge5 ji4jie2	Spring, summer, autumn and winter—which season do you like best? 
+五十来个学生	wu3shi2 lai2 ge5 xue2sheng5	approximately fifty students 
+这个孩子真聪明!	zhe4ge5 hai2zi5 zhen1 cong1ming5	This child is really smart!(→ What a bright child!) 
+两个小时	liang3 ge4 xiao3shi2	two hours. 
+七个小矮人	qi1 ge5 xiao3 ai3ren2	the seven dwarves 
+他往往晚上还要工作两三个小时。	ta1 wang3wang3 wan3shang5 hai2yao4 gong1zuo4 liang3 san1 ge4 xiao3shi2。	He usually has to work two or three hours in the evening. 
+我们工作了两个小时了, 休息一会儿吧。	wo3men5 gong1zuo4 le5 liang3 ge4 xiao3shi2 le5, xiu1xi5 yi2hui4r5 ba5。	We've been working for over two hours. Let's take a break. 
+我们中午休息一个小时。	wo3men5 zhong1wu3 xiu1xi5 yi1 ge4 xiao3shi2。	We have a one-hour break at noon. 
+这个房间的灯坏了。	zhe4ge5 fang2jian1 de5 deng1 huai4 le5。	The light in this room is out of order. 
+体育和学习, 哪个更重要?	ti3yu4 he2 xue2xi2, na3ge5 geng4 zhong4yao4	Sports or study, which is more important? 
+他找工作找了两个月了。	ta1 zhao3 gong1zuo4 zhao3 le5 liang3 ge4 yue4 le5。	He's been looking for a job for two months. 
+她想找一个有钱人结婚。	ta1 xiang3 zhao3 yi1 ge4 you3qian2ren2 jie2hun1。	She wants to find a rich man to marry. 
+下午我要去机场接一个朋友。	xia4wu3 wo3 yao4 qu4 ji1chang3 jie1 yi1 ge4 peng2you5。	I'm going to the airport this afternoon to receive a friend. 
+他站在门口等一个朋友。	ta1 zhan4 zai4 men2kou3 deng3 yi1 ge4 peng2you5。	He's standing by the door, waiting for a friend. 
+这个机会很难得, 你别错过。	zhe4ge5 ji1hui4 hen3 nan2de2, ni3 bie2 cuo4guo4。	This is a rare opportunity; don't you miss it. 
+这个老问题一直没有办法解决。	zhe4ge5 lao3 wen4ti2 yi4zhi2 mei2you3 ban4fa3 jie3jue2。	This perennial problem has remained unsolved for a long time. 
+两个苹果	liang3 ge5 ping2guo3	two apples 
+这个问题还没有解决。	zhe4ge5 wen4ti2 hai2 mei2you3 jie3jue2。	This problem has not been resolved. 
+我要问老师几个问题。	wo3 yao4 wen4 lao3shi1 ji3 ge4 wen4ti2。	I want to ask the teacher some questions. 
+“有什么问题吗?”“有, 我有一个问题。”	“ you3 shen2me5 wen4ti2 ma5”“ you3, wo3 you3 yi1 ge4 wen4ti2。”	“Do you have any questions?” “Yes, I do.” 
+这个问题我要想想。	zhe4ge5 wen4ti2 wo3 yao4 xiang3xiang5。	I need to think over this problem. 
+我可以问你一个问题吗?	wo3 ke3yi3 wen4 ni3 yi1 ge4 wen4ti2 ma5	May I ask you a question? 
+这个作业难得没有人会做。	zhe4ge5 zuo4ye4 nan2de2 mei2you3 ren2 hui4 zuo4。	The assignment was so difficult that no one could do it. 
+我从来没有听说过这个名字。	wo3 cong2lai2 mei2you3 ting1shuo1 guo4 zhe4ge5 ming2zi5。	I've never heard of this name. 
+我看书看了三个小时了, 我很累了。	wo3 kan4 shu1 kan4 le5 san1 ge4 xiao3shi2 le5, wo3 hen3 lei3 le5。	I've been reading for three hours. I'm tired. 
+我有时候等公共汽车得等半个小时。	wo3 you3shi2hou5 deng3 gong1gong4 qi4che1 de5 deng3 ban4 ge5 xiao3shi2。	Sometimes I have to wait half an hour for a bus. 
+“你能做这个工作吗？”“能。”	“ ni3 neng2 zuo4 zhe4ge5 gong1zuo4 ma5？”“ neng2。”	“Can you do the job?” “Yes, I can.” 
+你觉得这个怎么样？	ni3 jue2de5 zhe4ge5 zen3me5yang4？	How do you like that? 
+他买了一个新手机。	ta1 mai3 le5 yi1 ge4 xin1 shou3ji1。	He bought a new cell phone. 
+我下个月还你钱。	wo3 xia4 ge4 yue4 hai2 ni3 qian2。	I'll pay you back next month. 
+他总是第一个来, 最后一个走。	ta1 zong3shi4 di4-yi1 ge4 lai2, zui4hou4 yi1 ge4 zou3。	He is always the first to come and the last to leave. 
+我今天上午给他发了一个电子邮件。	wo3 jin1tian1 shang4wu3 gei3 ta1 fa1 le5 yi1 ge4 dian4zi3 you2jian4。	I sent him an e-mail this morning. 
+这个蛋糕太甜了。	zhe4ge5 dan4gao1 tai4 tian2 le5。	This cake is much too sweet. 
+可以问你一个问题吗？	ke3yi3 wen4 ni3 yi1 ge4 wen4ti2 ma5？	Can I ask you a question? 
+先生, 可以问您一个问题吗？	xian1sheng5, ke3yi3 wen4 nin2 yi1 ge4 wen4ti2 ma5？	Sir, would you mind if I ask you a question? 
+他在那里工作。	ta1 zai4 na4li5 gong1zuo4。	He works there. 
+工作条件	gong1zuo4 tiao2jian4	working conditions 
+你是为钱工作吗?	ni3 shi4wei2 qian2 gong1zuo4 ma5	Do you work for money? 
+您先生在哪儿工作?	nin2 xian1sheng5 zai4 na3r5 gong1zuo4	Where does your husband work? 
+你工作很认真, 我要向你学习。	ni3 gong1zuo4 hen3 ren4zhen1, wo3 yao4 xiang4 ni3 xue2xi2。	You work conscientiously. I must emulate you. 
+这件工作在一个星期里做好了。	zhe4 jian4 gong1zuo4 zai4 yi1 ge4 xing1qi1 li3 zuo4hao3 le5。	The work was done in a week. 
+你在这家公司工作了很久吗？	ni3 zai4 zhe4 jia1 gong1si1 gong1zuo4 le5 hen3 jiu3 ma5？	Have you been working in this company for long? 
+她对新工作十分满意。	ta1 dui4 xin1 gong1zuo4 shi2fen1 man3yi4。	She is perfectly happy with the new job. 
+我在下星期一开始新工作。	wo3 zai4xia4 Xing1qi1yi1 kai1shi3 xin1 gong1zuo4。	I'll start my new job next Monday. 
+小狗	xiao3 gou3	puppy 
+两只狗	liang3 zhi1 gou3	two dogs 
+我走到哪里, 我的狗跟到哪里。	wo3 zou3dao4 na3li5, wo3 de5 gou3 gen1 dao4 na3li5。	My dog follows me everywhere. 
+汉语水平考试	Han4yu3 Shui3ping2 Kao3shi4 (	Chinese Proficiency Test 
+这张画画得真好!	zhe4 zhang1 hua4 hua4 de5 zhen1 hao3	This picture is so well done! 
+好, 我马上来!	hao3, wo3 ma3shang4 lai2	OK, I'm coming! 
+你好!	ni3hao3	How do you do? Hello! 
+新年好!	xin1nian2 hao3	Happy New Year! 
+今天晚上的月亮真好!	jin1tian1 wan3shang5  de5 yue4liang5 zhen1 hao3	What a fine moon it is tonight! 
+准备好	zhun3bei4 hao3	be well prepared 
+他去年的考试成绩非常好。	ta1 qu4nian2 de5 kao3shi4 cheng2ji4 fei1chang2 hao3。	His examination results last year were very good. 
+她对我很好。	ta1 dui4 wo3 hen3 hao3。	She treats me well. (→ She is nice to me.) 
+你中文说得很好。	ni3 Zhong1wen2 shuo1 de5hen3 hao3。	You speak Chinese very well. 
+今天天气极好。	jin1tian1 tian1qi4 ji2 hao3。	The weather is extremely good today. 
+我姐姐对我很好。	wo3 jie3jie5 dui4 wo3 hen3 hao3。	My elder sister is very nice to me. 
+今天天气很好。	jin1tian1 tian1qi4 hen3 hao3。	The weather's fine today. 
+我哥哥要我问你好。	wo3 ge1ge5 yao4 wo3 wen4 ni3hao3。	My brother asked me to give you his regards. 
+我的朋友中间, 他体育最好。	wo3 de5 peng2you5 zhong1jian1, ta1 ti3yu4 zui4hao3。	Among my friends he is the best athlete. 
+笑得最后, 才笑得最好。	xiao4 de5 zui4hou4, cai2 xiao4 de5 zui4hao3。	He who laughs last laughs best. 
+他等了她好久, 她才来。	ta1 deng3 le5 ta1 hao3jiu3, ta1 cai2 lai2。	He waited for her for a long time before she came. 
+太好了!	tai4 hao3le5	That's wonderful! 
+好些	hao3xie5	quite a few, lots of 
+她买了好几件漂亮衣服。	ta1 mai3 le5 hao3ji3 jian4 piao4liang5 yi1fu5。	She bought some pretty clothes. 
+您老人家身体好吗?	nin2 lao3ren5jia5 shen1ti3 hao3 ma5	Are you in good health, sir (or ma'am)? 
+你好吗?	ni3hao3 ma5	How're you? 
+他对他妻子好吗?	ta1 dui4 ta1 qi1zi5 hao3 ma5	Is he nice to his wife? 
+你身体好吗?	ni3 shen1ti3 hao3 ma5	How's your health? 
+这种咖啡很好喝。	zhe4zhong3 ka1fei1 hen3 hao3he1。	This kind of coffee tastes good. 
+这种啤酒很好喝。	zhe4zhong3 pi2jiu3 hen3 hao3he1。	This beer tastes good. 
+你这件新衣服好漂亮!	ni3 zhe4 jian4 xin1 yi1fu5 hao3 piao4liang5	How pretty your new dress is! 
+她把哥哥介绍给自己最好的朋友。	ta1 ba3 ge1ge5 jie4shao4 gei3 zi4ji3 zui4hao3 de5 peng2you5。	She introduced her elder brother to her best friend. 
+她穿白衣服特别好看。	ta1 chuan1 bai2 yi1fu5 te4bie2 hao3kan4。	She looks especially beautiful in white. 
+她妈妈年轻的时候很好看。	ta1 ma1ma5 nian2qing1 de5 shi2hou5 hen3 hao3kan4。	Her mother was beautiful when young. 
+你穿白裙子很好看。	ni3 chuan1 bai2 qun2zi5 hen3 hao3kan4。	You look good in a white skirt. 
+你做得很好。	ni3 zuo4 de5hen3 hao3。	You did a good job. 
+等一等, 我马上准备好。	deng3 yi1deng3, wo3 ma3shang4 zhun3bei4 hao3。	Wait a minute. I'll be ready in no time. 
+她好像很担心。	ta1 hao3xiang4 hen3 dan1xin1。	She appeared to be worried. 
+给我放好洗澡水, 好吗？	gei3 wo3 fang4hao3 xi3zao3shui3, hao3 ma5？	Will you run a bath for me, please. 
+你看一看这张照片, 好吗？	ni3 kan4yi1kan4 zhe4 zhang1 zhao4pian4, hao3 ma5？	Will you have a look at this photo? 
+好吧, 你来试试吧。	hao3 ba5, ni3 lai2 shi4shi4 ba5。	OK, I'll let you try. 
+好好玩吧!	hao3 hao3wan2 ba5	Have fun! 
+我和他是好朋友。	wo3 he2 ta1 shi4 hao3 peng2you5。	He and I are good friends. 
+没有什么比身体好更重要。	mei2you3 shen2me5 bi3 shen1ti3 hao3 geng4 zhong4yao4。	Nothing is more important than good health. 
+你是我最好的朋友。	ni3 shi4 wo3 zui4hao3 de5 peng2you5。	You are my best friend. 
+我小时候, 爷爷是我最好的朋友。	wo3 xiao3shi2hou5, ye2ye5 shi4 wo3 zui4hao3 de5 peng2you5。	When I was small, my grandpa was my best friend. 
+今天是几月几号？	jin1tian1 shi4 ji3 yue4 ji3 hao4？	What's the date today? 
+他喜欢一边喝啤酒, 一边看体育节目。	ta1 xi3huan5 yi4bian1 he1 pi2jiu3, yi4bian1 kan4 ti3yu4 jie2mu4。	He likes to drink beer while watching sports programs. 
+我口渴, 要喝水。	wo3 kou3ke3, yao4 he1shui3。	I'm thirsty. I want to drink some water. 
+感冒了要喝白开水。	gan3mao4 le5 yao4 he1 bai2kai1shui3。	You should drink a lot of boiled water when you've got a cold. 
+我和他是老朋友, 我很了解他。	wo3 he2 ta1 shi4 lao3peng2you5, wo3 hen3 liao3jie3 ta1。	He and I are old friends. I know him very well. 
+房间里有一张桌子和四把椅子。	fang2jian1 li3 you3 yi1 zhang1 zhuo1zi5 he2 si4 ba3 yi3zi5。	There is a table and four chairs in the room. 
+我可以和你说一会儿话吗？	wo3 ke3yi3 he2 ni3 shuo1 yi2hui4r5 hua4 ma5？	Might I speak to you for a moment? 
+她在最后一刻决定和我一起去。	ta1 zai4 zui4hou4 yi1 ke4 jue2ding4 he2 wo3 yi4qi3 qu4。	She decided to go with me at the last minute. 
+贵得很	gui4 de5 hen3	very expensive 
+我等你等了很久了。	wo3deng3 ni3deng3 le5 hen3 jiu3 le5。	I've been waiting for you for a long time. 
+她很会穿衣服。	ta1 hen3 hui4 chuan1 yi1fu5。	She has good dress sense. 
+这位老人身体很健康。	zhe4 wei4 lao3ren2 shen1ti3 hen3 jian4kang1。	This old person is in good health. 
+她很像妈妈。	ta1 hen3 xiang4 ma1ma5。	She takes after her mother. 
+今天很冷。	jin1tian1 hen3 leng3。	It's cold today. 
+他中文学习得很努力。	ta1 Zhong1wen2 xue2xi2 de5hen3 nu3li4。	He studies Chinese very diligently. 
+这里的街道很安静。	zhe4li5 de5 jie1dao4 hen3 an1jing4。	The streets in this area are quiet. 
+你说得很对。	ni3 shuo1 de5hen3 dui4。	You spoke correctly. (→ You're right.) 
+我很少看报纸。	wo3 hen3 shao3 kan4 bao4zhi3。	I seldom read newspapers. 
+因为没有时间, 所以我很少去看朋友。	yin1wei4 mei2you3 shi2jian1, suo3yi3 wo3 hen3 shao3 qu4 kan4 peng2you5。	I seldom go visiting friends because I don't have the time. 
+他身体很差, 经常生病。	ta1 shen1ti3 hen3 cha1, jing1chang2 sheng1 bing4。	He is in poor health and often falls ill. 
+这孩子对动物很感兴趣。	zhe4 hai2zi5 dui4 dong4wu4 hen3 gan3 xing4qu4。	This child is very interested in animals. 
+中国字很有意思。	zhong1guo2zi4 hen3 you3 yi4si5。	Chinese characters are very interesting. 
+她对人很热情。	ta1 dui4 ren2 hen3 re4qing2。	She's warmhearted towards others. 
+她很聪明, 老师一说她就懂。	ta1 hen3 cong1ming5, lao3shi1 yi1 shuo1 ta1 jiu4 dong3。	She is very bright. As soon as the teacher has explained, she understands. 
+我觉得这里很冷。	wo3 jue2de5 zhe4li5 hen3 leng3。	I feel cold in here. 
+猫很喜欢坐在我腿上。	mao1 hen3 xi3huan5 zuo4 zai4 wo3 tui3 shang4。	The cat likes to sit on my lap. 
+她很容易生气。	ta1 hen3 rong2yi4 sheng1qi4。	She is quick to take offense. 
+我对中国文化很感兴趣。	wo3 dui4 Zhong1guo2 wen2hua4 hen3 gan3 xing4qu4。	I'm very interested in Chinese culture. 
+我们很接近那里了。（→ 我们快到了。）	wo3men5 hen3 jie1jin4 na4li5 le5。（ wo3men5 kuai4 dao4liao3。）	We're nearly there. 
+虽然是九月了, 但是还很热。	sui1ran2 shi4 jiu3yue4 le5, dan4shi4 hai2 hen3 re4。	Although it's September, it's still very hot. 
+他住得离火车站很近。	ta1 zhu4 de5 li2 huo3che1zhan4 hen3 jin4。	He lives close to the railway station. 
+路试要求很高。	lu4 shi4 yao1qiu2 hen3 gao1。	The road test was demanding. 
+我离开一会儿, 马上就回来。	wo3 li2kai1 yi2hui4r5, ma3shang4 jiu4 hui2lai5。	Excuse me for a minute. I'll be back soon. 
+回答问题以前, 先要想一下。	hui2da2 wen4ti2 yi3qian2, xian1yao4 xiang3 yi2xia4。	Before you answer a question, you should think first. 
+他现在可能回家了。	ta1 xian4zai4 ke3neng2 hui2jia1 le5。	He should be home now. 
+我希望他马上回家, 因为我开始为他担心了。	wo3 xi1wang4 ta1 ma3shang4 hui2jia1, yin1wei4 wo3 kai1shi3 wei2 ta1 dan1xin1 le5。	I hope he comes home soon since I'm beginning to worry about him. 
+你今天什么时候回家？	ni3 jin1tian1 shen2me5 shi2hou5 hui2jia1？	When are you coming home today? 
+我马上回来。	wo3 ma3shang4 hui2lai5。	I'll be back soon. 
+我一会儿就回来。	wo3 yi1hui4r5 jiu4 hui2lai5。	I'll be back in a moment. 
+我还在等她回答。	wo3 hai2 zai4 deng3 ta1 hui2da2。	I'm still waiting for her answer. 
+孩子在学校里的时候, 她检查、回答电子邮件。	hai2zi5 zai4 xue2xiao4 li3 de5 shi2hou5, ta1 jian3cha2、 hui2da2 dian4zi3 you2jian4。	She checked and replied to e-mails while her children were in school. 
+开会	kai1 hui4	have a meeting 
+学生会	xue2sheng5hui4	students union 
+错过机会	cuo4guo4 ji1hui4	miss an opportunity 
+他经常到外地去开会。	ta1 jing1chang2 dao4 wai4di4 qu4 kai1 hui4。	He often travels to other parts of the country to attend conferences. 
+今天可能会下雨, 带着伞吧。	jin1tian1 ke3neng2 hui4 xia4 yu3, dai4 zhe5 san3 ba5。	It may rain today. Take your umbrella with you. 
+我去开会了, 这里请你照顾一下。	wo3 qu4 kai1 hui4 le5, zhe4li5 qing3 ni3 zhao4gu5 yi2xia4。	I'm going to a meeting. Please keep an eye on things here. 
+他听了可能会生气。	ta1 ting1 le5 ke3neng2 hui4 sheng1qi4。	He may be offended when he hears this. 
+你会用中文问路吗?	ni3 hui4 yong4 Zhong1wen2 wen4 lu4 ma5	Can you ask the way in Chinese? 
+参加会议	can1jia1 hui4yi4	participate in a meeting or conference 
+你会说中文吗?	ni3 hui4shuo1 Zhong1wen2 ma5	Do you speak Chinese? 
+我相信中文会越来越有用。	wo3 xiang1xin4 zhong1 wen2hui4 yue4lai2yue4 you3yong4。	I believe the Chinese language will be more and more useful. 
+音乐会门票	yin1yue4hui4 men2piao4	concert ticket 
+你会骑马吗?	ni3 hui4 qi2 ma3 ma5	Can you ride a horse? 
+我只会在洗澡的时候唱歌。	wo3 zhi3 hui4 zai4 xi3zao3 de5 shi2hou5 chang4ge1。	I'm able to sing only in the shower. 
+你会用中文问路吗？	ni3 hui4 yong4 Zhong1wen2 wen4 lu4 ma5？	Do you know how to ask the way in Chinese? 
+你会说中文吗？	ni3 hui4shuo1 Zhong1wen2 ma5？	Do you speak Chinese? 
+音乐会门票是十块钱。	yin1yue4hui4 men2piao4 shi4 shi2 kuai4 qian2。	Admission to the concert is 10 dollars. 
+我有几件事情要跟你说。	wo3 you3 ji3 jian4 shi4qing5 yao4 gen1 ni3 shuo1。	I've something to discuss with you. 
+你在这里住了几年了?	ni3 zai4 zhe4li5 zhu4 le5 ji3 nian2 le5	How long have you been living here? 
+你几岁？	ni3 ji3 sui4？	How old are you? 
+那是星期几？	na4shi5 xing1qi1ji3？	Which day of the week was it? 
+画家	hua4jia1	painter, artist 
+四家人家	si4 jia1 ren2jia1	four families 
+数学家	shu4xue2jia1	mathematician 
+小说家	xiao3shuo1jia1	(accomplished) novelist 
+银行家	yin2hang2jia1	banker 
+我去过他家两次。	wo3 qu4 guo4 ta1jia1 liang3 ci4。	I've been to his home twice. 
+一家商店	yi4 jia1 shang1dian4	a store 
+听说张先生一家搬走了。	ting1shuo1 zhang1 xian1sheng5 yi1jia1 ban1zou3 le5。	I've heard that Mr Zhang's family has moved. 
+我家有一只小白猫。	wo3jia1 you3 yi1 zhi3 xiao3 bai2 mao1。	We keep a white kitten at home. 
+我家离学校不远。	wo3jia1 li2 xue2xiao4 bu4 yuan3。	My home is not far from school. 
+请你叫一下服务员。	qing3 ni3 jiao4 yi2xia4 fu2wu4yuan2。	Please call the attendant. 
+今天太冷了, 别去游泳吧!	jin1tian1 tai4 leng3 le5, bie2 qu4 you2yong3 ba5	It's too cold today. Don't go swimming, OK? 
+今天是你的生日, 你来分生日蛋糕。	jin1tian1 shi4 ni3 de5 sheng1ri4, ni3 lai2 fen1 sheng1ri4 dan4gao1。	Today's your birthday, come and cut your birthday cake. 
+今天的课你听懂没有?	jin1tian1 de5 ke4 ni3 ting1dong3 mei2you3	Do you understand today's lesson? 
+今天是你的生日, 我送你一件小礼物。	jin1tian1 shi4 ni3 de5 sheng1ri4, wo3 song4 ni3 yi1 jian4 xiao3 li3wu4。	Today's your birthday. I'll give you a little gift. 
+我今天晚上没有事情做。	wo3 jin1tian1 wan3shang5  mei2you3 shi4qing5 zuo4。	I've nothing to do this evening. 
+他说今天晚上没有时间。	ta1 shuo1 jin1tian1 wan3shang5  mei2you3 shi2jian1。	He said he did not have time this evening. 
+你今天晚上打算做什么?	ni3 jin1tian1 wan3shang5  da3suan4 zuo4 shen2me5	What do you plan to do this evening? 
+你今天觉得怎么样?	ni3 jin1tian1 jue2de5 zen3me5yang4	How are you feeling today? 
+你今天想做什么？	ni3 jin1tian1 xiang3 zuo4 shen2me5？	What do you want to do today? 
+九千九百九十九	jiu3qian1 jiu3bai3 jiu3shi2jiu3	9,999 
+九月一日	Jiu3yue4 yi2 ri4	the first of September 
+九一一	jiu3-yao1-yao1	9/11 September 11 
+开商店	kai1 shang1dian4	open a shop, keep a shop 
+开开门!	kai1 kai1men2	Open the door, please! 
+开灯	kai1 deng1	turn on the light 
+别开玩笑了!	bie2 kai1 wan2xiao4 le5	Stop kidding! 
+他喜欢跟别人开玩笑,  有时候太过分了。	ta1 xi3huan5 gen1 bie2ren5 kai1 wan2xiao4, you3shi2hou5 tai4 guo4fen4 le5。	He likes to play jokes on people, sometimes he would go too far. 
+公共汽车开过来了。	gong1gong4 qi4che1 kai1 guo4lai5 le5。	A bus is coming over. 
+开关在哪里？	kai1guan1 zai4 na3li5？	Where is the switch? 
+中午的时候开始下雨了。	zhong1wu3 de5 shi2hou5 kai1shi3 xia4 yu3 le5。	It started to rain at noon. 
+请把门关上, 空调开着呢。	qing3 ba3men2 guan1shang5, kong1tiao2 kai1 zhe5ne5。	Please shut the door. The AC is on. 
+他穿这件衣服真难看。	ta1 chuan1 zhe4 jian4 yi1fu5 zhen1 nan2kan4。	He really looks ugly in that suit. 
+我喜欢看书。	wo3 xi3huan5 kan4 shu1。	I like reading. 
+看书	kan4 shu1	read, do reading 
+看体育比赛	kan4 ti3yu4 bi3sai4	watch a sport event 
+我看看你的新衣服。	wo3 kan4kan5 ni3 de5 xin1 yi1fu5。	Let me have a look at your new dress. 
+你想看哪些书?	ni3 xiang3 kan4 na3xie1 shu1	Which books do you want to read? 
+看孩子	kan1 hai2zi5	look after children, baby-sit 
+看完	kan4wan2	finish reading/watching 
+看比赛	kan4 bi3sai4	watch a game (or sports event) 
+我这里有一些书, 你看看还有没有用。	wo3 zhe4li5 you3 yi1xie1 shu1, ni3 kan4kan5 hai2 you3 mei2you3 yong4。	I have a few books here. Have a look to see if they are still useful. 
+我看马上要下雨了。	wo3 kan1ma3 shang4 yao4 xia4 yu3 le5。	It seems to me that it's going to rain soon. 
+他看上去要哭了。	ta1 kan4 shang4qu5 yao4 ku1 le5。	He looks as if he's going to cry. 
+我要让眼睛休息一下—我看书看得时间太长了。	wo3 yao4 rang4 yan3jing5 xiu1xi5 yi2xia4— wo3 kan4 shu1 kan4de5 shi2jian1 tai4 zhang3 le5。	I'll rest my eyes—I've read for too long. 
+“可以看看你的新手机吗？”“当然可以。”	“ ke3yi3 kan4kan5 ni3 de5 xin1 shou3ji1 ma5？”“ dang1ran2 ke3yi3。”	“Can I have a look at your new cell phone?” “By all means.” 
+你上次什么时候看到她的？	ni3 shang4ci4 shen2me5 shi2hou5 kan4dao4 ta1 de5？	When did you see her last? 
+一块蛋糕	yi2 kuai4 dan4gao1	a piece/slice of cake 
+什么? 要一千块钱? 太贵了!	shen2me5 yao4 yi1qian1 kuai4 qian2 tai4 gui4 le5	What? One thousand dollars? It's too expensive. 
+三块钱	san3 kuai4 qian2	three yuan (or dollars) 
+三百四十来块钱	san1bai3 si4shi2 lai2 kuai4 qian2	about 340 yuan 
+两块面包	liang3 kuai4 mian4bao1	two pieces of bread 
+你能借我一百块吗？我星期四还。	ni3 neng2 jie4 wo3 yi1bai3 kuai4 ma5？ wo3 Xing1qi1si4 hai2。	Can you loan me $100 until Thursday? 
+妈妈每星期给他五十块钱。	ma1ma5 mei3 xing1qi1 gei3 ta1 wu3shi2 kuai4 qian2。	Mom gives him 50 dollars every week. 
+上来	shang4lai5	come up 
+站起来	zhan4 qi3lai5	stand up 
+明天上课的时候, 把词典带来。	ming2tian1 shang4 ke4 de5 shi2hou5, ba3 ci2dian3 dai4lai5。	Please bring your dictionary with you when you come to class tomorrow. 
+等一下, 我马上就来。	deng3 yi2xia4, wo3 ma3shang4 jiu4 lai2。	Wait a minute, I'll come soon. 
+我马上就来。	wo3 ma3shang4 jiu4 lai2。	I'll come immediately. (→ I'm coming.) 
+她难过得哭起来。	ta1 nan2guo4 de5 ku1 qi3lai5。	She was so sad that she cried. 
+请你出来一下。	qing3 ni3 chu1lai5 yi2xia4。	Would you please step out for a while? 
+请你到我办公室来一下。	qing3 ni3 dao4 wo3 ban4gong1shi4 lai2 yi2xia4。	Please come to my office. 
+你昨天为什么没有来上课?	ni3 zuo2tian1 wei4shen2me5 mei2you3 lai2 shang4 ke4	Why didn't you come to school yesterday? 
+快, 公共汽车来了!	kuai4, gong1gong4 qi4che1 lai2 le5	Quick, the bus is coming! 
+我们来做游戏!	wo3men5 lai2 zuo4 you2xi4	Let's play a game! 
+进来吧, 我们在等你呢!	jin4lai5 ba5, wo3men5 zai4 deng3 ni3 ne5	Please come in. We've been waiting for you. 
+你先生近来忙吗?	ni3 xian1sheng5 jin4lai2 mang2 ma5	Is your husband busy these days? 
+没关系, 我来想办法。	mei2 guan1xi5, wo3 lai2 xiang3 ban4fa3。	It's OK. I'll think of a way. 
+来, 坐到我旁边来。	lai2, zuo4dao4 wo3 pang2bian1 lai2。	Come and sit by my side. 
+她上星期五没有来上班。	ta1 shang4 Xing1qi1wu3 mei2you3 lai2 shang4ban1。	She was absent from work last Friday. 
+他昨天没有来上班。	ta1 zuo2tian1 mei2you3 lai2 shang4ban1。	He didn't come to work yesterday. 
+都上来了吗？	dou1 shang4lai5 le5 ma5？	Is everyone on board? 
+我也可以来吗？	wo3 ye3 ke3yi3 lai2 ma5？	May I come too? 
+说真的, 我从来没有喜欢过他。	shuo1 zhen1 de5, wo3 cong2lai2 mei2you3 xi3huan5 guo4 ta1。	To tell the truth, I never liked him very much. 
+你万一生病了, 谁来照顾你呢？	ni3 wan4yi1 sheng1 bing4 le5, shui2 lai2 zhao4gu5 ni3 ne5？	Who would care for you in case you are sick? 
+我们来玩游戏吧。	wo3men5 lai2 wan2 you2xi4 ba5。	Let's play a game. 
+你老了谁来照顾你？	ni3 lao3le5 shui2 lai2 zhao4gu5 ni3？	Who'll look after you when you're old? 
+来, 坐在我旁边。	lai2, zuo4 zai4 wo3 pang2bian1。	Come and sit beside me! 
+拿一把椅子来, 跟我们坐在一起。	na2 yi1 ba3 yi3zi5 lai2, gen1 wo3men5 zuo4 zai4 yi4qi3。	Fetch a chair and join us. 
+一位老师	yi2 wei4 lao3shi1	a teacher 
+忙极了	mang2 ji2le5	extremely busy 
+这次考试太难了!	zhe4ci4 kao3shi4 tai4 nan2 le5	This test was really difficult! 
+我想睡觉了, 这些作业明天再做吧。	wo3 xiang3 shui4jiao4 le5, zhe4xie1 zuo4ye4 ming2tian1 zai4 zuo4 ba5。	I want to go to bed. I'll do these assignments tomorrow. 
+我的红铅笔哪里去了?	wo3 de5 hong2 qian1bi3 na3li5 qu4le5	Where's my red pencil? 
+出问题了!	chu1 wen4ti2 le5	Something's gone wrong! 
+她已经三十五岁了, 还没有结婚。	ta1 yi3jing1 san1shi2wu3 sui4 le5, hai2 mei2you3 jie2hun1。	She is already thirty-five years old and is not married yet. 
+你怎么又迟到了?	ni3 zen3me5 you4 chi2dao4 le5	Why are you late again? 
+怎么了, 她怎么哭了?	zen3me5le5, ta1 zen3me5 ku1 le5	What happened? Why is she crying? 
+你昨天晚上去哪里了?	ni3 zuo2tian1 wan3shang5  qu4 na3li5 le5	Where were you yesterday evening? 
+谢谢, 我饱了。	xie4xie5, wo3 bao3 le5。	Thank you. I'm full. 
+她昨天又迟到了。	ta1 zuo2tian1 you4 chi2dao4 le5。	She was late (for work, school, etc.) again yesterday. 
+孩子长高了。	hai2zi5 zhang3 gao1 le5。	The child has grown taller. 
+我向他借了一百元。	wo3 xiang4 ta1 jie4 le5 yi1bai3 yuan2。	I borrowed one hundred dollars from him. 
+他又换了一只手机。	ta1 you4 huan4 le5 yi4 zhi1 shou3 ji1。	He changed his cell phone again. 
+他上星期买了三件衣服。	ta1 shang4 xing1qi1 mai3 le5 san1 jian4 yi1fu5。	He bought three pieces of clothing last week. 
+去年我花了两百元买书。	qu4nian2 wo3 hua1le5 liang3bai3 yuan2 mai3shu1。	Last year I spent 200 yuan on books. 
+我昨天等你等了半小时。	wo3 zuo2tian1 deng3 ni3deng3 le5 ban4 xiao3shi2。	I waited for you for half an hour yesterday. 
+“我可以走了吗?”“可以。”	“ wo3 ke3yi3 zou3 le5 ma5”“ ke3yi3。”	“May I leave now?” “Yes, you may.” 
+你可以走了。	ni3 ke3yi3 zou3 le5。	You can leave. 
+我们发现走错路了。	wo3men5 fa1xian4 zou3cuo4 lu4 le5。	We found that we were going in the wrong direction. 
+我冷极了。	wo3 leng3 ji2le5。	I'm frozen. 
+她对孩子照顾得太过分了。	ta1 dui4 hai2zi5 zhao4gu5 de5 tai4 guo4fen4 le5。	She makes a fuss over her child. 
+我真的对她生气极了。	wo3 zhen1 de5 dui4 ta1 sheng1qi4 ji2le5。	I really got mad at her. 
+我们到了。	wo3men5 dao4liao3。	Here we are. 
+她买了一只新手机。	ta1 mai3 le5 yi1 zhi3 xin1 shou3ji1。	She bought a new cell phone. 
+我的意思说明白了吗？	wo3 de5 yi4si5 shuo1 ming2bai5 le5 ma5？	Have I made myself clear? 
+谁骑走了我的自行车？	shui2 qi2 zou3 le5 wo3 de5 zi4xing2che1？	Who has taken my bicycle? 
+他错过了最后一班公共汽车。	ta1 cuo4guo4 le5 zui4hou4 yi1 ban1 gong1gong4 qi4che1。	He missed the last bus. 
+冷极了！	leng3 ji2le5！	It's freezing! 
+你住在哪里?	ni3 zhu4 zai4 na3li5	Where do you live? 
+请问, 女洗手间在哪里?	qing3wen4, nü3 xi3shou3jian1 zai4 na3li5	Excuse me, where is the women's toilet? 
+请问, 洗手间在哪里?	qing3wen4, xi3shou3jian1 zai4 na3li5	Excuse me, where's the washroom? 
+“你住在哪里?”“我住在学校附近。”	“ ni3 zhu4 zai4 na3li5”“ wo3 zhu4 zai4 xue2xiao4 fu4jin4。”	“Where do you live?” “I live near the school.” 
+他在房间里休息。	ta1 zai4 fang2jian1 li3 xiu1xi5。	He's taking a rest in the room. 
+那里就是图书馆。	na4li5 jiu4shi4 tu2shu1guan3。	Over there is the library. 
+这里有五公斤苹果, 我送给你。	zhe4li5 you3 wu3 gong1jin1 ping2guo3, wo3 song4gei3 ni3。	Here are five kilograms of apples, my gift to you. 
+你口渴吗? 这里有水。	ni3 kou3ke3 ma5 zhe4li5 you3 shui3。	Are you thirsty? Here's some water. 
+房间里有些人站着, 有些人坐着。	fang2jian1 li3 you3xie1 ren2 zhan4zhe5, you3xie1 ren2 zuo4 zhe5。	In the room some people are standing, and others are seated. 
+房间里没有人。	fang2jian1 li3 mei2you3 ren2。	There is nobody in the room. 
+教室里没有人。	jiao4shi4 li3 mei2you3 ren2。	There is nobody in the classroom. 
+你住在哪里？	ni3 zhu4 zai4 na3li5？	Where do you live? 
+六十六	liu4shi2 liu4	sixty-six 
+星期六	Xing1qi1liu4	Saturday 
+六十五岁	liu4shi2 wu3 sui4	sixty-five years of age 
+星期六我们去爬山吧!	Xing1qi1liu4 wo3men5 qu4 pa2shan1 ba5	Let's go mountain climbing this Saturday. 
+我一直要忙到星期六。	wo3 yi4zhi2 yao4 mang2 dao4 Xing1qi1liu4。	I'm going to be very busy through Saturday. 
+妈妈每星期买两公斤鸡蛋。	ma1ma5 mei3 xing1qi1 mai3 liang3 gong1jin1 ji1dan4。	Mom buys two kilograms of eggs every week. 
+我可以参加中文班吗?	wo3 ke3yi3 can1jia1 Zhong1wen2 ban1 ma5	May I join the Chinese class? 
+我可以用一下你的铅笔吗?	wo3 ke3yi3 yong4 yi2xia4 ni3 de5 qian1bi3 ma5	May I use your pencil for a while? 
+我可以请您跳舞吗?	wo3 ke3yi3 qing3 nin2 tiao4wu3 ma5	May I have a dance with you? 
+我可以用一下你的自行车吗?	wo3 ke3yi3 yong4 yi2xia4 ni3 de5 zi4xing2che1 ma5	May I use your bicycle? 
+你经常运动吗?	ni3 jing1chang2 yun4dong5 ma5	Do you exercise often? 
+这房间太小。还有别的房间吗？	zhe4 fang2jian1 tai4 xiao3。 hai2 you3 bie2de5 fang2jian1 ma5？	This room is too small. Is there another room? 
+可以借用你的词典吗？	ke3yi3 jie4yong4 ni3 de5 ci2dian3 ma5？	Can I borrow your dictionary? 
+你能听出那位老人在说什么吗？	ni3 neng2 ting1chu1 na4wei4 lao3ren2 zai4 shuo1 shen2me5 ma5？	Can you make out what the old man is saying? 
+你有什么问题吗？	ni3 you3 shen2me5 wen4ti2 ma5？	Do you have any questions? 
+有人吗？	you3ren2 ma5？	Is anyone there? 
+你带着钱吗？	ni3 dai4 zhe5 qian2 ma5？	Did you bring some money with you? 
+你站在我这一边吗？	ni3 zhan4 zai4 wo3 zhe4 yi4bian1 ma5？	Are you with me? 
+我要去商店买一些水果。	wo3 yao4 qu4 shang1dian4 mai3 yi4xie1 shui3guo3。	I'll go to the store to buy some fruit. 
+做买卖	zuo4 mai3mai5	do business, be engaged in business 
+我得买些新衣服。	wo3 de5 mai3 xie1 xin1 yi1fu5。	I need to buy new clothes. 
+没关系。	mei2 guan1xi5。	It doesn't matter. 
+没有办法	mei2you3 ban4fa3	there's nothing we can do 
+没有差错	mei2you3 cha1cuo4	error-free 
+“你去过中国没有?”“还没有。”	“ ni3 qu4 guo4 Zhong1guo2 mei2you3”“ hai2 mei2you3。”	“Have you ever been to China?” “Not yet.” 
+还没有	hai2 mei2you3	not yet 
+没有问题	mei2you3 wen4ti2	no problem 
+“你有什么需要, 可以跟我说。”“谢谢, 没有什么需要。”	“ ni3 you3 shen2me5 xu1yao4, ke3yi3 gen1 wo3 shuo1。”“ xie4xie5, mei2you3 shen2me5 xu1yao4。”	“If there's anything you need, let me know.” “Thank you, but there's nothing I need.” 
+没有意思	mei2you3 yi4si5	uninteresting, meaningless 
+没有用	mei2you3 yong4	useless 
+我没有带零钱。	wo3 mei2you3 dai4 ling2qian2。	I have no change on me. 
+我认为他没有错。	wo3 ren4wei2 ta1 mei2you3 cuo4。	I consider him blameless. 
+他可能没有办法帮助我们。	ta1 ke3neng2 mei2you3 ban4fa3 bang1zhu4 wo3men5。	He may be unable to help us. 
+没有人知道她是谁。	mei2you3 ren2 zhi1dao5 ta1 shi4 shui2。	No one knew who she was. 
+我们明天考试。	wo3men5 ming2tian1 kao3shi4。	We're having an examination tomorrow. 
+明天是星期五。	ming2tian1 shi4 Xing1qi1wu3。	Tomorrow will be Friday. 
+你喜欢哪种音乐？	ni3 xi3huan5 na3 zhong3 yin1yue4？	What sort of music do you like? 
+那位先生是谁?	na4wei4 xian1sheng5 shi4 shui2	Who is that gentleman? 
+喂, 你的票呢?	wei4, ni3 de5 piao4 ne5	Hey, where's your ticket? 
+你着急有什么用呢? 慢慢想办法吧。	ni3 zhao2ji2 you3 shen2me5 yong4 ne5 man4man4 xiang3 ban4fa3 ba5。	What's the use of being worried? Let's think of a plan. 
+他说他自己能做。	ta1 shuo1 ta1 zi4ji3 neng2 zuo4。	He said he could do that all by himself. 
+要等到绿灯才能走。	yao4 deng3dao4 lü4deng1 cai2neng2 zou3。	Wait till the lights turn green. 
+我愿意帮助你。	wo3 yuan4yi4 bang1zhu4 ni3。	I'm willing to help you. 
+你什么时候去中国?	ni3 shen2me5 shi2hou5 qu4 Zhong1guo2	When are you going to China? 
+你什么时候可以做完作业?	ni3 shen2me5 shi2hou5 ke3yi3 zuo4wan2 zuo4ye4	When can you finish your homework? 
+你住在什么地方?	ni3 zhu4 zai4 shen2me5 di4fang5	Where do you live? 
+请你出去一下。	qing3 ni3 chu1qu5 yi2xia4。	Please go out for a while. (→ Please leave us for a while.) 
+你在忙什么?	ni3 zai4 mang2 shen2me5	What are you busy with? 
+你找谁?	ni3 zhao3 shui2	Who are you looking for? 
+你是谁?	ni3 shi4 shui2	Who're you? 
+你最近身体怎么样?	ni3 zui4jin4 shen1ti3 zen3me5yang4	How's your health been recently? 
+“你最喜欢什么颜色?”“蓝颜色。”	“ ni3 zui4 xi3huan5 shen2me5 yan2se5”“ lan2 yan2se5。”	“What's your favorite color?” “Blue.” 
+我是为你着想。	wo3 shi4wei2 ni3 zhuo2xiang3。	I'm considering your interest. (→ I'm doing this for your good.) 
+你笑什么?	ni3 xiao4 shen2me5	What are you laughing at? 
+你自己	ni3 zi4ji3	yourself 
+你要注意身体。	ni3 yao4 zhu4yi4 shen1ti3。	You should pay attention to your health. 
+你要什么?	ni3 yao4 shen2me5	What do you want? 
+你觉得我这件新衣服怎么样?	ni3 jue2de5 wo3 zhe4 jian4 xin1 yi1fu5 zen3me5yang4	What do you think of my new dress? 
+你说得慢, 我就听得懂。	ni3 shuo1de5 man4, wo3 jiu4 ting1de2dong3。	If you speak slowly, I can understand you. 
+你为什么上班经常迟到？	ni3 wei4shen2me5 shang4ban1 jing1chang2 chi2dao4？	Why are you often late for work? 
+你姓什么？（→ 您贵姓？）	ni3 xing4 shen2me5？（ nin2 gui4xing4？）	What is your family name? 
+你最喜欢什么颜色？	ni3 zui4 xi3huan5 shen2me5 yan2se5？	What is your favorite color? 
+你还是现在就走吧。	ni3 hai2shi5 xian4zai4 jiu4 zou3 ba5。	You might as well go now. 
+过年	guo4nian5	observe New Year's Day 
+老年人	lao3nian2ren2	old person 
+笑一笑, 十年少。	xiao4yi1xiao4, shi2 nian2shao4。	Laugh and you'll be ten years younger. (→ Laughter is the best medicine.) 
+他每年检查一次身体。	ta1 mei3 nian2 jian3cha2 yi1ci4 shen1ti3。	He has a physical examination (or medical checkup) once a year. 
+新年礼物	xin1nian2 li3wu4	New Year present 
+年轻人	nian2qing1ren2	young person, youth 
+老朋友	lao3peng2you5	long-standing friend 
+男朋友	nan2peng2you5	boyfriend 
+女朋友	nü3peng2you5	girlfriend 
+我下午去机场接一位朋友。	wo3 xia4wu3 qu4 ji1chang3 jie1 yi1 wei4 peng2you5。	I'm going to the airport to meet a friend this afternoon. 
+他是我的朋友。	ta1 shi4 wo3 de5 peng2you5。	He is a friend of mine. 
+七百七十七	qi1bai3 qi1shi2qi1	seven hundred and seventy-seven 
+两角钱	liang3 jiao3 qian2	two <py>jiao</py>, twenty cents 
+他打算到银行去借钱。	ta1 da3suan4 dao4 yin2hang2 qu4 jie4qian2。	He plans to ask for a loan from the bank. 
+钱包	qian2bao1	wallet, purse 
+他又向我借钱。	ta1 you4 xiang4 wo3 jie4qian2。	He asked me for a loan again. 
+您先请。	nin2 xian1 qing3。	After you. 
+请坐!	qing3zuo4	Sit down, please! 
+请进!	qing3jin4	Please come in! (or Please go in!) 
+请问, 去火车站怎么走?	qing3wen4, qu4huo3 che1zhan4 zen3me5 zou3	Excuse me, could you show me the way to the railway station? 
+上去	shang4qu5	go up 
+马上送他到医院去！	ma3shang4 song4 ta1 dao4 yi1yuan4 qu4！	Send him to hospital, now! 
+热带	re4dai4	tropical zone, tropics 
+介绍人	jie4shao4 ren2	matchmaker, sponsor (for membership in a club, a political party, an association etc.) 
+男人	nan2ren5	man, men 
+外地人	wai4di4ren2	one who is from other parts of the country, not a native 
+我为人人, 人人为我。	wo3 wei2ren2 ren2, ren2ren2 wei4wo3。	I work for everybody as everybody works for me. (→ One for all and all for one.) 
+要人	yao4ren2	important person, VIP 
+我家有四口人。	wo3jia1 you3 si4 kou3 ren2。	There're four people in my family. 
+她认为自己高人一等。	ta1 ren4wei2 zi4ji3 gao1 ren2 yi1 deng3。	She thinks herself above the common people. 
+我们从小认识。	wo3men5 cong2xiao3 ren4shi5。	We've known each other since childhood. 
+十三	shi2san1	thirteen 
+星期三	Xing1qi1san1	Wednesday 
+三十	san1shi2	thirty 
+三张桌子	san1 zhang1 zhuo1zi5	three tables/desks 
+三百元	san1bai3 yuan2	three hundred yuan/dollars 
+三米半	san1 mi3 ban4	three and half meters. 
+她再三要求, 才让她参加了考试。	ta1 zai4san1 yao1qiu2, cai2 rang4 ta1 can1jia1 le5 kao3shi4。	It was only after her repeated requests that she was allowed to sit for the examination. 
+楼上	lou2shang4	upstairs 
+马路上	ma3lu4 shang5	in the street, on the road 
+世界上	shi4jie4 shang5	in the world 
+习惯上	xi2guan4 shang5	habitually 
+上一课	shang4 yi2 ke4	the previous class (lesson) 
+上星期	shang4 xing1qi1	last week 
+我坐电梯上楼。	wo3 zuo4 dian4ti1 shang4 lou2。	I take the lift upstairs. 
+上楼	shang4 lou2	go upstairs 
+上船	shang4 chuan2	board a ship 
+上课	shang4 ke4	go to class 
+马上送医院!	ma3shang4 song4 yi1yuan4	Take him to the hospital rightnow! 
+老太太, 您找谁?	lao3 tai4tai5, nin2 zhao3 shui2	Who are you looking for, ma'am? 
+谁先说？	shui2 xian1 shuo1？	Who wants to speak first? 
+谁要这些旧书？自己拿吧。	shui2 yao4 zhe4xie1 jiu4shu1？ zi4ji3 na2 ba5。	Anyone wants these old books? Help yourself. 
+是谁？	shi4 shui2？	Who is it? 
+他生什么病?	ta1 sheng1 shen2me5 bing4	What is he ill with? (→ What's wrong with him?) 
+他说什么?	ta1 shuo1 shen2me5	What did he say? 
+这是什么?	zhe4 shi4 shen2me5	What's this? 
+最新新闻是什么？	zui4xin1 xin1wen2 shi4 shen2me5？	What's the latest news? 
+五十	wu3shi2	fifty 
+一万一千一百十一	yi1wan4 yi1qian1 yi1bai3 shi2yi1	eleven thousand, one hundred and eleven 11,111 
+十五	shi2wu3	fifteen 
+我十分满意。	wo3 shi2fen1 man3yi4。	I'm totally satisfied. 
+四十四	si4shi2 si4	forty-four 
+他十四岁。	ta1 shi2si4 sui4。	He is 14 years of age. 
+这些是干净的衣服。	zhe4xie1 shi4 gan1jing4 de5 yi1fu5。	These are clean clothes. 
+书包	shu1bao1	schoolbag 
+文化水平	wen2hua4 shui3ping2	cultural level, educational experience 
+慢慢地说	man4man5 de5 shuo1	speak slowly 
+历史小说	li4shi3 xiao3shuo1	historical novel 
+星期四	Xing1qi1si4	Thursday 
+四千零五	si4qian1 ling2 wu3	4005 
+我弟弟比我小两岁。	wo3 di4di5 bi3 wo3 xiao3liang3 sui4。	My younger brother is two years younger than me. 
+他借给我一百元。	ta1 jie4gei3 wo3 yi1bai3 yuan2。	He lent me one hundred dollars. 
+他自己	ta1 zi4ji3	himself 
+她自己做衣服。	ta1 zi4ji3 zuo4 yi1fu5。	She makes her own clothes. 
+老太太	lao3 tai4tai5	old lady, old woman 
+张先生/太太/小姐	zhang1 xian1sheng5 tai4tai5 xiao3jie3	Mr/Mrs/Miss Zhang 
+听故事	ting1 gu4shi5	listen to a story 
+老同学	lao3tong2xue2	former schoolmate 
+张小姐教我们中文。	zhang1 xiao3jie3 jiao4 wo3men5 Zhong1wen2。	Miss Zhang teaches us Chinese. 
+我们自己	wo3men5 zi4ji3	ourselves 
+我哥哥比我高。	wo3 ge1ge5 bi3 wo3 gao1。	My elder brother is taller than I am. 
+让我想一想。	rang4 wo3 xiang3yi1xiang3。	Let me think. 
+我们放些音乐吧。	wo3men5 fang4 xie1 yin1yue4 ba5。	Let's put on some music. 
+星期五	Xing1qi1wu3	Friday 
+小孩子特别喜欢动物。	xiao3hai2zi5 te4bie2 xi3huan5 dong4wu4。	Children are particularly fond of animals. 
+等一下	deng3 yi2xia4	wait a minute 
+楼下	lou2xia4	downstairs 
+试试/试一下	shi4shi4 shi4 yi2xia4	have a try 
+想一下	xiang3 yi2xia4	think for a while, give … some thought 
+我要方便一下。	wo3 yao4 fang1bian4 yi2xia4。	I'm going to use the restroom. 
+下星期	xia4 xing1qi1	next week 
+下次	xia4ci4	next time 
+下课	xia4 ke4	finish class 
+下雪	xia4 xue3	to snow 
+老先生	lao3 xian1sheng5	old gentleman, old man 
+想办法	xiang3 ban4fa3	think up a plan, find a way of doing things 
+小学生	xiao3xue2sheng5	primary school student, pupil 
+过马路, 一定要小心。	guo4 ma3lu4, yi2ding4 yao4 xiao3xin1。	You must be very careful when crossing the street. 
+过马路要特别小心。	guo4 ma3lu4 yao4 te4bie2 xiao3xin1。	One should be especially careful when crossing the street. 
+半小时	ban4 xiao3shi2	half an hour 
+星期一	Xing1qi1yi1	Monday 
+学生应该把学习放在第一位。	xue2sheng5 ying1gai1 ba3 xue2xi2 fang4 zai4 di4-yi1 wei4。	Students should give priority to their studies. 
+高等学校	gao1deng3 xue2xiao4	institution of higher education, colleges and universities 
+一件衣服	yi2 jian4 yi1fu5	a piece of clothing (e.g. a jacket, dress) 
+一件事情	yi2 jian4 shi4qing5	a matter 
+一双筷子	yi4 shuang1 kuai4zi5	a pair of chopsticks 
+一把米	yi4 ba3 mi3	a handful of rice 
+一月	yi1yue4	January 
+一段路	yi2 duan4 lu4	a section of a road/street, part of a journey 
+这把椅子非常舒服。	zhe4 ba3 yi3zi5 fei1chang2 shu1fu5。	This is a very comfortable chair. 
+有借有还, 再借不难。	you3 jie4 you3 hai2, zai4 jie4 bu4 nan2。	Return what you borrowed, and it won't be difficult to borrow again. 
+有办法	you3 ban4fa3	have a way with …, be resourceful 
+有口才	you3 kou3cai2	be eloquent 
+再见。	zai4jian4。	See you later. 
+这孩子画得真不错。	zhe4 hai2zi5 hua4 de5 zhen1 bu2cuo4。	This child really doesn't draw badly. (→ This child draws quite well.) 
+中国画	Zhong1guo2hua4	Same as guo2hua4 
+两张桌子	liang3 zhang1 zhuo1zi5	two tables  
+错字	cuo4zi4	wrong character 
+坐船	zuo4 chuan2	travel by boat/ship 
+请坐。	qing3zuo4。	Sit down, please. 
+做决定	zuo4 jue2ding4	make a decision 
+做完	zuo4wan2	finish doing 
+参加比赛	can1jia1 bi3sai4	participate in a game (or sports event) 
+我最近特别忙。	wo3 zui4jin4 te4 bie2 mang2。	I'm particularly busy these days. 
+别着急, 慢慢地走。	bie2 zhao2ji2, man4man4 di4 zou3。	Don't be impatient. Walk slowly. 
+请别对我生气。	qing3 bie2 dui4 wo3 sheng1qi4。	Please don't be angry with me. 
+长远打算	chang2yuan3 da3suan4	long-term plan 
+出口公司	chu1kou3 gong1si1	export company 
+穿着	chuan1zhe5	be dressed in 
+得到	de2dao4	succeed in getting/obtaining 
+对。	dui4。	That's right. 
+高楼	gao1lou2	high-rise 
+分公司	fen1 gong1si1	branch of a company 
+旅游公司	lü3you2 gong1si1	travel company 
+贵姓	gui4xing4	your family name (polite usage, normally in a question) 
+过分的要求	guo4fen4 de5 yao1qiu2	excessive demands 
+过马路	guo4 ma3lu4	walk across a street 
+男孩子	nan2 hai2zi5	boy 
+女孩子	nü3 hai2zi5	girl 
+发电子邮件	fa1 dian4zi3 you2jian4	send an e-mail message 
+请进！	qing3jin4！	Come in! 
+考试成绩	kao3shi4 cheng2ji4	examination result 
+两双筷子	liang3 shuang1 kuai4zi5	two pairs of chopsticks 
+两条鱼	liang3 tiao2 yu2	two fish 
+两辆自行车	liang3 liang4 zi4xing2che1	two bicycles 
+马路	ma3lu4	road (in a city) 
+门票	men2piao4	admission ticket (to a show, sporting event, etc.) 
+铅笔画	qian1bi3 hua4	pencil drawing 
+日元	Ri4yuan2	Japanese yen 
+生日礼物	sheng1ri4 li3wu4	birthday present 
+讲故事	jiang3 gu4shi5	tell a story 
+用完	yong4wan2	use up 
+新闻节目	xin1wen2 jie2mu4	news program (on TV or radio) 
+草药	cao3yao4	herbal medicine 
+西药	xi1yao4	Western medicine 
+找借口	zhao3 jie4kou3	make up an excuse, invent an excuse 
+关灯	guan1 deng1	turn off the light 
+种花	zhong4 hua1	plant flowers, do gardening 
+体育节目	ti3yu4 jie2mu4	sports program 
+结婚礼物	jie2hun1 li3wu4	wedding present 
+口渴	kou3ke3	thirsty 
+骑马	qi2 ma3	ride a horse 
+一米	yi4 mi3	one meter 
+骑自行车	qi2 zi4xing2che1	ride a bicycle 
+我自己	wo3 zi4ji3	myself 
+你有什么爱好?	ni3 you3 shen2me5 ai4hao3	What's your hobby? 
+你爱她吗?	ni3 ai4 ta1 ma5	Do you love her? 
+爸爸是医生, 妈妈也是医生。	ba4ba5 shi4 yi1sheng1, ma1ma5 ye3shi4 yi1sheng1。	My father is a doctor, and so is my mother. 
+这本书能借我看看吗?	zhe4 ben3 shu1 neng2 jie4 wo3 kan4kan5 ma5	Can you lend me the book? 
+那本书卖多少钱?	na4 ben3 shu1 mai4 duo1shao5 qian2	How much is that book? 
+我只拿到一本。	wo3 zhi3 na2dao4 yi1 ben3。	I simply got one copy. 
+这本书是我的还是你的?	zhe4 ben3 shu1 shi4 wo3 de5 hai2shi5 ni3 de5	Is this book mine or yours? 
+这本书你看完了吗?	zhe4 ben3 shu1 ni3 kan4wan2 le5 ma5	Are you through with this book? 
+这本书是你的吗?	zhe4 ben3 shu1 shi4 ni3 de5 ma5	Is this book yours? 
+你觉得我们的汉语课本怎么样?	ni3 jue2de5 wo3men5 de5 Han4yu3 ke4ben3 zen3me5yang4	What do you think of our Chinese language textbook? 
+你跟服务员点菜了吗?	ni3 gen1 fu2wu4yuan2 dian3 cai4 le5 ma5	Have you given the waiter your order? 
+你吃了吗?	ni3 chi1 le5 ma5	Have you eaten? 
+这鱼还能吃吗?	zhe4 yu2 hai2 neng2chi1 ma5	Is this fish still edible? 
+吃干净!	chi1 gan1jing4	Eat up everything! 
+现在有钱才吃得开。	xian4zai4 you3qian2 cai2 chi1de5kai1。	Now being rich brings power and influence. 
+他好了, 现在吃得了。	ta1 hao3le5, xian4zai4 chi1de5 le5。	He's well again and can eat now. 
+你想吃什么甜点?	ni3 xiang3 chi1 shen2me5 tian2dian3	What will you have for dessert? 
+今天面包会吃完?	jin1tian1 mian4bao1 hui4 chi1wan2	We'll run out of bread today. 
+我只吃得下一小碗米饭。	wo3 zhi3 chi1de5xia4 yi1xiao3 wan3 mi3fan4。	I can only manage one small bowl of rice. 
+你多大了?	ni3 duo1 da4 le5	How old are you? 
+几点了?	ji3 dian3 le5	What time is it? 
+你觉得好一点儿了吗?	ni3 jue2de5 hao3 yi4dian3r5 le5 ma5	Do you feel any better? 
+你要说的要点是什么?	ni3 yao4shuo1 de5 yao4dian3 shi4 shen2me5	What's the major point you want to make? 
+除了电脑, 他对什么都不感兴趣。	chu2le5 dian4nao3, ta1 dui4 shen2me5 dou1 bu4 gan3 xing4qu4。	Apart from computers, he's not interested in anything. 
+我想借用一下你的电脑, 好吗?	wo3 xiang3 jie4yong4 yi2xia4 ni3 de5 dian4nao3, hao3 ma5	May I use your computer for a while? 
+今天电视有什么好节目?	jin1tian1 dian4shi4 you3 shen2me5 hao3 jie2mu4	Are there any good programs on TV today? 
+你看了那个新电影了吗?	ni3 kan4 le5 na4ge5 xin1 dian4ying3 le5 ma5	Have you seen that new movie? 
+你多久看一次电影?	ni3 duo1 jiu3 kan4 yi1ci4 dian4ying3	How often do you go to the movies? 
+今天晚上去看电影怎么样?	jin1tian1 wan3shang5  qu4 kan4 dian4ying3 zen3me5yang4	What do you think of going to the movies tonight? 
+真不是东西!	zhen1 bu2shi5 dong1xi5	What a contemptible creature! 
+你是不是少了东西?	ni3 shi4bu5shi4 shao3le5 dong1xi5	Are you missing something? 
+来, 我给你看一样东西。	lai2, wo3 gei3 ni3 kan4 yi2yang4 dong1xi5。	Come, I'll show you something. 
+这东西叫什么?	zhe4 dong1xi5 jiao4 shen2me5	What's this called? 
+让我看看你包里的东西。	rang4 wo3 kan4kan5 ni3 bao1 li3 de5 dong1xi5。	Let me see the contents of your bag. 
+把你的东西放在这个房间里。	ba3 ni3 de5 dong1xi5 fang4 zai4 zhe4ge5 fang2jian1 li3。	Put your stuff in this room. 
+对不起, 让你久等了。	dui4bu5qi3, rang4 ni3 jiu3deng3 le5。	Sorry to have kept you waiting. 
+你今天完成了多少?	ni3 jin1tian1 wan2cheng2 le5 duo1shao5	How much did you accomplish today? 
+你有多少钱?	ni3 you3 duo1shao5 qian2	How much dough do you have? 
+这个多少钱?	zhe4ge5 duo1shao5 qian2	How much does this cost? 
+比分是多少?	bi3fen1 shi4 duo1shao5	What's the score? 
+我把很多时间花在图书馆里。	wo3 ba3 hen3 duo1 shi2jian1 hua1 zai4 tu2shu1guan3 li3。	I spend many hours in the library. 
+这里到图书馆有多远?	zhe4li5 dao4 tu2shu1guan3 you3 duo1yuan3	How far is it to the library? 
+你的船有多长?	ni3 de5 chuan2 you3 duo1 zhang3	How long is your boat? 
+你有多高?	ni3 you3 duo1 gao1	What's your height? 
+多少钱一个?	duo1shao5 qian2 yi1 ge4	How much is it for one? 
+要等一个小时飞机才会起飞。	yao4 deng3 yi1 ge4 xiao3shi2 fei1ji1 cai2 hui4 qi3fei1。	There will be an hour's wait before the plane takes off. 
+只需要一分钟我就好了。	zhi3 xu1yao4 yi1 fen1zhong1 wo3 jiu4 hao3le5。	I'll be ready in just a minute. 
+你能给我几分钟吗?	ni3 neng2 gei3 wo3 ji3 fen1zhong1 ma5	Can you spare me a couple of minutes? 
+你要哪个?	ni3 yao4 na3ge5	Which one would you pick? 
+你喜欢哪个?	ni3 xi3huan5 na3ge5	Which do you prefer? 
+我的办公室在那个五层楼里。	wo3 de5 ban4gong1shi4 zai4 na4ge5 wu3 ceng2lou2 li3。	My office is in that five-story building. 
+你看出那个人有什么奇怪的地方吗?	ni3 kan4chu1 na4 ge4ren2 you3 shen2me5 qi2guai4 de5 di4fang5 ma5	Did you notice anything strange about that man? 
+你喜欢这个吗?	ni3 xi3huan5 zhe4ge5 ma5	Do you like this? 
+这个工作要做好久?	zhe4ge5 gong1zuo4 yao4 zuo4 hao3jiu3	How long will it take to do the job? 
+我在工作。	wo3 zai4 gong1zuo4。	I'm working now. 
+我相信应该努力工作。	wo3 xiang1xin4 ying1gai1 nu3li4 gong1zuo4。	I believe in working hard. 
+我很喜欢我的新工作。	wo3 hen3 xi3huan5 wo3 de5 xin1 gong1zuo4。	I'm enthused about my new job. 
+他工作很努力。	ta1 gong1zuo4 hen3 nu3li4。	He works hard. 
+我们必须想办法完成工作。	wo3men5 bi4xu1 xiang3 ban4fa3 wan2cheng2 gong1zuo4。	We must find the means to finish the job. 
+你用不着今天就把这个工作做完。	ni3 yong4bu5zhao2 jin1tian1 jiu4 ba3 zhe4ge5 gong1zuo4 zuo4wan2。	You needn't finish this job today. 
+我的工作不累。	wo3 de5 gong1zuo4 bu4 lei3。	My work doesn't tire me. 
+别小看你的工作。	bie2 xiao3kan4 ni3 de5 gong1zuo4。	Don't trivialize your work. 
+我听说你在找工作。	wo3 ting1shuo1 ni3 zai4 zhao3 gong1zuo4。	I understand you're looking for a job. 
+我工作忙极了。	wo3 gong1zuo4 mang2 ji2le5。	I'm up to my ears in work. 
+我还在找工作。	wo3 hai2 zai4 zhao3 gong1zuo4。	I'm still looking for work. 
+我的狗生病了。	wo3 de5 gou3 sheng1 bing4 le5。	My dog fell ill. 
+你会说汉语吗?	ni3 hui4shuo1 Han4yu3 ma5	Can you speak Chinese? 
+我希望在中国提高我的汉语水平。	wo3 xi1wang4 zai4 Zhong1guo2 ti2gao1 wo3 de5 Han4yu3 shui3ping2。	I hope to perfect my Chinese in China. 
+这是你练习汉语的好机会。	zhe4 shi4 ni3 lian4xi2 Han4yu3 de5 hao3 ji1hui4。	This is good chance to practice your Chinese. 
+他汉语不错。	ta1 Han4yu3 bu2cuo4。	He's quite proficient in Chinese. 
+你的感冒老不好,真叫我担心。	ni3 de5 gan3mao4 lao3 bu4 hao3, zhen1 jiao4 wo3 dan1xin1。	I'm perturbed about your persistent cold. 
+我早上觉得最好。	wo3 zao3shang5 jue2de5 zui4hao3。	I feel best in the morning. 
+他对我说“早上好。”	ta1 dui4 wo3 shuo1“ zao3shang5 hao3。”	He bade me “good morning.” 
+是我不好。	shi4 wo3 bu4 hao3。	I'm to blame. 
+请等一下,我马上就好。	qing3 deng3 yi2xia4, wo3 ma3shang4 jiu4 hao3。	I'll be with you in a jiffy. 
+他不知道怎么回答我的问题才好。	ta1 bu4zhi1dao4 zen3me5 hui2da2 wo3 de5 wen4ti2 cai2hao3。	He was nonplussed by my question. 
+我数学不太好。	wo3 shu4xue2 bu4tai4 hao3。	I'm not strong in math. 
+他学习很好。	ta1 xue2xi2 hen3 hao3。	He is doing very well in his studies. 
+她说这个礼物太好了。	ta1 shuo1 zhe4ge5 li3wu4 tai4 hao3le5。	She said that the gift was divine. 
+我们做好了走的准备。	wo3men5 zuo4hao3 le5 zou3 de5 zhun3bei4。	We're all set to go. 
+我们等你准备好了才走。	wo3men5 deng3 ni3 zhun3bei4 hao3le5 cai2 zou3。	We won't leave until you're ready. 
+看好你弟弟。	kan1hao3 ni3 di4di5。	Watch your baby brother. 
+好像要下雨了。	hao3xiang4 yao4 xia4 yu3 le5。	It looks like it's about to rain. 
+你走的时候把灯关上,好吗?	ni3 zou3 de5 shi2hou5 ba3 deng1 guan1shang5, hao3 ma5	Could you turn off the light when you go? 
+他不是什么好学生。	ta1 bu2shi5 shen2me5 hao3 xue2sheng5。	He isn't much of a student. 
+他是我的很要好的朋友。	ta1 shi4 wo3 de5 hen3 yao4 hao3 de5 peng2you5。	He's my close friend. 
+他是我的很好的朋友。	ta1 shi4 wo3 de5 hen3 hao3 de5 peng2you5。	He's a dear friend. 
+我们得想个更好的解决办法。	wo3men5 de5 xiang3 ge4 geng4hao3 de5 jie3jue2 ban4fa3。	We have to devise a better solution. 
+最好的旅游季节是什么时候?	zui4hao3 de5 lü3you2 ji4jie2 shi4 shen2me5 shi2hou5	What is the best season for tourism? 
+你能讲个比他更好的故事吗?	ni3 neng2 jiang3 ge4 bi3 ta1 geng4hao3 de5 gu4shi5 ma5	Can you top his story? 
+今天几号?	jin1tian1 ji3 hao4	What's the date today? 
+十月三号是我的生日。	shi2yue4 san1 hao4 shi4 wo3 de5 sheng1ri4。	My birthday is October 3. 
+一百多号人	yi1bai3 duo1 hao4 ren2	over a hundred people 
+一月三号	yi1yue4 san1 hao4	January third 
+五号	wu3 hao4	number five 
+这水干净吗? 能喝吗?	zhe4 shui3 gan1jing4 ma5 neng2 he1 ma5	Is the water pure enough to drink? 
+应该喝开水。	ying1gai1 he1 kai1shui3。	You should drink boiled water. 
+他喜欢喝咖啡。	ta1 xi3huan5 he1 ka1fei1。	He likes drinking coffee. 
+你和我坐在一起吧。	ni3 he2 wo3 zuo4 zai4 yi4qi3 ba5。	You sit together with me. 
+张先生和张太太	zhang1 xian1sheng5 he2 zhang1 tai4tai5	The Zhangs 
+这次考试容易得很。	zhe4ci4 kao3shi4 rong2yi4 de5hen3。	The exam was a breeze. 
+我们等公共汽车等了很久。	wo3men5 deng3 gong1gong4 qi4che1 deng3 le5 hen3 jiu3。	We had a long wait for the bus. 
+他是个很会说话的人。	ta1 shi4 ge4 hen3 hui4 shuo1hua4 de5 ren2。	He's a smooth talker. 
+你很可能是对的。	ni3 hen3 ke3neng2 shi4 dui4 de5。	You may well be right. 
+他的身体很差。	ta1 de5 shen1ti3 hen3 cha1。	He's in poor physical condition. 
+我爷爷看上去很年轻。	wo3 ye2ye5 kan4 shang4qu5 hen3 nian2qing1。	My grandpa has a youthful look. 
+我今天很忙。	wo3 jin1tian1 hen3 mang2。	I'm very busy today. 
+会议很快就要开始了。	hui4yi4 hen3 kuai4 jiu4yao4 kai1shi3 le5。	The meeting will begin soon. 
+我其实很想跟你去,不过我走不开。	wo3 qi2shi2 hen3xiang3 gen1 ni3 qu4, bu2guo4 wo3 zou3bu5kai1。	I'd sure like to go with you, but I'm tied up. 
+他很有钱。	ta1 hen3 you3qian2。	He has a great deal of money. 
+他很有办法。	ta1 hen3 you3 ban4fa3。	He's nothing if not resourceful. 
+这些苹果很甜。	zhe4xie1 ping2guo3 hen3 tian2。	These apples are sweet. 
+其实事情很简单。	qi2shi2 shi4qing5 hen3 jian3dan1。	Actually, it's a simple matter. 
+我很累。	wo3 hen3 lei3。	I'm pretty tired. 
+这个老师考试出题很难。	zhe4ge5 lao3shi1 kao3shi4 chu1ti2 hen3 nan2。	This teacher gives hard tests. 
+去回了他。	qu4 hui2 le5 ta1。	Go and refuse him. 
+他想回家。	ta1 xiang3 hui2jia1。	He wants to return home. 
+他请假回家。	ta1 qing3jia4 hui2jia1。	He asked for leave to return home. 
+下雨了, 我们只好回家。	xia4 yu3 le5, wo3men5 zhi3hao3 hui2jia1。	It was raining, so we had to go home. 
+我回来了。	wo3 hui2lai5 le5。	I'm back. 
+什么时候回来, 这很难说。	shen2me5 shi2hou5 hui2lai5, zhe4 hen3 nan2shuo1。	As to when I'll come back, that's hard to say. 
+这个问题好回答。	zhe4ge5 wen4ti2 hao3 hui2da2。	This question is easy to answer. 
+请回答我的问题。	qing3 hui2da2 wo3 de5 wen4ti2。	Please answer my question. 
+下个月我回老家看看。	xia4 ge4 yue4 wo3 hui2 lao3jia1 kan4kan5。	I'll return to my hometown for a visit next month. 
+你打算什么时候回老家?	ni3 da3suan4 shen2me5 shi2hou5 hui2 lao3jia1	When will you go back to your hometown? 
+他一九五零年回到中国。	ta1 yi1 jiu3 wu3 ling2 nian2 hui2dao4 Zhong1guo2。	He returned to China in nineteen-fifty. 
+回家	hui2jia1	Go home 
+我走最近的路回家。	wo3 zou3 zui4jin4 de5 lu4 hui2jia1。	I took the shortest way home. 
+我一直等到他回家。	wo3 yi4zhi2 deng3dao4 ta1 hui2jia1。	I waited till he came home. 
+欢迎你又回家了!	huan1ying2 ni3 you4 hui2jia1 le5	Welcome home again! 
+我的回答对吗?	wo3 de5 hui2da2 dui4 ma5	Did I give the right answer? 
+我对他的回答不满意。	wo3 dui4 ta1 de5 hui2da2 bu4 man3yi4。	I'm not satisfied with his answer. 
+他的老师认为应该再给他一次机会。	ta1 de5 lao3shi1 ren4wei2 ying1gai1 zai4 gei3 ta1 yi1ci4 ji1hui4。	His teacher argued that he should be given another chance. 
+这是我们最后一次机会。	zhe4 shi4 wo3men5 zui4hou4 yi1ci4 ji1hui4。	This is our last chance. 
+我非常喜欢那个音乐会。	wo3 fei1chang2 xi3huan5 na4ge5 yin1yue4 hui4。	I enjoyed the concert very much. 
+你得等机会。	ni3 de5 deng3 ji1hui4。	You need to wait your chance. 
+请等一会儿。	qing3 deng3 yi1hui4r5。	Wait awhile, please. 
+我一会儿就走。	wo3 yi1hui4r5 jiu4 zou3。	I'll be on my way soon. 
+我一会儿就过来。	wo3 yi1hui4r5 jiu4 guo4lai5。	I'll be with you in a minute. 
+你会开船吗?	ni3 hui4 kai1chuan2 ma5	Do you know how to sail a boat? 
+我们会找出解决问题的办法。	wo3men5 hui4 zhao3chu1 jie3jue2 wen4ti2 de5 ban4fa3。	We'll work out a solution to the problem. 
+还会有人来。	hai2 hui4 you3ren2 lai2。	More will come. 
+你会游泳吗?	ni3 hui4 you2yong3 ma5	Do you know how to swim? 
+你会用筷子吗?	ni3 hui4 yong4 kuai4zi5 ma5	Can you use chopsticks? 
+我怎么会知道?	wo3 zen3me5 hui4 zhi1dao5	How should I know? 
+我会让他还你钱的。	wo3 hui4 rang4 ta1 hai2 ni3 qian2 de5。	I'll get him to pay you back. 
+你打算参加明天的会议吗?	ni3 da3suan4 can1jia1 ming2tian1 de5 hui4yi4 ma5	Do you plan to attend the conference tomorrow? 
+我会试着解决这个问题。	wo3 hui4shi4 zhe5 jie3jue2 zhe4ge5 wen4ti2。	I'll make a stab at solving the problem. 
+你别想他会还你钱。	ni3 bie2 xiang3 ta1 hui4 hai2 ni3 qian2。	You can kiss good-bye to the money you loaned him. 
+四十好几	si4shi2 hao3ji3	well over forty 
+今天星期几?	jin1tian1 xing1qi1ji3	Which day is it today? 
+我长他几岁。	wo3 zhang3 ta1 ji3 sui4。	I'm a few years older than he is. 
+我们几点出发?	wo3men5 ji3 dian3 chu1fa1	When do we set out? 
+现在几点了?。	xian4zai4 ji3 dian3 le5。	What time is it now? 
+我们下星期搬家。	wo3men5 xia4 xing1qi1 ban1jia1。	We'll move next week. 
+张家人	zhang1 jia1ren2	The Zhangs 
+你家住哪儿?	ni3 jia1 zhu4 na3r5	What's your home address? 
+我的家在学校附近。	wo3 de5 jia1 zai4 xue2xiao4 fu4jin4。	My home is near the school. 
+他叫什么名字来着?	ta1 jiao4 shen2me5 ming2zi5 lai2zhe5	What was his name again? 
+去叫医生。	qu4 jiao4 yi1sheng1。	Please send for the doctor. 
+今天谁过生日?	jin1tian1 shui2 guo4 sheng1ri4	Whose birthday is it today? 
+那个新商店今天开张。	na4ge5 xin1 shang1dian4 jin1tian1 kai1zhang1。	That new shop opens for business today. 
+我今天不大舒服。	wo3 jin1tian1 bu2da4 shu1fu5。	I'm not well today. 
+今天太阳很好。	jin1tian1 tai4yang5 hen3 hao3。	It's a nice sunny day. 
+下雨了。要不我们今天不去游泳了吧。	xia4 yu3 le5。 yao4bu4 wo3men5 jin1tian1 bu4 qu4 you2yong3 le5 ba5。	It's raining. Let's not go swimming today. 
+今天作业真多。	jin1tian1 zuo4ye4 zhen1 duo1。	We have got so many school assignments today. 
+你今天不去上课吗?	ni3 jin1tian1 bu4 qu4 shang4 ke4 ma5	Aren't you going to class today? 
+你今天的作业做完了吗?	ni3 jin1tian1 de5 zuo4ye4 zuo4wan2 le5 ma5	Have you finished today's assignment? 
+今天没有什么重要新闻。	jin1tian1 mei2you3 shen2me5 zhong4yao4 xin1wen2。	There's no noteworthy news today. 
+我今天不太舒服。	wo3 jin1tian1 bu4tai4 shu1fu5。	I'm a bit off today. 
+今天看上去要下雨。	jin1tian1 kan4 shang4qu5 yao4 xia4 yu3。	It looks like rain today. 
+我今天特别不舒服。	wo3 jin1tian1 te4bie2 bu4 shu1fu5。	I feel rotten today. 
+九岁	jiu3 sui4	nine years old 
+一百一十九	yi1bai3yi1 shi2jiu3	one hundred nineteen 
+你可以离开了。	ni3 ke3yi3 li2kai1 le5。	You may go now. 
+谁能换开十块钱?	shui2neng2 huan4 kai1 shi2 kuai4 qian2	Who can break a ten-yuán note? 
+我们开始还不错。	wo3men5 kai1shi3 hai2 bu4cuo4。	We've had a good beginning. 
+他开始明白了。	ta1 kai1shi3 ming2bai5 le5。	He begins to understand. 
+让门开着吧。	rang4 men2 kai1 zhe5 ba5。	Leave the door open. 
+图书馆还开着吗?	tu2shu1guan3 hai2 kai1 zhe5 ma5	Is the library still open? 
+你对这个问题怎么看?	ni3 dui4 zhe4ge5 wen4ti2 zen3me5 kan4	What's your angle on this problem? 
+对这个问题你怎么看?	dui4 zhe4ge5 wen4ti2 ni3 zen3me5 kan4	What's your view on this subject? 
+他看上去还不错。	ta1 kan4 shang4qu5 hai2 bu4cuo4。	He seems to be alright. 
+看上去要下雪。	kan4 shang4qu5 yao4 xia4 xue3。	It looks like snow. 
+你在看什么?	ni3 zai4 kan4 shen2me5	What are you looking at? 
+你看得懂中文吗?	ni3 kan4de5 dong3 Zhong1wen2 ma5	Can you read Chinese? 
+在我看来,你错了。	zai4 wo3 kan4 lai2, ni3 cuo4le5。	From my perspective, you're wrong. 
+我们应该看看能做些什么。	wo3men5 ying1gai1 kan4kan5 neng2 zuo4 xie1 shen2me5。	We must see what can be done. 
+我走的时候看见他了。	wo3 zou3 de5 shi2hou5 kan4jian4 ta1 le5。	I saw him as I was leaving. 
+我刚才看见你了。	wo3 gang1cai2 kan4jian4 ni3 le5。	I saw you just now. 
+你看错他了。	ni3 kan4cuo4 ta1 le5。	You're wrong about him. 
+想不到在这里看见你。	xiang3bu5dao4 zai4 zhe4li5 kan4jian4 ni3。	Fancy seeing you here! 
+贵得很, 要一百多块呢。	gui4 de5 hen3, yao4 yi1bai3 duo1 kuai4 ne5。	It's awfully expensive, over $100. 
+差两块钱	cha1 liang3 kuai4 qian2	two yuán short 
+这块地方不让进。	zhe4 kuai4 di4fang5 bu4 rang4 jin4。	This area is out of bounds. 
+这块地是谁的?	zhe4 kuai4 di4 shi4 shui2 de5	Who does this plot of land belong to? 
+他站了起来,然后走了出去。	ta1 zhan4 le5 qi3lai5, ran2hou4 zou3 le5 chu1qu5。	He got up and walked out. 
+你先来,你在我前面。	ni3 xian1 lai2, ni3 zai4 wo3 qian2mian5。	Go ahead, you are before me. 
+你从哪儿来?	ni3 cong2 na3r5 lai2	Where did you come from? 
+来,坐我腿上。	lai2, zuo4 wo3 tui3 shang4。	Come sit on my lap. 
+站起来!	zhan4 qi3lai5	Get up! 
+她突然哭了起来。	ta1 tu1ran2 ku1 le5 qi3lai5。	She burst into tears. 
+他还有脸来。	ta1 hai2 you3lian3 lai2。	He even has the cheek to show up. 
+我学习的时候不喜欢有人来。	wo3 xue2xi2 de5 shi2hou5 bu4 xi3huan5 you3ren2 lai2。	When I'm studying, I don't like to have visitors. 
+太阳出来了。	tai4yang5 chu1lai5 le5。	The sun has come out. 
+万一明天下雨我就不来了。	wan4yi1 ming2tian1 xia4 yu3 wo3 jiu4 bu4 lai2 le5。	Should it rain tomorrow, I won't come. 
+你能把你说的写下来吗?	ni3 neng2 ba3 ni3 shuo1 de5 xie3 xia4lai5 ma5	Can you put what you said in writing? 
+你能来吗?	ni3 neng2 lai2 ma5	Are you able to come? 
+过来坐在我旁边。	guo4lai5 zuo4 zai4 wo3 pang2bian1。	Come sit beside me. 
+后来怎么了?	hou4lai2 zen3me5le5	Then what happened ? 
+我来找你帮忙。	wo3 lai2 zhao3 ni3 bang1mang2。	I've come to seek your help. 
+你能来机场接我吗?	ni3 neng2 lai2 ji1chang3 jie1 wo3 ma5	Could you come and meet me at the airport? 
+我们明天来解决这个问题。	wo3men5 ming2tian1 lai2 jie3jue2 zhe4ge5 wen4ti2。	We'll begin working on this problem tomorrow. 
+让我来试试解决这个问题。	rang4 wo3 lai2 shi4shi4 jie3jue2 zhe4ge5 wen4ti2。	Let me have a go at solving this problem. 
+对我来说,这不是问题。	dui4 wo3 lai2 shuo1, zhe4 bu2shi5 wen4ti2。	As far as I'm concerned, this is not a problem. 
+张老师	zhang1 lao3shi1	Teacher Zhang 
+天气一冷	tian1qi4 yi1 leng3	as soon as the weather turns cold 
+冷起来了。	leng3 qi3lai5 le5。	It's starting to get cold. 
+牛奶在冰箱里。	niu2nai3 zai4 bing1xiang1 li3。	The milk is in the fridge. 
+一百一十六	yi1bai3yi1 shi2liu4	one hundred sixteen 
+五个的六个, 一共十一个。	wu3 ge4 de5 liu4 ge4, yi2gong4 shi2yi1 ge4。	Five plus six is eleven. 
+他年近六十。	ta1nian2 jin4 liu4shi2。	He's close to 60 years old. 
+我们六点下班。	wo3men5 liu4 dian3 xia4ban1。	We go off work at 6 o'clock. 
+妈妈不让我去。	ma1ma5 bu4 rang4 wo3 qu4。	My mom won't let me go. 
+妈妈很疼我。	ma1ma5 hen3 teng2 wo3。	My mother loves me dearly. 
+我姓我妈妈的姓。	wo3 xing4 wo3 ma1 ma1 de5 xing4。	I take my mother's family name. 
+这还得了(吗) ?	zhe4 hai2 de2le5( ma5)	Isn't it awful? 
+要下雨了。你还要走吗?	yao4 xia4 yu3 le5。 ni3 hai2yao4 zou3 ma5	It's going to rain. Do you still want to go? 
+除了这些, 还有吗?	chu2le5 zhe4xie1, hai2 you3 ma5	Are there still some left apart from these? 
+我好进来吗?	wo3 hao3 jin4lai5 ma5	May I come in? 
+你会吗?	ni3 hui4 ma5	Do you know how? 
+你还记得我吗?	ni3 hai2 ji4de5 wo3 ma5	Do you still remember me? 
+你喜欢教书吗?	ni3 xi3huan5 jiao1shu1 ma5	Do you like teaching? 
+你近来身体好吗?	ni3 jin4lai2 shen1ti3 hao3 ma5	How's your health lately? 
+这不就是你要的书吗?	zhe4 bu4 jiu4shi4 ni3 yao4 de5 shu1 ma5	Isn't this the book you want? 
+你里里外外都检查过了吗?	ni3 li3li3wai4wai4 dou1 jian3cha2 guo4 le5 ma5	Did you check both the inside and the outside? 
+你了解他吗?	ni3 liao3jie3 ta1 ma5	Do you know him well? 
+我可以换些零钱吗?	wo3 ke3yi3 huan4 xie1 ling2qian2 ma5	Can I have some small change? 
+水热吗?	shui3 re4 ma5	Is the water warm? 
+我说错什么了吗?	wo3 shuo1cuo4 shen2me5 le5 ma5	What did I say wrong? 
+你完成作业了吗?	ni3 wan2cheng2 zuo4ye4 le5 ma5	Have you finished your homework? 
+这些水果洗过了吗?	zhe4xie1 shui3guo3 xi3 guo4 le5 ma5	Has the fruit been washed? 
+你洗脸了吗?	ni3 xi3lian3 le5 ma5	Did you wash your face? 
+你找到自行车了吗?	ni3 zhao3dao4 zi4xing2che1 le5 ma5	Have you found your bike? 
+是真的吗?	shi4 zhen1 de5 ma5	Is it true? 
+你准备好了吗?	ni3 zhun3bei4 hao3le5 ma5	Are you ready? 
+你有地方住吗?	ni3 you3 di4fang5 zhu4 ma5	Have you got accommodation? 
+你问问题了吗?	ni3 wen4 wen4ti2 le5 ma5	Did you ask any questions? 
+你刷牙了吗?	ni3 shua1ya2 le5 ma5	Did you brush your teeth? 
+这包衣服是你的吗?	zhe4 bao1 yi1fu5 shi4 ni3 de5 ma5	Is this bundle of clothes yours? 
+你感冒了吗?	ni3 gan3mao4 le5 ma5	Have you caught cold? 
+我能借用一下你的词典吗? 当然可以。	wo3 neng2 jie4yong4 yi2xia4 ni3 de5 ci2dian3 ma5 dang1ran2 ke3yi3。	Can I borrow your dictionary? ... Certainly. 
+你有零钱吗?	ni3 you3 ling2qian2 ma5	Have you got any change? 
+你喜欢这个颜色吗?	ni3 xi3huan5 zhe4ge5 yan2se5 ma5	Do you like this color? 
+你不喜欢体育运动,对吗?	ni3 bu4 xi3huan5 ti3yu4 yun4dong4, dui4 ma5	You don't like sports, do you? 
+你喜欢体育吗?	ni3 xi3huan5 ti3yu4 ma5	Do you like sports? 
+他还说什么了吗?	ta1 hai2 shuo1 shen2me5 le5 ma5	Did he say anything else? 
+你认识那个穿白衣服的女的吗?	ni3 ren4shi5 na4ge5 chuan1 bai2 yi1fu5 de5 nü3de5 ma5	Do you know that woman in white? 
+我写的字清楚吗?	wo3 xie3 de5 zi4 qing1chu5 ma5	Is my handwriting legible? 
+我可以问个问题吗?	wo3 ke3yi3 wen4 ge4 wen4ti2 ma5	May I ask a question? 
+灯关了吗?	deng1 guan1 le5 ma5	Are the lights off? 
+我能问个问题吗?	wo3 neng2 wen4 ge4 wen4ti2 ma5	May I pose a question? 
+你真是那个意思吗?	ni3 zhen1shi5 na4ge5 yi4si5 ma5	Do you really mean that? 
+他结婚了吗?	ta1 jie2hun1 le5 ma5	Is he married or single? 
+我出错了吗?	wo3 chu1cuo4 le5 ma5	Did I make a slip? 
+还有地方再放一张桌子吗?	hai2 you3 di4fang5 zai4 fang4 yi1 zhang1 zhuo1zi5 ma5	Is there enough space for another desk? 
+你疼吗?	ni3 teng2 ma5	Are you suffering any pain? 
+那个故事是真的吗?	na4ge5 gu4shi5 shi4 zhen1 de5 ma5	Is that story true? 
+这是去火车站的路吗?	zhe4 shi4 qu4huo3 che1zhan4 de5 lu4 ma5	Is this the way to the station? 
+再好我也不买。	zai4hao3 wo3 ye3 bu4 mai3。	I wouldn't buy it no matter how good it is. 
+我是昨天买的。	wo3 shi4 zuo2tian1 mai3 de5。	It was yesterday that I bought it. 
+我买的书	wo3 mai3 de5 shu1	the book I bought 
+小猫	xiao3mao1	kitten; kitty 
+那没关系。	na4 mei2 guan1xi5。	That doesn't matter. 
+你在那个医院有关系没有?	ni3 zai4 na4ge5 yi1yuan4 you3 guan1xi5 mei2you3	Do you know anyone in that hospital? 
+我们从来没有红过脸。	wo3men5 cong2lai2 mei2you3 hong2 guo4 lian3。	There has never been a cross word between us. 
+他没有参加会议。	ta1 mei2you3 can1jia1 hui4yi4。	He didn't attend the meeting. 
+会议还没有结束。	hui4yi4 hai2 mei2you3 jie2shu4。	The meeting hasn't ended yet. 
+我没有你高。	wo3 mei2you3 ni3 gao1。	I'm not as tall as you. 
+这没有什么奇怪的。	zhe4 mei2you3 shen2me5 qi2guai4 de5。	There is nothing strange about it. 
+两个朋友很久没有往来了。	liang3 ge4 peng2you5 hen3 jiu3 mei2you3 wang3lai2 le5。	The two friends haven't had any contact for a long time. 
+牛奶没有了。	niu2nai3 mei2you3 le5。	We're out of milk. 
+哭是没有用的。	ku1 shi4 mei2you3 yong4 de5。	Tears won't do you any good. 
+我现在一下想不起来他的名字。	wo3 xian4zai4 yi2xia4 xiang3bu5qi3 lai2 ta1 de5 ming2zi5。	For the moment I can't recall his name. 
+谢谢您哪。	xie4xie5 nin2na5。	Thank you. 
+不知道哪儿出差错了。	bu4zhi1dao4 na3r5 chu1chai1 cuo4le5。	I don't know what went wrong. 
+哪儿是出口?	na3r5 shi4 chu1kou3	Where is the exit? 
+您是哪儿?	nin2 shi4 na3r5	Where are you calling from? (on telephone) 
+哪儿好哪儿坏, 我不知道。	na3r5 hao3 na3r5 huai4, wo3 bu4zhi1dao4。	I don't know which is good and which is bad. 
+我哪儿都找了。	wo3 na3r5 dou1 zhao3 le5。	I looked everywhere. 
+请问洗手间在哪儿?	qing3wen4 xi3shou3jian1 zai4 na3r5	Where is the bathroom, please? 
+你住哪儿?	ni3 zhu4 na3r5	Where do you live? 
+你站在哪一边?	ni3 zhan4 zai4 na3 yi4bian1	Which side are you on? 
+你是哪儿的人?	ni3 shi4 na3r5 de5 ren2	Where are you from? 
+火车站在哪儿?	huo3che1zhan4 zai4 na3r5	Where is the railroad station? 
+班上其他同学哪儿去了?	ban1 shang4 qi2ta1 tong2xue2 na3r5 qu4le5	Where's the rest of the class? 
+你哪儿不舒服?	ni3 na3r5 bu4 shu1fu5	What's the trouble? 
+不知道他在哪儿。	bu4zhi1dao4 ta1 zai4 na3r5。	His whereabouts are unknown. 
+那个人很难说话!	na4 ge4ren2 hen3 nan2 shuo1hua4	That person is very difficult to deal with. 
+我不认识那个字。	wo3 bu4 ren4shi5 na4ge5 zi4。	I don't know that character. 
+那个人很阴。	na4 ge4ren2 hen3 yin1。	That person is very sinister. 
+我喜欢听那个老人讲故事。	wo3 xi3huan5 ting1 na4ge5 lao3ren2 jiang3 gu4shi5。	I love hearing the old man spinning yarns. 
+那个男的是谁?	na4ge5 nan2de5 shi4 shui2	Who is that man? 
+那些是他的。	na4xie1 shi4 ta1 de5。	Those are mine. 
+那些苹果不甜。	na4xie1 ping2guo3 bu4 tian2。	Those apples are not sweet. 
+那是个小差错。	na4shi5 ge4 xiao3 cha1cuo4。	That error is a minor goof. 
+那是什么意思?	na4shi5 shen2me5 yi4si5	What does that mean? 
+那次长时间的运动把我给累坏了。	na4 ci4zhang3 shi2jian1 de5 yun4dong5 ba3 wo3 gei3 lei4huai4 le5。	I'm zapped after that long workout. 
+为什么呢?	wei4shen2me5 ne5	Why is that? 
+我呢, 我不要。	wo3 ne5, wo3 bu2yao4。	As for me, I don't want it. 
+我的书呢?	wo3 de5 shu1 ne5	Where is my book? 
+你的意思呢?	ni3 de5 yi4si5 ne5	What's your opinion? 
+他昨天还好好的呢。	ta1 zuo2tian1 hai2hao3 hao3 de5 ne5。	He was perfectly well yesterday. 
+你怎么解决这个问题呢?	ni3 zen3me5 jie3jue2 zhe4ge5 wen4ti2 ne5	What's your approach to this problem? 
+你在找什么呢?	ni3 zai4 zhao3 shen2me5 ne5	What are you searching for? 
+我不能再跑步了。	wo3 bu4neng2 zai4 pao3bu4 le5。	I can no longer jog. 
+你最快什么时候能到?	ni3 zui4 kuai4 shen2me5 shi2hou5 neng2 dao4	How soon can you come? 
+可能要下雪。	ke3neng2 yao4 xia4 xue3。	It's going to snow. 
+他画的画不能跟我的比。	ta1 hua4 de5 hua4 bu4neng2 gen1 wo3 de5 bi3。	His painting cannot compare with mine. 
+我去机场接你。	wo3 qu4 ji1chang3 jie1 ni3。	I'll pick you up at the airport. 
+你一知道就告诉我。	ni3 yi1 zhi1dao5 jiu4 gao4su5 wo3。	Let me know as soon as you find out. 
+我们试用你一个星期。	wo3men5 shi4yong4 ni3 yi1 ge4 xing1qi1。	We'll hire you for a week's trial. 
+我非常清楚你为什么迟到。	wo3 fei1chang2 qing1chu5 ni3 wei4shen2me5 chi2dao4。	I know full well why you were late. 
+你为什么跟他生气?	ni3 wei4shen2me5 gen1 ta1 sheng1qi4	Why are you sore at him? 
+你为什么哭?	ni3 wei4shen2me5 ku1	Why are you crying? 
+你先做。	ni3 xian1 zuo4。	You go first. 
+你去我就去。	ni3 qu4 wo3 jiu4 qu4。	I'll go only if you go. 
+我跟你去。	wo3 gen1 ni3 qu4。	I'll go with you. 
+你在笑什么?	ni3 zai4 xiao4 shen2me5	What are you smiling about? 
+你姓什么?	ni3 xing4 shen2me5	What's your family name? 
+他把朋友出卖了。	ta1 ba3 peng2you5 chu1mai4 le5。	He betrayed his friends. 
+我有好多朋友。	wo3 you3 hao3 duo1 peng2you5。	I have a lot of friends. 
+他把你看做朋友。	ta1 ba3 ni3 kan4zuo4 peng2you5。	He considers you a friend. 
+我有好些个朋友。	wo3 you3 hao3xie1ge5 peng2you5。	He has a good many friends. 
+她是我的新女朋友。	ta1 shi4 wo3 de5 xin1 nü3peng2you5。	She's my new date. 
+请把我介绍给你的朋友。	qing3 ba3 wo3 jie4shao4 gei3 ni3 de5 peng2you5。	Please introduce me to your friend. 
+谢谢您对我朋友的照顾。	xie4xie5 nin2 dui4 wo3 peng2you5 de5 zhao4gu5。	Thank you for your kindness to my friend. 
+这个城市真漂亮。	zhe4ge5 cheng2shi4 zhen1 piao4liang5。	This city is so beautiful. 
+他就会说漂亮话。	ta1jiu4 hui4shuo1 piao4liang5hua4。	All he can do is to produce high-sounding verbiage. 
+她长得越发漂亮。	ta1 zhang3 de5 yue4fa1 piao4liang5。	She's growing prettier and prettier. 
+她长得很漂亮。	ta1 zhang3 de5 hen3 piao4liang5。	She is/looks very pretty. 
+这个苹果坏了。	zhe4ge5 ping2guo3 huai4 le5。	The apple has gone bad. 
+一百一十七	yi1bai3yi1 shi2qi1	one hundred seventeen 
+七三开	qi1 san1 kai1	7:3 
+我前面还有三个人。	wo3 qian2mian5 hai2 you3 san1 ge4ren2。	There are three people in front of me. 
+你在前面带路。	ni3 zai4 qian2mian5 dai4lu4。	You lead the way. 
+三角钱	san1jiao3 qian2	thirty cents 
+跟他要钱	gen1 ta1 yao4qian2	ask him for money 
+我不短他的钱。	wo3 bu4 duan3 ta1 de5 qian2。	I don't owe him any money. 
+给我点钱。	gei3 wo3 dian3 qian2。	Give me a little money. 
+我突然想起来我忘记带钱包了。	wo3 tu1ran2 xiang3qi3lai2 wo3 wang4ji4 dai4 qian2bao1 le5。	I suddenly remember that I forgot my wallet. 
+钱包在这里。	qian2bao1 zai4 zhe4li5。	The purse is here. 
+这些钱是给你零花的。	zhe4xie1 qian2 shi4 gei3 ni3 ling2hua1 de5。	The money here is for your incidental expenses. 
+他十分有钱。	ta1 shi2fen1 you3qian2。	He has quite a lot of money. 
+我只请了一位客人。	wo3 zhi3 qing3 le5 yi1 wei4 ke4ren5。	I invited only one guest. 
+他好说话。去请他帮忙。	ta1 hao3 shuo1hua4。 qu4 qing3 ta1 bang1mang2。	He is always ready to lend a hand. Go and ask him for help. 
+请他进来。	qing3 ta1 jin4lai5。	Ask him in. 
+有问题可以向他请教。	you3 wen4ti2 ke3yi3 xiang4 ta1 qing3jiao4。	You can seek advice from him if you have any questions. 
+请问您贵姓?	qing3wen4 nin2 gui4xing4	May I ask your (family) name please? 
+请带上护照。	qing3 dai4shang5 hu4zhao4。	Please bring your passport with you. 
+我们还是要去。	wo3men5 hai2shi5 yao4 qu4。	We're going just the same. 
+晚上别出去。	wan3shang5 bie2chu1 qu4。	Please don't go out at night. 
+我走路去上班。	wo3 zou3lu4 qu4 shang4ban1。	I walk to work. 
+这是我第一次去中国。	zhe4 shi4 wo3 di4 yi1ci4 qu4 Zhong1guo2。	This is my first trip to China. 
+一个星期过去了。	yi1 ge4 xing1qi1 guo4qu4le5。	A week has passed. 
+别为了我去做。	bie2 wei4le5 wo3 qu4 zuo4。	Please don't do it on my behalf. 
+她的故事听上去像是真的。	ta1 de5 gu4shi5 ting1 shang4qu5 xiang4 shi4 zhen1 de5。	Her story sounds genuine. 
+他去出短差了。	ta1 qu4 chu1 duan3 cha1 le5。	He's away on a short journey. 
+天气是热。	tian1qi4 shi4 re4。	It sure is hot. 
+天气越来越热了。	tian1qi4 yue4lai2yue4 re4 le5。	The weather is getting hotter and hotter. 
+我不认识这个字。	wo3 bu4 ren4shi5 zhe4ge5 zi4。	I don't know this character. 
+一百一十三	yi1bai3yi1 shi2san1	one hundred thirteen 
+差三个人	cha1 san1 ge4ren2	Three more people are needed. 
+看人矮三分	kan4ren2 ai3 san1fen1	look down on others 
+三十点五	san1shi2 dian3 wu3	thirty point five (30.5) 
+三十来岁	san1shi2 lai2sui4	over 30 years old 
+三十有零	san1shi2 you3ling2	thirty-odd 
+三点	san1dian3	three o'clock 
+你往东走三里就到了。	ni3 wang3 dong1 zou3 san1 li3 jiu4 dao4liao3。	Go east three miles and you'll be there. 
+把盘子放在桌子上。	ba3 pan2zi5 fang4 zai4 zhuo1zi5 shang4。	Set the tray on the table. 
+他换上了干净衣服。	ta1 huan4shang4 le5 gan1jing4 yi1fu5。	He changed into clean clothes. 
+楼上的房间	lou2shang4 de5 fang2jian1	the room above 
+我喜欢水上运动。	wo3 xi3huan5 shui3shang4 yun4dong4。	I like aquatic sports. 
+你只给了我很少一点儿。	ni3 zhi3 gei3 le5 wo3 hen3 shao3 yi4dian3r5。	You just gave a little bit to me. 
+谁对, 我就向着谁。	shui2 dui4, wo3 jiu4 xiang4zhe5 shui2。	I'll side with whoever's right. 
+这是谁做的决定?	zhe4 shi4 shui2 zuo4 de5 jue2ding4	Who made the decision? 
+谁最后走?	shui2 zui4hou4 zou3	Who leaves last? 
+谁来了?	shui2 lai2 le5	Who came? 
+这是谁的错?	zhe4 shi4 shui2 de5 cuo4	Whose mistake is it? 
+谁给你带孩子?	shui2 gei3 ni3 dai4 hai2zi5	Who looks after your children? 
+谁让你来的?	shui2 rang4 ni3 lai2 de5	Who told you to come? 
+谁把书拿走了?	shui2 ba3 shu1 na2 zou3 le5	Who took the book? 
+谁跟你说的?	shui2 gen1 ni3 shuo1 de5	Who told you that? 
+啊? 你说什么?	a5 ni3 shuo1 shen2me5	Huh, what did you say? 
+有什么不得了的?	you3 shen2me5 bu4de2liao3 de5	What's so serious? 
+出什么问题了?	chu1 shen2me5 wen4ti2 le5	What's wrong? 
+你为什么不开口?	ni3 wei4shen2me5 bu4 kai1kou3	Why don't you speak? 
+我为什么去不得?	wo3 wei4shen2me5 qu4bu5de5	Why shouldn't I go? 
+你在说什么?	ni3 zai4 shuo1 shen2me5	What are you talking about? 
+他什么都不要。	ta1 shen2me5 dou1 bu2yao4。	He doesn't want anything. 
+你为什么不说话。	ni3 wei4shen2me5 bu4 shuo1hua4。	Why don't you speak? 
+出了什么问题?	chu1 le5 shen2me5 wen4ti2	What's the matter? 
+你什么时候能做完作业?	ni3 shen2me5 shi2hou5 neng2 zuo4wan2 zuo4ye4	When will you be able to finish your assignment? 
+我还有什么选择?	wo3 hai2 you3 shen2me5 xuan3ze2	What's my alternative? 
+我不明白他为什么生气。	wo3 bu4 ming2bai5 ta1 wei4shen2me5 sheng1qi4。	Why he became upset is beyond me. 
+他在哭什么?	ta1 zai4 ku1 shen2me5	What is he blubbering about? 
+他是做什么的?	ta1 shi4 zuo4 shen2me5de5	What's his calling? 
+这条小船是用什么做的?	zhe4 tiao2 xiao3chuan2 shi4 yong4 shen2me5 zuo4 de5	What's the craft made of ? 
+我什么地方做错了?	wo3 shen2me5 di4fang5 zuo4cuo4 le5	What did I do wrong? 
+啊,你说什么?	a5, ni3 shuo1 shen2me5	Huh, what did you say? 
+你有什么打算?	ni3 you3 shen2me5 da3suan4	What do you intend to do? 
+我们有些什么选择?	wo3men5 you3xie1 shen2me5 xuan3ze2	What are our options? 
+你要说的是什么?	ni3 yao4shuo1 de5 shi4 shen2me5	What's your point? 
+忙什么?	mang2 shen2me5	What's the rush? 
+他要什么?	ta1 yao4 shen2me5	What does he want? 
+你说什么?	ni3 shuo1 shen2me5	What did you say? 
+有什么用?	you3 shen2me5 yong4	What's the use? 
+一百一十一	yi1bai3yi1 shi2yi1	one hundred eleven 
+一百一十五	yi1bai3yi1 shi2wu3	one hundred fifteen 
+我到的时候他已经走了。	wo3 dao4 de5 shi2hou5 ta1 yi3jing1 zou3 le5。	He'd left by the time I arrived. 
+书上	shu1 shang4	on the book 
+我要把这些书送还给他。	wo3 yao4 ba3 zhe4xie1 shu1 song4 huan2gei3 ta1。	I need to return these books to him. 
+历史书	li4 shi3shu1	a book of history 
+我在写书。	wo3 zai4 xie3 shu1。	I'm working on a book. 
+多么新鲜的水果啊!	duo1me5 xin1xian1 de5 shui3guo3 a5	How fresh the fruit is! 
+这里水果有的是。	zhe4li5 shui3guo3 you3de5shi4。	There's a lot of fruit here. 
+别跟别人说。	bie2 gen1 bie2ren5 shuo1。	This is just between you and me. 
+他只听不说。	ta1 zhi3 ting1 bu4 shuo1。	He listened without speaking. 
+他说出了自己的担心。	ta1 shuo1chu1 le5 zi4ji3 de5 dan1xin1。	He unbosomed himself of his worries. 
+我同意你说的。	wo3 tong2yi4 ni3 shuo1 de5。	I agree with you. 
+一百一十四	yi1bai3yi1 shi2si4	one hundred fourteen 
+四下里都同意了。	si4xia4li5 dou1 tong2yi4 le5。	The four sides have all agreed. 
+我们一共只有四个人。	wo3men5 yi2gong4 zhi3you3 si4 ge4ren2。	There are only four of us altogether. 
+她比我小四岁。	ta1 bi3 wo3 xiao3 si4 sui4。	She's four years younger than I. 
+昨天四点我在游泳。	zuo2tian1 si4 dian3 wo3 zai4 you2yong3。	I was swimming at four yesterday. 
+他是上了年岁的人。	ta1 shi4 shang4 le5 nian2sui4 de5 ren2。	He's getting on in years. 
+她哭啊哭啊。	ta1 ku1 a5 ku1 a5。	She cried on and on. 
+她选择不结婚。	ta1 xuan3ze2 bu4 jie2hun1。	She chose not to marry. 
+裤子太瘦了。	ku4zi5 tai4 shou4 le5。	The pants are too tight. 
+好是好, 但是太贵了。	hao3shi4hao3, dan4shi4 tai4 gui4 le5。	It's good all right, but it's too expensive. 
+你太过分了!	ni3 tai4 guo4fen4 le5	What you've done is too much! 
+让我一五一十地讲给你听。	rang4 wo3 yi1wu3-yi1shi2 di4 jiang3gei3 ni3 ting1。	Let me tell you about it in full detail. 
+这孩子! 你越是说, 他越是不听。	zhe4 hai2zi5 ni3 yue4shi4 shuo1, ta1 yue4shi4 bu4 ting1。	This child! The more you scold him, the less he obeys. 
+我听不懂。	wo3 ting1bu5dong3。	I can't understand. 
+听不懂	ting1bu5dong3	don't understand (by listening) 
+我听不清楚。	wo3 ting1 bu5 qing1chu5。	I can't hear clearly. 
+别听差了。	bie2 ting1chai1 le5。	Don't get me wrong. 
+听着!	ting1zhe5	Listen to me! 
+我听说他快要来了。	wo3 ting1shuo1 ta1 kuai4yao4 lai2 le5。	I've heard that he'll be arriving shortly. 
+我喜欢听爷爷讲的故事。	wo3 xi3huan5 ting1 ye2ye5 jiang3 de5 gu4shi5。	I love listening to grandpa's yarns. 
+我们是同学。	wo3men5 shi4 tong2xue2。	We are schoolmates. 
+喂孩子	wei4 hai2zi5	spoon feed the child 
+我们现在就走。	wo3men5 xian4zai4 jiu4 zou3。	We're leaving just now. 
+我们非常关心环境问题。	wo3men5 fei1chang2 guan1xin1 huan2jing4 wen4ti2。	We have a keen interest in environmental problems. 
+我们住在附近。	wo3men5 zhu4 zai4 fu4jin4。	We live nearby. 
+我们走了。	wo3men5 zou3 le5。	We're off. 
+我们得分第一。	wo3men5 de2fen1 di4-yi1。	We scored first. 
+我们先得分。	wo3men5 xian1 de2fen1。	We scored first. 
+让司机等我们。	rang4 si1ji1 deng3 wo3men5。	Tell the driver to wait for us. 
+我们可以试试。	wo3men5 ke3yi3 shi4shi4。	We can try. 
+我们必须特别小心。	wo3men5 bi4xu1 te4bie2 xiao3xin1。	We must utilize the utmost caution. 
+他是我们班最差的学生。	ta1 shi4 wo3men5 ban1 zui4 cha1 de5 xue2sheng5。	He's the worst student in our class. 
+我不怎么喜欢他。	wo3 bu4zen3me5 xi3huan5 ta1。	I don't particularly like him. 
+他很喜欢水上运动。	ta1 hen3 xi3huan5 shui3shang4 yun4dong4。	He loves aquatic sports. 
+我向来不喜欢跳舞。	wo3 xiang4lai2 bu4 xi3huan5 tiao4wu3。	I've never liked dancing. 
+我特别喜欢这个地方。	wo3 te4bie2 xi3huan5 zhe4ge5 di4fang5。	I adore the place. 
+我不喜欢体育运动。	wo3 bu4 xi3huan5 ti3yu4 yun4dong4。	I do not like sports. 
+我喜欢游泳。	wo3 xi3huan5 you2yong3。	I enjoy swimming. 
+我喜欢骑马。	wo3 xi3huan5 qi2 ma3。	I love to ride horses. 
+让你的眼睛休息一下。	rang4 ni3 de5 yan3jing5 xiu1xi5 yi2xia4。	Rest your eyes a while. 
+我想(是)不会下雨的。	wo3 xiang3( shi4) bu4hui4 xia4 yu3 de5。	I think it's unlikely to rain. 
+看来要下雨了。	kan4lai2 yao4 xia4 yu3 le5。	It looks as if it's going to rain. 
+快走把, 要下雨了。	kuai4zou3 ba3, yao4 xia4 yu3 le5。	Hurry up. It's about to rain. 
+要是下雨我们就不去游泳了。	yao4shi4 xia4 yu3 wo3men5 jiu4 bu4 qu4 you2yong3 le5。	If it rains, we won't go swimming. 
+你真是个好好先生。	ni3 zhen1shi5 ge4 hao3hao3xian1sheng1。	You're really someone who tries to please everybody. 
+这位老先生身体很好。	zhe4 wei4 lao3 xian1sheng5 shen1ti3 hen3 hao3。	The old gentleman is in very good health. 
+他现在好多了。	ta1 xian4zai4 hao3 duo1 le5。	He is much better now. 
+现在你满意了吧。	xian4zai4 ni3 man3yi4 le5 ba5。	Now you must be satisfied. 
+你现在可以走了。	ni3 xian4zai4 ke3yi3 zou3 le5。	You can go now. 
+我现在得走了。	wo3 xian4zai4 de5 zou3 le5。	I must leave now. 
+不想, 他已经先到了。	bu4xiang3, ta1 yi3jing1 xian1dao4 le5。	Unexpectedly, he arrived before us. 
+让我们再好好想想。	rang4 wo3men5 zai4hao3 hao3 xiang3xiang5。	Let's think it over again carefully. 
+往开里想。	wang3 kai1li3 xiang3。	Think of the bright side; don't be sad. 
+不要只为自己着想。	bu2yao4 zhi3wei4 zi4ji3 zhuo2xiang3。	Don't only consider yourself. 
+我会想出办法来的。	wo3 hui4 xiang3chu1 ban4fa3 lai2 de5。	I'll be able to think of a way. 
+我想来想去, 觉得还是应该去。	wo3 xiang3lai2xiang3qu4, jue2de5 hai2shi5 ying1gai1 qu4。	I mulled it over and decided that I should go. 
+他终于想开了。	ta1 zhong1yu2 xiang3kai1 le5。	He has finally become resigned to misfortune. 
+他想换换环境。	ta1 xiang3 huan4 huan4 huan2jing4。	He wanted to have a change of environment. 
+我想方便一下。	wo3 xiang3 fang1bian4 yi2xia4。	I'd like to use the lavatory. 
+想来/说来好笑	xiang3lai2 shuo1lai2 hao3xiao4	funny to think/speak of 
+让我想想。	rang4 wo3 xiang3xiang5。	Let me see. 
+我想你是对的。	wo3 xiang3 ni3 shi4 dui4 de5。	I guess you're right. 
+过马路要小心。	guo4 ma3lu4 yao4 xiao3xin1。	Use caution in crossing the street. 
+我比他年长一些。	wo3 bi3 ta1 nian2zhang3 yi4xie1。	I am a bit older than he is. 
+我有些担心。	wo3 you3xie1 dan1xin1。	I'm rather concerned. 
+这些是我的。	zhe4xie1 shi4 wo3 de5。	These are mine. 
+这些次要问题可以先放一放。	zhe4xie1 ci4yao4 wen4ti2 ke3yi3 xian1 fang4 yi1 fang4。	These secondary problems can be put on the back burner for now. 
+谢谢你帮助我。	xie4xie5 ni3 bang1zhu4 wo3。	Thank you for your help. 
+谢谢你的生日礼物。	xie4xie5 ni3 de5 sheng1ri4 li3wu4。	Thanks for your birthday gift. 
+谢谢你帮忙。	xie4xie5 ni3 bang1mang2。	Thank you for your help. 
+他走了一个星期了。	ta1 zou3 le5 yi1 ge4 xing1qi1 le5。	He's been gone for one week. 
+他被认为是最聪明的学生。	ta1 bei4 ren4wei2 shi4 zui4 cong1ming5 de5 xue2sheng5。	He is regarded as the brightest student. 
+只有好好学习才能得好分。	zhi3you3 hao3hao1 xue2xi2 cai2neng2 de5 hao3 fen1。	The only way to get good grades is to study hard. 
+你得认真学习了。	ni3 de5 ren4zhen1 xue2xi2 le5。	You must buckle down to your studies. 
+他被学校开除了。	ta1 bei4 xue2xiao4 kai1chu2 le5。	He was expelled by the school. 
+一点儿不错	yi4dian3r5 bu2cuo4	perfectly correct 
+慢一点儿告诉她。	man4 yi4dian3r5 gao4su5 ta1。	Don't let her know yet. 
+快把衣服穿上。	kuai4 ba3 yi1fu5 chuan1shang5。	Put on your clothes now. 
+这件衣服难看, 那件衣服好看。	zhe4 jian4 yi1fu5 nan2kan4, na4 jian4 yi1fu5 hao3kan4。	This clothing is ugly; that clothing is good-looking. 
+我每个月都能有两千多外快。	wo3 mei3 ge4 yue4 dou1 neng2 you3 liang3qian1 duo1 wai4kuai4。	I earn an extra income of over 2,000 RMB every month. 
+来年再见。	lai2nian2 zai4jian4。	See you next year. 
+后来怎么样?	hou4lai2 zen3me5yang4	What happened afterward? 
+他怎么说?	ta1 zen3me5 shuo1	What did he say? 
+你要怎么就怎么。	ni3 yao4 zen3me5 jiu4 zen3me5。	Do whatever you like. 
+你说怎么样?	ni3 shuo1 zen3me5yang4	What do you think? 
+怎么着都可以。	zen3me5zhe5 dou1 ke3yi3。	Anything will be OK. 
+他怎么了?	ta1 zen3me5le5	What's the matter with him? 
+怎么了?	zen3me5le5	What's the trouble? 
+去年他去了中国。	qu4nian2 ta1 qu4le5 Zhong1guo2。	He left for China last year. 
+他说个不住。	ta1 shuo1 ge4 bu4zhu4。	He talks on and on. 
+给我住嘴!	gei3 wo3 zhu4zui3	Shut up! 
+他住在这里好久了。	ta1 zhu4 zai4 zhe4li5 hao3jiu3 le5。	He has been living here for a long time. 
+我们两家住得很近。	wo3men5 liang3 jia1 zhu4 de5hen3 jin4。	Our two families live near each other. 
+他的字真难看。	ta1 de5 zi4 zhen1 nan2kan4。	His character is ugly. 
+他是昨天来的。	ta1 shi4 zuo2tian1 lai2 de5。	He came yesterday. 
+你难得来, 多坐一会儿吧。	ni3 nan2de2 lai2, duo1 zuo4 yi2hui4r5 ba5。	You rarely come, so please sit a while longer. 
+来, 坐我旁边。	lai2, zuo4 wo3 pang2bian1。	Come and sit next to me. 
+做人很难。	zuo4ren2 hen3 nan2。	It's hard to act as a human being should. 
+我做好了。	wo3 zuo4hao3 le5。	I'm done; I've finished (it). 
+以前她给人家做小。	yi3qian2 ta1 gei3 ren2jia5 zuo4xiao3。	She was formerly a concubine. 
+说起来容易做起来难。	shuo1 qi3lai5 rong2yi4 zuo4 qi3lai5 nan2。	It's easy to say but hard to do. 
+你自己做。	ni3 zi4ji3 zuo4。	Do it yourself. 
+我已经做了。	wo3 yi3jing1 zuo4 le5。	I've done it already. 
+我自己做面包。	wo3 zi4ji3 zuo4 mian4bao1。	I make my own bread. 
+这些小动物真可爱!	zhe4 xie1xiao3 dong4wu4 zhen1 ke3ai4	These little animals are really adorable! 
+我爱爸爸妈妈, 爸爸妈妈也爱我。	wo3 ai4 ba4ba5 ma1ma5, ba4ba5 ma1ma5 ye3 ai4 wo3。	I love my mom and dad, and they love me too. 
+“我们明天什么时候出发?”“早上八点。”	“ wo3men5 ming2tian1 shen2me5 shi2hou5 chu1fa1”“ zao3shang5 ba1 dian3。”	“When do we set off tomorrow?” “Eight o'clock in the morning.” 
+你可以打电话九一八三一八七, 到我办公室找我。	ni3 ke3yi3 da3 dian4hua4 Jiu3-Yi1ba1 san1 yi1 ba1 qi1, dao4 wo3 ban4gong1shi4 zhao3 wo3。	You can reach me at my office on 918-3187. 
+这孩子喜欢读书, 他爸爸妈妈看了真高兴。	zhe4 hai2zi5 xi3huan5 du2shu1, ta1 ba4ba5 ma1ma5 kan4 le5 zhen1 gao1xing4。	The child likes reading, much to the delight of his parents. 
+我们不等爸爸了, 吃起来吧。	wo3men5 bu4deng3 ba4ba5 le5, chi1 qi3lai5 ba5。	We're not going to wait for daddy any longer. Let's start eating. 
+“你爸爸在家吗?” “他不在家。”	“ ni3 ba4ba5 zai4jia1 ma5”“ ta1 bu4 zai4jia1。”	“Is your father home?” “No, he isn't.” 
+北京来的飞机什么时候到?	Bei3jing1 lai2 de5 fei1ji1 shen2me5 shi2hou5 dao4	When will the flight from Beijing arrive? 
+从北京来的飞机什么时候到?	cong2 Bei3jing1 lai2 de5 fei1ji1 shen2me5 shi2hou5 dao4	When does the plane from Beijing arrive? 
+你想去北京学习, 我也想去北京学习。	ni3 xiang3 qu4 Bei3jing1 xue2xi2, wo3 ye3 xiang3 qu4 Bei3jing1 xue2xi2。	You want to study in Beijing, so do I. 
+这本书才十块钱, 太便宜了。	zhe4 ben3 shu1 cai2 shi2 kuai4 qian2, tai4 bian4yi2 le5。	This book is only ten dollars. It's really cheap. 
+这本书多少钱?	zhe4 ben3 shu1 duo1shao5 qian2	How much is this book? 
+你上星期买了几本书?	ni3 shang4 xing1qi1 mai3 le5 ji3 ben3 shu1	How many books did you buy last week? 
+你这本书在哪儿买的?	ni3 zhe4 ben3 shu1 zai4 na3r5 mai3 de5	Where did you buy this book? 
+“这本书是你的吗?”“不是, 不是我的。”	“ zhe4 ben3 shu1 shi4 ni3 de5 ma5”“ bu2shi5, bu2shi5 wo3 de5。”	“Is this book yours?” “No.” 
+这本书很有意思, 你看过没有?	zhe4 ben3 shu1 hen3 you3 yi4si5, ni3 kan4 guo4 mei2you3	This book is very interesting. Have you read it? 
+这本书很有意思, 每个人都应该看。	zhe4 ben3 shu1 hen3 you3 yi4si5, mei3 ge4ren2 dou1 ying1gai1 kan4。	This book is very meaningful. Everybody should read it. 
+这本书太旧了, 没有什么用了。	zhe4 ben3 shu1 tai4 jiu4 le5, mei2you3 shen2me5 yong4 le5。	This book is too outdated, and is not of much use. 
+你去过日本吗?	ni3 qu4 guo4 Ri4ben3 ma5	Have you ever been to Japan? 
+这本小说好看不好看?	zhe4 ben3 xiao3shuo1 hao3kan4 bu4 hao3kan4	Is this novel interesting? 
+你看, 我买了一本新词典。	ni3 kan4, wo3 mai3 le5 yi1 ben3 xin1 ci2dian3。	Look, I've bought a new dictionary. 
+我本来不想去看电影, 他一定要我去, 我就去了。	wo3 ben3lai2 bu4xiang3 qu4 kan4 dian4ying3, ta1 yi2ding4 yao4 wo3 qu4, wo3 jiu4 qu4le5。	At first I did not want to go to the movie, but he insisted I should go, so I went with him. 
+不, 我不要这个, 我要那个。	bu4, wo3 bu2yao4 zhe4ge5, wo3 yao4 na4ge5。	No, I don't want this one; I want that one. 
+对不起, 这不是您的, 是我的。	dui4bu5qi3, zhe4 bu2shi5 nin2 de5, shi4 wo3 de5。	Sorry, that's not yours, that's mine. 
+对不起, 我一会儿就回来。	dui4bu5qi3, wo3 yi1hui4r5 jiu4 hui2lai5。	Excuse me, I'll be back in a little while. 
+对不起, 我在地图上找不到这个国家。	dui4bu5qi3, wo3 zai4 di4tu2 shang4 zhao3bu5dao4 zhe4ge5 guo2jia1。	Sorry, I can't locate this country on the map. 
+对不起, 我迟到了。	dui4bu5qi3, wo3 chi2dao4 le5。	I'm sorry I'm late. 
+对不起, 那是我的过错。	dui4bu5qi3, na4shi5 wo3 de5 guo4cuo4。	I'm sorry, that was my fault. 
+对不起, 我不是这个意思。	dui4bu5qi3, wo3 bu2shi5 zhe4ge5 yi4si5。	Excuse me, I didn't mean it. 
+对不起, 能告诉我现在几点吗？	dui4bu5qi3, neng2 gao4su5 wo3 xian4zai4 ji3 dian3 ma5	Excuse me, could you tell the time? 
+我太忙了, 不能跟你去看电影。	wo3 tai4 mang2 le5, bu4neng2 gen1 ni3 qu4 kan4 dian4ying3。	I can't go to the movies with you tonight, as I'm too busy. 
+我不知道这个在中文里怎么说？	wo3 bu4zhi1dao4 zhe4ge5 zai4 Zhong1wen2 li3 zen3me5 shuo1	I don't know how to say it in Chinese. 
+你不知道, 我也不知道。	ni3 bu4zhi1dao4, wo3 ye3 bu4zhi1dao4。	Your guess is as good as mine. 
+要是不很远, 我们可以走去。	yao4shi4 bu4 hen3 yuan3, wo3men5 ke3yi3 zou3qu4。	We can walk if it's not too far. 
+她最近头发白了不少。	ta1 zui4jin4 tou2 fa1bai2 le5 bu4shao3。	She has turned quite gray recently. 
+我今天不大舒服, 我们明天出去吧。	wo3 jin1tian1 bu2da4 shu1fu5, wo3men5 ming2tian1 chu1qu5 ba5。	I'm not too well today, let's go out tomorrow instead. 
+我打电话的时候, 她不在。	wo3 da3 dian4hua4 de5 shi2hou5, ta1 bu4zai4。	She was not in when I called. 
+等等, 我看看他在不在。	deng3deng5, wo3 kan4kan5 ta1 zai4 bu4zai4。	Hold on, I'll see if he's in. 
+我下星期不在。（→我下星期要外出。）	wo3 xia4 xing1qi1 bu4zai4。 wo3 xia4 xing1qi1 yao4 wai4chu1。	I'll be away next week. 
+你不可能是认真的！（→ 别开玩笑！）	ni3 bu4 ke3neng2 shi4 ren4zhen1 de5 bie2 kai1 wan2xiao4	You can't be serious! 
+对不起, 先生, 您的票呢?	dui4bu5qi3, xian1sheng5, nin2 de5 piao4 ne5	Excuse me, sir, where's your ticket? 
+对不起, 我没有说明白。	dui4bu5qi3, wo3 mei2you3 shuo1 ming2bai5。	Sorry, I didn't make it very clear. 
+他是在开玩笑, 你不要太认真。	ta1 shi4 zai4 kai1 wan2xiao4, ni3 bu2yao4 tai4 ren4zhen1。	He's joking. Don't take it too seriously. 
+这个机会很难得, 不要错过。	zhe4ge5 ji1hui4 hen3 nan2de2, bu2yao4 cuo4guo4。	This is a rare opportunity. Don't miss it. 
+我今天不舒服, 不能去上班。	wo3 jin1tian1 bu4 shu1fu5, bu4neng2 qu4 shang4ban1。	I'm unwell today and won't be able to go to work. 
+医生: 你什么地方不舒服?	yi1sheng1 ni3 shen2me5 di4fang5 bu4 shu1fu5	Doctor: What spot ails you? (→What's wrong with you?)  
+如果你明天不舒服, 就不用来了。	ru2guo3 ni3 ming2tian1 bu4 shu1fu5, jiu4 bu4 yong4lai2 le5。	If you're not well tomorrow, you don't have to come. 
+你不能只想到自己。	ni3 bu4neng2 zhi3 xiang3dao4 zi4ji3。	You mustn't think of yourself only. 
+今天下午上体育课, 我不能穿皮鞋。	jin1tian1 xia4wu3 shang4 ti3yu4 ke4, wo3 bu4neng2 chuan1 pi2xie2。	I'm having a PE class this afternoon, so I can't wear leather shoes today. 
+我能不能请教您一个问题?	wo3 neng2 bu4neng2 qing3jiao4 nin2 yi1 ge4 wen4ti2	Could I ask you a question, please? 
+我会游泳, 但是今天不能去游泳, 因为我感冒了。	wo3 hui4 you2yong3, dan4shi4 jin1tian1 bu4neng2 qu4 you2yong3, yin1wei4 wo3 gan3mao4 le5。	I can swim, but I'm not able to today because I've got a cold. 
+图书馆里不能吃东西。	tu2shu1guan3 li3 bu4neng2 chi1 dong1xi5。	No food in the library.  
+这个问题不简单, 要好好想一想。	zhe4ge5 wen4ti2 bu4jian3dan1, yao4 hao3hao1 xiang3yi1xiang3。	This question is not a simple one. It needs careful consideration. 
+“你知道他的名字吗?”“不知道。”	“ ni3 zhi1dao5 ta1 de5 ming2zi5 ma5”“ bu4zhi1dao4。”	“Do you know his name?” “No.” 
+你不知道图书馆在哪儿? 我带你去。	ni3 bu4zhi1dao4 tu2shu1guan3 zai4 na3r5 wo3 dai4 ni3 qu4。	You don't know where the library is? I'll take you there. 
+我就是不睡觉, 也要做完这个作业。	wo3 jiu4 shi4bu5 shui4jiao4, ye3 yao4 zuo4wan2 zhe4ge5 zuo4ye4。	Even if I don't sleep, I must finish this assignment. 
+这些衣服很干净, 不用洗。	zhe4xie1 yi1fu5 hen3 gan1jing4, bu2yong4 xi3。	These clothes are clean. They don't need washing. 
+老师, 黑板上的字我看不清楚。	lao3shi1, hei1ban3 shang4 de5 zi4 wo3 kan4bu5qing1chu5。	Teacher, I can't see the words on the blackboard clearly. 
+差不多十二点了, 她怎么还不来上班?	cha4bu5duo1 shi2er4 dian3 le5, ta1 zen3me5 hai2 bu4 lai2 shang4ban1	It's almost twelve o'clock. Why hasn't she turned up for work? 
+那个不是我的, 我的在这里。	na4ge5 bu2shi5 wo3 de5, wo3 de5 zai4 zhe4li5。	That one is not mine. Mine's here. 
+她说懂了, 其实她还是不明白。	ta1 shuo1 dong3 le5, qi2shi2 ta1 hai2shi5 bu4 ming2bai5。	She said she understood, but actually she still didn't comprehend it. 
+你一个人去爬山, 我不放心。	ni3 yi2 ge5 ren2 qu4 pa2shan1, wo3 bu4 fang4xin1。	I'd be worried if you go mountain-climbing all by yourself. 
+你愿意去就去, 你不愿意去就别去。	ni3 yuan4yi4 qu4jiu4 qu4, ni3 bu4 yuan4yi4 qu4jiu4 bie2 qu4。	If you're willing to go, you can go; if you're not willing to go, you don't have to go. 
+你不愿意去, 就别去了。	ni3 bu4 yuan4yi4 qu4, jiu4 bie2 qu4le5。	If you don't want to go, then don't go. 
+这把椅子很舒服, 你坐下去就不想起来了。	zhe4 ba3 yi3zi5 hen3 shu1fu5, ni3 zuo4 xia4qu5 jiu4 bu4xiang3 qi3lai5 le5。	This chair is very comfortable. Sit on it and you don't want to get up. 
+这件衣服洗不干净了。	zhe4 jian4 yi1fu5 xi3 bu4 gan1jing4 le5。	This dress cannot be washed clean. 
+他回答得对不对?	ta1 hui2da2 de5 dui4 bu4dui4	Did he answer correctly? 
+那个菜不好吃, 我只吃了一点儿。	na4ge5 cai4 bu4 hao3chi1, wo3 zhi3 chi1 le5 yi4dian3r5。	That dish is not tasty. I ate only a tiny bit of it. 
+又让你送我礼物, 真不好意思。	you4 rang4 ni3 song4 wo3 li3wu4, zhen1 bu4 hao3yi4si5。	Oh, you gave me a gift again, it's embarrassing. 
+不好意思, 我又迟到了。	bu4 hao3yi4si5, wo3 you4 chi2dao4 le5。	I'm sorry I'm late again. 
+我开始觉得中文非常难, 现在觉得不太难了。	wo3 kai1shi3 jue2de5 Zhong1wen2 fei1chang2 nan2, xian4zai4 jue2de5 bu4tai4 nan2 le5。	At the beginning I found Chinese very difficult, but now I think it's not too difficult. 
+这件衣服不太旧, 还可以穿。	zhe4 jian4 yi1fu5 bu4tai4 jiu4, hai2 ke3yi3 chuan1。	This jacket is not too old. It can still be worn. 
+我经常用电脑, 不大写字。	wo3 jing1chang2 yong4 dian4nao3, bu2da4 xie3zi4。	I often use computers and seldom write with a pen. 
+他今天好像不大高兴, 你知道为什么吗?	ta1 jin1tian1 hao3xiang4 bu2da4 gao1xing4, ni3 zhi1dao5 wei4shen2me5 ma5	He looks unhappy today. Do you know why? 
+这个城市不大, 但是很漂亮。	zhe4ge5 cheng2shi4 bu2da4, dan4shi4 hen3 piao4liang5。	This city is not big, but it's quite beautiful. 
+你喜欢不喜欢中国音乐?	ni3 xi3huan5 bu4 xi3huan5 Zhong1guo2 yin1yue4	Do you like Chinese music? 
+你不喜欢吃米饭, 那吃面包吧。	ni3 bu4 xi3huan5 chi1 mi3fan4, na4 chi1 mian4bao1 ba5。	You don't like rice; in that case eat bread. 
+这个女孩子长得很漂亮, 但是大家都不喜欢她。	zhe4ge5 nü3 hai2zi5 zhang3 de5 hen3 piao4liang5, dan4shi4 da4jia1 dou1 bu4 xi3huan5 ta1。	This girl is quite pretty, but nobody likes her. 
+他从来不向人借钱, 也不借钱给别人。	ta1 cong2lai2 bu4 xiang4 ren2 jie4qian2, ye3 bu4 jie4qian2 gei3 bie2ren5。	He never borrows money, nor does he lend money to others. 
+今天我太累了, 不去游泳了。	jin1tian1 wo3 tai4 lei3 le5, bu4 qu4 you2yong3 le5。	Today I'm too tired to go swimming. 
+这家饭店的菜不但好吃, 而且好看。	zhe4 jia1 fan4dian4 de5 cai4 bu2dan4 hao3chi1, er2qie3 hao3kan4。	The dishes in this restaurant are not only delicious but also beautiful. 
+我才认识他, 对他还不了解。	wo3 cai2 ren4shi5 ta1, dui4 ta1 hai2 bu4 liao3jie3。	I came to know him not long ago, and I don't know him very well. 
+这件衣服大了一点儿, 而且比较贵, 还是不买吧。	zhe4 jian4 yi1fu5 da4 le5 yi4dian3r5, er2qie3 bi3jiao3 gui4, hai2shi5 bu4 mai3 ba5。	This dress is a bit too big and also expensive. You shouldn't buy it. 
+这个房间太小, 坐不下二十个人。	zhe4ge5 fang2jian1 tai4 xiao3, zuo4bu5xia4 er4shi2 ge4ren2。	This room is too small. It can't seat twenty people. 
+请大家注意! 明天张老师要开一个重要的会, 所以不上课。	qing3 da4jia1 zhu4yi4 ming2tian1 zhang1 lao3shi1 yao4 kai1 yi1 ge4 zhong4yao4 de5 hui4, suo3yi3 bu4 shang4 ke4。	Attention, please! Tomorrow Teacher Zhang will be attending an important meeting, so there will be no class. 
+我们每个人点一个菜, 好吗?	wo3men5 mei3 ge4ren2 dian3 yi1 ge4 cai4, hao3 ma5	Shall we each order a dish? 
+你要什么菜?	ni3 yao4 shen2me5 cai4	Which dish do you want? (or What would you like to order?) 
+这个菜又好看又好吃, 是谁做的?	zhe4ge5 cai4 you4 hao3kan4 you4 hao3chi1, shi4 shui2 zuo4 de5	This dish is both beautiful and delicious. Who cooked it? 
+你说说, 这个菜怎么做?	ni3 shuo1shuo5, zhe4ge5 cai4 zen3me5 zuo4	Will you tell me how to cook this dish? 
+先生, 可以请您点菜了吗？	xian1sheng5, ke3yi3 qing3 nin2 dian3 cai4 le5 ma5	May I take your order, sir? 
+您喝红茶还是绿茶?	nin2 he1 hong2cha2 hai2shi5 lü4cha2	Do you drink black tea or green tea? 
+请喝茶	qing3he1cha2	Have some tea, please! 
+你喝茶还是喝咖啡?	ni3 he1 cha2 hai2shi5 he1 ka1fei1	Would you like tea or coffee? 
+你最喜欢吃哪种水果?	ni3 zui4 xi3huan5 chi1 na3 zhong3 shui3guo3	What kind of fruit do you like best? 
+您吃饱了吗?	nin2 chi1bao3 le5 ma5	Have you had  (← eaten) enough? 
+吃饱了, 谢谢。	chi1bao3 le5, xie4xie5。	I'm full. Thanks. 
+他来的时候, 我正在打电话。	ta1 lai2 de5 shi2hou5, wo3 zheng4zai4 da3 dian4hua4。	I was on the phone when he came. 
+我现在没有时间, 晚上再打电话给他。	wo3 xian4zai4 mei2you3 shi2jian1, wan3shang5 zai4 da3 dian4hua4 gei3 ta1。	I don't have time now, I'll ring him this evening. 
+我每次给他打电话, 他都在电脑上。	wo3 mei3 ci4 gei3 ta1 da3 dian4hua4, ta1 dou1 zai4 dian4nao3 shang4。	Every time I call him, he's on the computer. 
+这个太大, 给我小一点儿的。	zhe4ge5 tai4 da4, gei3 wo3 xiao3 yi4dian3r5 de5。	This one is too big. Give me a smaller one. 
+老先生, 您多大了?	lao3 xian1sheng5, nin2 duo1 da4 le5	How old are you, sir? 
+你已经是大人了, 怎么还和孩子一样?	ni3 yi3jing1 shi4 da4ren5 le5, zen3me5 hai2 he2 hai2zi5 yi2yang4	You're a grown-up. How can you behave like a child? 
+请大家安静!	qing3 da4jia1 an1jing4	Please be quiet, everyone! 
+我们大家努力工作, 为了更好的明天。	wo3men5 da4jia1 nu3li4 gong1zuo4, wei4le5 geng4hao3 de5 ming2tian1。	We all work hard for a better tomorrow. 
+校长走进教室, 大家都站起来。	xiao4zhang3 zou3jin4 jiao4shi4, da4jia1 dou1 zhan4 qi3lai5。	When the principal entered the classroom, everybody stood up. 
+我们第一次是在什么地方见面的, 你还记得吗?	wo3men5 di4 yi1ci4 shi4 zai4 shen2me5 di4fang5 jian4mian4 de5, ni3 hai2 ji4de5 ma5	Do you still remember where we first met? 
+哪辆自行车是你的?	na3 liang4 zi4xing2che1 shi4 ni3 de5	Which bicycle is yours? 
+这辆自行车是我的, 那辆自行车是我弟弟的。	zhe4 liang4 zi4xing2che1 shi4 wo3 de5, na4 liang4 zi4xing2che1 shi4 wo3 di4di5 de5。	This bike is mine. That one is my younger brother's. 
+人家能做到的, 我也能做到。	ren2jia5 neng2 zuo4dao4 de5, wo3 ye3 neng2 zuo4dao4。	What others can achieve, I can too. 
+这家商店是卖什么的?	zhe4 jia1 shang1dian4 shi4 mai4 shen2me5de5	What does this store sell? 
+别开玩笑了, 我是说真的。	bie2 kai1 wan2xiao4 le5, wo3 shi4 shuo1 zhen1 de5。	It is no joke; I mean what I say. 
+你认识她的丈夫吗?	ni3 ren4shi5 ta1 de5 zhang4fu5 ma5	Do you know her husband? 
+我的中文水平不高, 请您多多帮助。	wo3 de5 Zhong1wen2 shui3ping2 bu4 gao1, qing3 nin2 duo1duo1 bang1zhu4。	My proficiency in Chinese is not very high. Please help me. 
+明天的会非常重要, 请您一定参加。	ming2tian1 de5 hui4 fei1chang2 zhong4yao4, qing3 nin2 yi2ding4 can1jia1。	The meeting tomorrow is very important. Please be sure to attend it. 
+请问, 最近的医院在哪儿?	qing3wen4, zui4jin4 de5 yi1yuan4 zai4 na3r5	Excuse me, where is the nearest hospital? 
+你知道这个城市的历史吗?	ni3 zhi1dao5 zhe4ge5 cheng2shi4 de5 li4shi3 ma5	Do you know the history of this city? 
+中国的历史非常长, 有三千多年。	Zhong1guo2 de5 li4shi3 fei1chang2 zhang3, you3 san1qian1 duo1nian2。	China has a very long history of over three thousand years. 
+我很想认真了解中国的历史, 只是没有时间。	wo3 hen3xiang3 ren4zhen1 liao3jie3 Zhong1guo2 de5 li4shi3, zhi3shi4 mei2you3 shi2jian1。	I'd like to learn Chinese history earnestly, it's just that I don't have the time. 
+“他是谁?”“他是我的同学。”	“ ta1 shi4 shui2”“ ta1 shi4 wo3 de5 tong2xue2。”	“Who's he?” “He's my classmate.” 
+“你从哪里来?”“我从很远的地方来。”	“ ni3 cong2 na3li5 lai2”“ wo3 cong2 hen3 yuan3 de5 di4fang5 lai2。”	“Where did you come from?” “I came from a faraway place.” 
+他在公司里有很高的地位。	ta1 zai4 gong1si1 li3 you3 hen3 gao1 de5 di4wei4。	He holds a high position in the company. 
+明天的天气怎么样?	ming2tian1 de5 tian1qi4 zen3me5yang4	How will the weather be tomorrow? 
+一直往东走, 就是我们的学校。	yi4zhi2 wang3 dong1 zou3, jiu4shi4 wo3men5 de5 xue2xiao4。	Walk straight towards the east and you'll come to our school. 
+我在前面走, 我的小狗在后面跟。	wo3 zai4 qian2mian5 zou3, wo3 de5 xiao3 gou3 zai4 hou4mian5 gen1。	I walked in front and my puppy followed behind. 
+你的意思很清楚, 我明白。	ni3 de5 yi4si5 hen3 qing1chu5, wo3 ming2bai5。	Your meaning is clear. I understand it. 
+我的手表慢了, 你的手表几点?	wo3 de5 shou3biao3 man4 le5, ni3 de5 shou3biao3 ji3 dian3	My watch is slow. What time is it by your watch? 
+“你在找什么?”“我在找我的手表。”	“ ni3 zai4 zhao3 shen2me5”“ wo3 zai4 zhao3 wo3 de5 shou3biao3。”	“What are you looking for?” “I'm looking for my watch.” 
+让每个人都满意, 是很难的。	rang4 mei3 ge4ren2 dou1 man3yi4, shi4 hen3 nan2 de5。	It's difficult to please everyone. 
+如果你说简单的中文, 我就听得懂。	ru2guo3 ni3 shuo1 jian3dan1 de5 Zhong1wen2, wo3 jiu4 ting1de2dong3。	If you say it in simple Chinese, I can understand you. 
+我们的学校里女老师太多了。	wo3men5 de5 xue2xiao4 li3 nü3 lao3shi1 tai4 duo1 le5。	There are too many female teachers in our schools. 
+已经十二点了, 女儿还没有回家, 妈妈很着急。	yi3jing1 shi2er4 dian3 le5, nü3er2 hai2 mei2you3 hui2jia1, ma1ma5 hen3 zhao2ji2。	It was almost twelve o'clock and her daughter was still not home. The mother felt very worried. 
+我去商店买一点儿东西, 很快就回来。	wo3 qu4 shang1dian4 mai3 yi4dian3r5 dong1xi5, hen3 kuai4 jiu4 hui2lai5。	I'll go to the store to do a little shopping and will be back soon. 
+我有一点儿累, 想休息一会儿。	wo3 you3yi4dian3r5 lei3, xiang3 xiu1xi5 yi2hui4r5。	I'm a bit tired. I want to take a little break. 
+我口渴, 我想喝点水。	wo3 kou3ke3, wo3 xiang3 he1 dian3 shui3。	I'm thirsty. I'd like to drink some water. 
+我要点今天的鱼, 你呢？	wo3 yao4dian3 jin1tian1 de5 yu2, ni3 ne5	I'll order the fish of the day. How about you? 
+你有点累了, 是吗？	ni3 you3dian3 lei3 le5, shi4 ma5	You're a bit tired, aren't you? 
+我在电脑上工作, 她在听音乐。	wo3 zai4 dian4nao3 shang4 gong1zuo4, ta1 zai4 ting1 yin1yue4。	As I was working on the computer, she was listening to music. 
+“从一到十, 你给这个电脑游戏几分？”“我给它七分。”	“ cong2 yi1 dao4 shi2, ni3 gei3 zhe4ge5 dian4nao3 you2xi4 ji3fen1”“ wo3 gei3 ta1 qi1 fen1。”	“On a scale from 1 to 10, how would you rate this computer game?” “I'd give it a 7.” 
+我用完电脑了, 你要用可以用。	wo3 yong4wan2 dian4nao3 le5, ni3 yao4 yong4 ke3yi3 yong4。	I'm through with the computer now if you still need it. 
+“今天晚上的电视有没有好节目?”“没有。”	“ jin1tian1 wan3shang5  de5 dian4shi4 you3 mei2you3 hao3 jie2mu4”“ mei2you3。”	“Are there any good programs on TV tonight?” “No.” 
+昨天的电视我只看了一会儿。	zuo2tian1 de5 dian4shi4 wo3 zhi3 kan4 le5 yi2hui4r5。	Yesterday I watched TV for a very short time only. 
+别说话了, 电影开始了。	bie2shuo1 hua4 le5, dian4ying3 kai1shi3 le5。	Don't talk. (→ Stop talking.) The movie has started. 
+我们今天去看电影还是明天去?	wo3men5 jin1tian1 qu4 kan4 dian4ying3 hai2shi5 ming2tian1 qu4	Shall we go and see the movie today or tomorrow? 
+电影什么时候结束?	dian4ying3 shen2me5 shi2hou5 jie2shu4	When does the movie end? 
+电影什么时候完?	dian4ying3 shen2me5 shi2hou5 wan2	When will the movie end? 
+你最近看过什么好电影吗?	ni3 zui4jin4 kan4 guo4 shen2me5 hao3 dian4ying3 ma5	Have you seen any good movies lately? 
+“你在做什么?”“我在找东西。”	“ ni3 zai4 zuo4 shen2me5”“ wo3 zai4 zhao3 dong1xi5。”	“What are you doing?” “I'm looking for something.” 
+你今天去, 明天去, 都一样。	ni3 jin1tian1 qu4, ming2tian1 qu4, dou1 yi2yang4。	It's all the same whether you go today or tomorrow. 
+妈妈等到孩子都回来了才睡觉。	ma1ma5 deng3dao4 hai2zi5 dou1 hui2lai5 le5 cai2 shui4jiao4。	Mother did not go to bed until all her children came home. 
+这些书你都看过吗?	zhe4xie1 shu1 ni3 dou1 kan4 guo4 ma5	Have you read all these books? 
+他讲得多, 做得少。	ta1 jiang3 de5 duo1, zuo4de2 shao3。	He talks a lot but does little. 
+中国历史长, 人口多。	Zhong1guo2 li4shi3 zhang3, ren2kou3 duo1。	China has a long history and a large population. 
+早上很多人在公园里跑步。	zao3shang5 hen3 duo1 ren2 zai4 gong1yuan2 li3 pao3bu4。	Many people jog in the park early in the morning. 
+“你去过中国没有?”“去过, 我去过中国很多地方。”	“ ni3 qu4 guo4 Zhong1guo2 mei2you3”“ qu4 guo4, wo3 qu4 guo4 Zhong1guo2 hen3 duo1 di4fang5。”	“Have you been to China?” “Yes, I've been to many parts of China.” 
+你去年中文考试得了多少分?	ni3 qu4nian2 Zhong1wen2 kao3shi4 de2le5 duo1shao5 fen1	What marks did you get for the Chinese examination last year? 
+这一层楼有多少房间?	zhe4 yi1 ceng2lou2 you3 duo1shao5 fang2jian1	How many rooms are there on this floor? 
+这个年级有多少学生?	zhe4ge5 nian2ji2 you3 duo1shao5 xue2sheng5	How many students are there in this grade? 
+这种苹果多少钱一公斤?	zhe4zhong3 ping2guo3 duo1shao5 qian2 yi1 gong1jin1	How much does a kilo of these apples cost? 
+“这个班有多少学生?”“三十二个。”	“ zhe4ge5 ban1 you3 duo1shao5 xue2sheng5”“ san1shi2er4 ge4。”	“How many students are there in this class?” “Thirty-two.” 
+世界上有多少国家?	shi4jie4 shang5 you3 duo1shao5 guo2jia1	How many countries are there in the world? 
+上个周末, 他搬家, 很多朋友来帮忙。	shang4 ge4 zhou1mo4, ta1 ban1jia1, hen3 duo1 peng2you5 lai2 bang1mang2。	Last weekend, he moved house. Many friends came to help out. 
+我和姐姐分别三年了, 今天见面, 多高兴啊!	wo3 he2 jie3jie5 fen1bie2 san1 nian2 le5, jin1tian1 jian4mian4, duo1 gao1xing4 a5	I'm meeting my older sister today after three years' separation. How happy I am! 
+你知道得越多, 就越想知道更多。	ni3 zhi1dao5 de5 yue4 duo1, jiu4 yue4 xiang3 zhi1dao5 geng4duo1。	The more you know, the more you want to know. 
+我还差二十块钱, 你可以借给我吗?	wo3 hai2 cha1 er4shi2 kuai4 qian2, ni3 ke3yi3 jie4gei3 wo3 ma5	I'm still short of twenty dollars. Can you give me a loan? 
+“今天几号?”“今天二十号, 九月二十号。”	“ jin1tian1 ji3 hao4”“ jin1tian1 er4shi2 hao4, jiu3yue4 er4shi2 hao4。”	“What is the date today?” “It's the 20th, September 20th.” 
+“明天是几月几日?”“明天是六月二十一日。”	“ ming2tian1 shi4 ji3 yue4 ji3 ri4”“ ming2tian1 shi4 liu4yue4 er4shi2yi1 ri4。”	“What date is tomorrow?” “It's June 21.” 
+飞机什么时候开?	fei1ji1 shen2me5 shi2hou5 kai1	When will the plane depart? 
+上飞机以前, 要关上手机。	shang4 fei5ji1 yi3qian2, yao4 guan1shang5 shou3ji1。	Switch off your cell phone before boarding a plane. 
+认识你, 很高兴。	ren4shi5 ni3, hen3 gao1xing4。	I'm glad to make your acquaintance. 
+你认识这个人吗?	ni3 ren4shi5 zhe4 ge4ren2 ma5	Do you know this person? 
+我们每个人讲一个故事, 怎么样?	wo3men5 mei3 ge4ren2 jiang3 yi1 ge4 gu4shi5, zen3me5yang4	We each tell a story, how about that? 
+“你会做这个作业吗?”“会, 我已经做好了。”	“ ni3 hui4 zuo4 zhe4ge5 zuo4ye4 ma5”“ hui4, wo3 yi3jing1 zuo4hao3 le5。”	“Can you do this assignment?” “Yes, I can. I've already done it.” 
+我们这个周末搬家, 有几位朋友来帮忙。	wo3men5 zhe4ge5 zhou1mo4 ban1jia1, you3 ji3 wei4 peng2you5 lai2 bang1mang2。	We're moving house this weekend. Some friends will come to help. 
+“你有没有弟弟?”“没有, 我只有一个哥哥。”	“ ni3 you3 mei2you3 di4di5”“ mei2you3, wo3 zhi3you3 yi1 ge4 ge1ge5。”	“Do you have a younger brother?” “No, I only have an older brother.” 
+你有几个哥哥?	ni3 you3 ji3 ge4 ge1ge5	How many elder brothers do you have? 
+“你去过几个国家?”	“ ni3 qu4 guo4 ji3 ge4 guo2jia1”	“How many countries have you been to?” 
+他总是愿意帮助学生, 他是个好老师。	ta1 zong3shi4 yuan4yi4 bang1zhu4 xue2sheng5, ta1 shi4 ge4 hao3 lao3shi1。	He is always ready to help his students.  He is a good teacher. 
+我妈妈有一个姐姐, 一个妹妹, 所以我有两个阿姨。	wo3 ma1ma5 you3 yi1 ge4 jie3jie5, yi1 ge4 mei4mei5, suo3yi3 wo3 you3 liang3 ge4 a1yi2。	My mother has an elder sister and a younger sister, so I have two aunts. 
+这个字是什么意思?	zhe4ge5 zi4 shi4 shen2me5 yi4si5	What's the meaning of this character? 
+春夏秋冬, 你最喜欢哪个季节?	chun1-xia4-qiu1-dong1, ni3 zui4 xi3huan5 na3ge5 ji4jie2	Spring, summer, autumn and winter—which season do you like best? 
+这个孩子真聪明!	zhe4ge5 hai2zi5 zhen1 cong1ming5	This child is really smart!(→ What a bright child!) 
+我们工作了两个小时了, 休息一会儿吧。	wo3men5 gong1zuo4 le5 liang3 ge4 xiao3shi2 le5, xiu1xi5 yi2hui4r5 ba5。	We've been working for over two hours. Let's take a break. 
+体育和学习, 哪个更重要?	ti3yu4 he2 xue2xi2, na3ge5 geng4 zhong4yao4	Sports or study, which is more important? 
+这个机会很难得, 你别错过。	zhe4ge5 ji1hui4 hen3 nan2de2, ni3 bie2 cuo4guo4。	This is a rare opportunity; don't you miss it. 
+“有什么问题吗?”“有, 我有一个问题。”	“ you3 shen2me5 wen4ti2 ma5”“ you3, wo3 you3 yi1 ge4 wen4ti2。”	“Do you have any questions?” “Yes, I do.” 
+我可以问你一个问题吗?	wo3 ke3yi3 wen4 ni3 yi1 ge4 wen4ti2 ma5	May I ask you a question? 
+我看书看了三个小时了, 我很累了。	wo3 kan4 shu1 kan4 le5 san1 ge4 xiao3shi2 le5, wo3 hen3 lei3 le5。	I've been reading for three hours. I'm tired. 
+他总是第一个来, 最后一个走。	ta1 zong3shi4 di4-yi1 ge4 lai2, zui4hou4 yi1 ge4 zou3。	He is always the first to come and the last to leave. 
+先生, 可以问您一个问题吗？	xian1sheng5, ke3yi3 wen4 nin2 yi1 ge4 wen4ti2 ma5	Sir, would you mind if I ask you a question? 
+你是为钱工作吗?	ni3 shi4wei2 qian2 gong1zuo4 ma5	Do you work for money? 
+您先生在哪儿工作?	nin2 xian1sheng5 zai4 na3r5 gong1zuo4	Where does your husband work? 
+你工作很认真, 我要向你学习。	ni3 gong1zuo4 hen3 ren4zhen1, wo3 yao4 xiang4 ni3 xue2xi2。	You work conscientiously. I must emulate you. 
+这件工作在一个星期里做好了。	zhe4 jian4 gong1zuo4 zai4 yi1 ge4 xing1qi1 li3 zuo4hao3 le5。	The work was done in a week. 
+我走到哪里, 我的狗跟到哪里。	wo3 zou3dao4 na3li5, wo3 de5 gou3 gen1 dao4 na3li5。	My dog follows me everywhere. 
+这张画画得真好!	zhe4 zhang1 hua4 hua4 de5 zhen1 hao3	This picture is so well done! 
+好, 我马上来!	hao3, wo3 ma3shang4 lai2	OK, I'm coming! 
+你好	ni3hao3	How do you do? Hello! 
+新年好!	xin1nian2 hao3	Happy New Year! 
+今天晚上的月亮真好!	jin1tian1 wan3shang5  de5 yue4liang5 zhen1 hao3	What a fine moon it is tonight! 
+我的朋友中间, 他体育最好。	wo3 de5 peng2you5 zhong1jian1, ta1 ti3yu4 zui4hao3。	Among my friends he is the best athlete. 
+笑得最后, 才笑得最好。	xiao4 de5 zui4hou4, cai2 xiao4 de5 zui4hao3。	He who laughs last laughs best. 
+他等了她好久, 她才来。	ta1 deng3 le5 ta1 hao3jiu3, ta1 cai2 lai2。	He waited for her for a long time before she came. 
+太好了	tai4hao3le5	That's wonderful! 
+您老人家身体好吗?	nin2 lao3ren5jia5 shen1ti3 hao3 ma5	Are you in good health, sir (or ma'am)? 
+你好吗?	ni3hao3 ma5	How're you? 
+他对他妻子好吗?	ta1 dui4 ta1 qi1zi5 hao3 ma5	Is he nice to his wife? 
+你身体好吗?	ni3 shen1ti3 hao3 ma5	How's your health? 
+你这件新衣服好漂亮!	ni3 zhe4 jian4 xin1 yi1fu5 hao3 piao4liang5	How pretty your new dress is! 
+等一等, 我马上准备好。	deng3 yi1deng3, wo3 ma3shang4 zhun3bei4 hao3。	Wait a minute. I'll be ready in no time. 
+给我放好洗澡水, 好吗？	gei3 wo3 fang4hao3 xi3zao3shui3, hao3 ma5	Will you run a bath for me, please. 
+你看一看这张照片, 好吗？	ni3 kan4yi1kan4 zhe4 zhang1 zhao4pian4, hao3 ma5	Will you have a look at this photo? 
+好吧, 你来试试吧。	hao3 ba5, ni3 lai2 shi4shi4 ba5。	OK, I'll let you try. 
+好好玩吧!	hao3 hao3wan2 ba5	Have fun! 
+我小时候, 爷爷是我最好的朋友。	wo3 xiao3shi2hou5, ye2ye5 shi4 wo3 zui4hao3 de5 peng2you5。	When I was small, my grandpa was my best friend. 
+他喜欢一边喝啤酒, 一边看体育节目。	ta1 xi3huan5 yi4bian1 he1 pi2jiu3, yi4bian1 kan4 ti3yu4 jie2mu4。	He likes to drink beer while watching sports programs. 
+我口渴, 要喝水。	wo3 kou3ke3, yao4 he1shui3。	I'm thirsty. I want to drink some water. 
+我和他是老朋友, 我很了解他。	wo3 he2 ta1 shi4 lao3peng2you5, wo3 hen3 liao3jie3 ta1。	He and I are old friends. I know him very well. 
+房间里有一张桌子和四把椅子。	fang2jian1 li3 you3 yi1 zhang1 zhuo1zi5 he2 si4 ba3 yi3zi5。	There is a table and four chairs in the room. 
+因为没有时间, 所以我很少去看朋友。	yin1wei4 mei2you3 shi2jian1, suo3yi3 wo3 hen3 shao3 qu4 kan4 peng2you5。	I seldom go visiting friends because I don't have the time. 
+他身体很差, 经常生病。	ta1 shen1ti3 hen3 cha1, jing1chang2 sheng1 bing4。	He is in poor health and often falls ill. 
+她很聪明, 老师一说她就懂。	ta1 hen3 cong1ming5, lao3shi1 yi1 shuo1 ta1 jiu4 dong3。	She is very bright. As soon as the teacher has explained, she understands. 
+我们很接近那里了。（→ 我们快到了。）	wo3men5 hen3 jie1jin4 na4li5 le5。 wo3men5 kuai4 dao4liao3。	We're nearly there. 
+虽然是九月了, 但是还很热。	sui1ran2 shi4 jiu3yue4 le5, dan4shi4 hai2 hen3 re4。	Although it's September, it's still very hot. 
+我离开一会儿, 马上就回来。	wo3 li2kai1 yi2hui4r5, ma3shang4 jiu4 hui2lai5。	Excuse me for a minute. I'll be back soon. 
+回答问题以前, 先要想一下。	hui2da2 wen4ti2 yi3qian2, xian1yao4 xiang3 yi2xia4。	Before you answer a question, you should think first. 
+我希望他马上回家, 因为我开始为他担心了。	wo3 xi1wang4 ta1 ma3shang4 hui2jia1, yin1wei4 wo3 kai1shi3 wei2 ta1 dan1xin1 le5。	I hope he comes home soon since I'm beginning to worry about him. 
+孩子在学校里的时候, 她检查、回答电子邮件。	hai2zi5 zai4 xue2xiao4 li3 de5 shi2hou5, ta1 jian3cha2、 hui2da2 dian4zi3 you2jian4。	She checked and replied to e-mails while her children were in school. 
+今天可能会下雨, 带着伞吧。	jin1tian1 ke3neng2 hui4 xia4 yu3, dai4 zhe5 san3 ba5。	It may rain today. Take your umbrella with you. 
+我去开会了, 这里请你照顾一下。	wo3 qu4 kai1 hui4 le5, zhe4li5 qing3 ni3 zhao4gu5 yi2xia4。	I'm going to a meeting. Please keep an eye on things here. 
+你会用中文问路吗?	ni3 hui4 yong4 Zhong1wen2 wen4 lu4 ma5	Can you ask the way in Chinese? 
+你会说中文吗?	ni3 hui4shuo1 Zhong1wen2 ma5	Do you speak Chinese? 
+你会骑马吗?	ni3 hui4 qi2 ma3 ma5	Can you ride a horse? 
+我只会在洗澡的时候唱歌。	wo3 zhi3 hui4 zai4 xi3zao3 de5 shi2hou5 chang4ge1。	I'm able to sing only in the shower. 
+你在这里住了几年了?	ni3 zai4 zhe4li5 zhu4 le5 ji3 nian2 le5	How long have you been living here? 
+我家有一只小白猫。	wo3jia1 you3 yi1 zhi3 xiao3 bai2 mao1。	We keep a white kitten at home. 
+今天太冷了, 别去游泳吧!	jin1tian1 tai4 leng3 le5, bie2 qu4 you2yong3 ba5	It's too cold today. Don't go swimming, OK? 
+今天是你的生日, 你来分生日蛋糕。	jin1tian1 shi4 ni3 de5 sheng1ri4, ni3 lai2 fen1 sheng1ri4 dan4gao1。	Today's your birthday, come and cut your birthday cake. 
+今天的课你听懂没有?	jin1tian1 de5 ke4 ni3 ting1dong3 mei2you3	Do you understand today's lesson? 
+今天是你的生日, 我送你一件小礼物。	jin1tian1 shi4 ni3 de5 sheng1ri4, wo3 song4 ni3 yi1 jian4 xiao3 li3wu4。	Today's your birthday. I'll give you a little gift. 
+你今天晚上打算做什么?	ni3 jin1tian1 wan3shang5  da3suan4 zuo4 shen2me5	What do you plan to do this evening? 
+今天晚上	jin1tian1 wan3shang5 	this evening 
+你今天觉得怎么样?	ni3 jin1tian1 jue2de5 zen3me5yang4	How are you feeling today? 
+开开门!	kai1 kai1men2	Open the door, please! 
+别开玩笑了!	bie2 kai1 wan2xiao4 le5	Stop kidding! 
+他喜欢跟别人开玩笑,  有时候太过分了。	ta1 xi3huan5 gen1 bie2ren5 kai1 wan2xiao4, you3shi2hou5 tai4 guo4fen4 le5。	He likes to play jokes on people, sometimes he would go too far. 
+请把门关上, 空调开着呢。	qing3 ba3men2 guan1shang5, kong1tiao2 kai1 zhe5ne5。	Please shut the door. The AC is on. 
+你想看哪些书?	ni3 xiang3 kan4 na3xie1 shu1	Which books do you want to read? 
+我这里有一些书, 你看看还有没有用。	wo3 zhe4li5 you3 yi1xie1 shu1, ni3 kan4kan5 hai2 you3 mei2you3 yong4。	I have a few books here. Have a look to see if they are still useful. 
+什么? 要一千块钱? 太贵了!	shen2me5 yao4 yi1qian1 kuai4 qian2 tai4 gui4 le5	What? One thousand dollars? It's too expensive. 
+明天上课的时候, 把词典带来。	ming2tian1 shang4 ke4 de5 shi2hou5, ba3 ci2dian3 dai4lai5。	Please bring your dictionary with you when you come to class tomorrow. 
+等一下, 我马上就来。	deng3 yi2xia4, wo3 ma3shang4 jiu4 lai2。	Wait a minute, I'll come soon. 
+你昨天为什么没有来上课?	ni3 zuo2tian1 wei4shen2me5 mei2you3 lai2 shang4 ke4	Why didn't you come to school yesterday? 
+快, 公共汽车来了!	kuai4, gong1gong4 qi4che1 lai2 le5	Quick, the bus is coming! 
+我们来做游戏!	wo3men5 lai2 zuo4 you2xi4	Let's play a game! 
+进来吧, 我们在等你呢!	jin4lai5 ba5, wo3men5 zai4 deng3 ni3 ne5	Please come in. We've been waiting for you. 
+你先生近来忙吗?	ni3 xian1sheng5 jin4lai2 mang2 ma5	Is your husband busy these days? 
+没关系, 我来想办法。	mei2 guan1xi5, wo3 lai2 xiang3 ban4fa3。	It's OK. I'll think of a way. 
+来, 坐到我旁边来。	lai2, zuo4dao4 wo3 pang2bian1 lai2。	Come and sit by my side. 
+说真的, 我从来没有喜欢过他。	shuo1 zhen1 de5, wo3 cong2lai2 mei2you3 xi3huan5 guo4 ta1。	To tell the truth, I never liked him very much. 
+你万一生病了, 谁来照顾你呢？	ni3 wan4yi1 sheng1 bing4 le5, shui2 lai2 zhao4gu5 ni3 ne5	Who would care for you in case you are sick? 
+来, 坐在我旁边。	lai2, zuo4 zai4 wo3 pang2bian1。	Come and sit beside me! 
+拿一把椅子来, 跟我们坐在一起。	na2 yi1 ba3 yi3zi5 lai2, gen1 wo3men5 zuo4 zai4 yi4qi3。	Fetch a chair and join us. 
+这次考试太难了!	zhe4ci4 kao3shi4 tai4 nan2 le5	This test was really difficult! 
+我想睡觉了, 这些作业明天再做吧。	wo3 xiang3 shui4jiao4 le5, zhe4xie1 zuo4ye4 ming2tian1 zai4 zuo4 ba5。	I want to go to bed. I'll do these assignments tomorrow. 
+我的红铅笔哪里去了?	wo3 de5 hong2 qian1bi3 na3li5 qu4le5	Where's my red pencil? 
+出问题了!	chu1 wen4ti2 le5	Something's gone wrong! 
+她已经三十五岁了, 还没有结婚。	ta1 yi3jing1 san1shi2wu3 sui4 le5, hai2 mei2you3 jie2hun1。	She is already thirty-five years old and is not married yet. 
+你怎么又迟到了?	ni3 zen3me5 you4 chi2dao4 le5	Why are you late again? 
+怎么了, 她怎么哭了?	zen3me5le5, ta1 zen3me5 ku1 le5	What happened? Why is she crying? 
+你昨天晚上去哪里了?	ni3 zuo2tian1 wan3shang5  qu4 na3li5 le5	Where were you yesterday evening? 
+谢谢, 我饱了。	xie4xie5, wo3 bao3 le5。	Thank you. I'm full. 
+“我可以走了吗?”“可以。”	“ wo3 ke3yi3 zou3 le5 ma5”“ ke3yi3。”	“May I leave now?” “Yes, you may.” 
+她买了一只新手机。	ta1 mai3 le5 yi1 zhi3 xin1 shou3ji1。	She bought a new cell phone. 
+你住在哪里?	ni3 zhu4 zai4 na3li5	Where do you live? 
+请问, 女洗手间在哪里?	qing3wen4, nü3 xi3shou3jian1 zai4 na3li5	Excuse me, where is the women's toilet? 
+请问, 洗手间在哪里?	qing3wen4, xi3shou3jian1 zai4 na3li5	Excuse me, where's the washroom? 
+“你住在哪里?”“我住在学校附近。”	“ ni3 zhu4 zai4 na3li5”“ wo3 zhu4 zai4 xue2xiao4 fu4jin4。”	“Where do you live?” “I live near the school.” 
+他在房间里休息。	ta1 zai4 fang2jian1 li3 xiu1xi5。	He's taking a rest in the room. 
+这里有五公斤苹果, 我送给你。	zhe4li5 you3 wu3 gong1jin1 ping2guo3, wo3 song4gei3 ni3。	Here are five kilograms of apples, my gift to you. 
+你口渴吗? 这里有水。	ni3 kou3ke3 ma5 zhe4li5 you3 shui3。	Are you thirsty? Here's some water. 
+房间里有些人站着, 有些人坐着。	fang2jian1 li3 you3xie1 ren2 zhan4zhe5, you3xie1 ren2 zuo4 zhe5。	In the room some people are standing, and others are seated. 
+房间里没有人。	fang2jian1 li3 mei2you3 ren2。	There is nobody in the room. 
+教室里没有人。	jiao4shi4 li3 mei2you3 ren2。	There is nobody in the classroom. 
+星期六我们去爬山吧!	Xing1qi1liu4 wo3men5 qu4 pa2shan1 ba5	Let's go mountain climbing this Saturday. 
+我可以参加中文班吗?	wo3 ke3yi3 can1jia1 Zhong1wen2 ban1 ma5	May I join the Chinese class? 
+我可以用一下你的铅笔吗?	wo3 ke3yi3 yong4 yi2xia4 ni3 de5 qian1bi3 ma5	May I use your pencil for a while? 
+我可以请您跳舞吗?	wo3 ke3yi3 qing3 nin2 tiao4wu3 ma5	May I have a dance with you? 
+我可以用一下你的自行车吗?	wo3 ke3yi3 yong4 yi2xia4 ni3 de5 zi4xing2che1 ma5	May I use your bicycle? 
+你经常运动吗?	ni3 jing1chang2 yun4dong5 ma5	Do you exercise often? 
+“你去过中国没有?”“还没有。”	“ ni3 qu4 guo4 Zhong1guo2 mei2you3”“ hai2 mei2you3。”	“Have you ever been to China?” “Not yet.” 
+“你有什么需要, 可以跟我说。”“谢谢, 没有什么需要。”	“ ni3 you3 shen2me5 xu1yao4, ke3yi3 gen1 wo3 shuo1。”“ xie4xie5, mei2you3 shen2me5 xu1yao4。”	“If there's anything you need, let me know.” “Thank you, but there's nothing I need.” 
+那位先生是谁?	na4wei4 xian1sheng5 shi4 shui2	Who is that gentleman? 
+喂, 你的票呢?	wei4, ni3 de5 piao4 ne5	Hey, where's your ticket? 
+你着急有什么用呢? 慢慢想办法吧。	ni3 zhao2ji2 you3 shen2me5 yong4 ne5 man4man4 xiang3 ban4fa3 ba5。	What's the use of being worried? Let's think of a plan. 
+有可能	you3 ke3neng2	(im)possible, (im)possibly 
+你什么时候去中国?	ni3 shen2me5 shi2hou5 qu4 Zhong1guo2	When are you going to China? 
+你什么时候可以做完作业?	ni3 shen2me5 shi2hou5 ke3yi3 zuo4wan2 zuo4ye4	When can you finish your homework? 
+你住在什么地方?	ni3 zhu4 zai4 shen2me5 di4fang5	Where do you live? 
+你在忙什么?	ni3 zai4 mang2 shen2me5	What are you busy with? 
+你找谁?	ni3 zhao3 shui2	Who are you looking for? 
+你是谁?	ni3 shi4 shui2	Who're you? 
+你最近身体怎么样?	ni3 zui4jin4 shen1ti3 zen3me5yang4	How's your health been recently? 
+“你最喜欢什么颜色?”“蓝颜色。”	“ ni3 zui4 xi3huan5 shen2me5 yan2se5”“ lan2 yan2se5。”	“What's your favorite color?” “Blue.” 
+你笑什么?	ni3 xiao4 shen2me5	What are you laughing at? 
+你要什么?	ni3 yao4 shen2me5	What do you want? 
+你觉得我这件新衣服怎么样?	ni3 jue2de5 wo3 zhe4 jian4 xin1 yi1fu5 zen3me5yang4	What do you think of my new dress? 
+你说得慢, 我就听得懂。	ni3 shuo1de5 man4, wo3 jiu4 ting1de2dong3。	If you speak slowly, I can understand you. 
+你姓什么？（→ 您贵姓？）	ni3 xing4 shen2me5 nin2 gui4xing4	What is your family name? 
+笑一笑, 十年少。	xiao4yi1xiao4, shi2 nian2shao4。	Laugh and you'll be ten years younger. (→ Laughter is the best medicine.) 
+请坐	qing3zuo4	Sit down, please! 
+请进	qing3jin4	Please come in! (or Please go in!) 
+请问, 去火车站怎么走?	qing3wen4, qu4huo3 che1zhan4 zen3me5 zou3	Excuse me, could you show me the way to the railway station? 
+我为人人, 人人为我。	wo3 wei2ren2 ren2, ren2ren2 wei4wo3。	I work for everybody as everybody works for me. (→ One for all and all for one.) 
+她再三要求, 才让她参加了考试。	ta1 zai4san1 yao1qiu2, cai2 rang4 ta1 can1jia1 le5 kao3shi4。	It was only after her repeated requests that she was allowed to sit for the examination. 
+马上送医院!	ma3shang4 song4 yi1yuan4	Take him to the hospital rightnow! 
+老太太, 您找谁?	lao3 tai4tai5, nin2 zhao3 shui2	Who are you looking for, ma'am? 
+他生什么病?	ta1 sheng1 shen2me5 bing4	What is he ill with? (→ What's wrong with him?) 
+他说什么?	ta1 shuo1 shen2me5	What did he say? 
+这是什么?	zhe4 shi4 shen2me5	What's this? 
+张先生/太太/小姐	zhang1 xian1sheng5 tai4tai5 xiao3jie3	Mr/Mrs/Miss Zhang 
+试试/试一下	shi4shi4 shi4 yi2xia4	have a try 
+过马路, 一定要小心。	guo4 ma3lu4, yi2ding4 yao4 xiao3xin1。	You must be very careful when crossing the street. 
+别着急, 慢慢地走。	bie2 zhao2ji2, man4man4 di4 zou3。	Don't be impatient. Walk slowly. 
+他爱说话。	ta1 ai4 shuo1hua4。	He likes to talk. 
+你爱来不来。	ni3 ai4 lai2 bu4 lai2。	I don't care if you come or not. 
+我热爱我的工作。	wo3 re4ai4 wo3 de5 gong1zuo4。	I really love my work. 
+你有什么爱好?	ni3 you3 shen2me5 ai4hao3	What's your hobby? 
+你爱她吗?	ni3 ai4 ta1 ma5	Do you love her? 
+我从小就不爱吃水果。	wo3 cong2xiao3 jiu4 bu4 ai4 chi1 shui3guo3。	I've never liked fruit since childhood. 
+爱上	ai4shang5	fall in love 
+他爱上了我的妹妹。	ta1 ai4shang5 le5 wo3 de5 mei4mei5。	He fell in love with my younger sister. 
+这孩子真可爱。	zhe4 hai2zi5 zhen1 ke3ai4。	What a lovely child. 
+我开始爱上她了。	wo3 kai1shi3 ai4shang5 ta1 le5。	I came to love her. 
+他爱上了我妹妹。	ta1 ai4shang5 le5 wo3 mei4mei5。	He has a crush on my younger sister. 
+我爱吃甜的。	wo3 ai4 chi1 tian2 de5。	I have a sweet tooth. 
+你爱怎么想就怎么想。	ni3 ai4 zen3me5 xiang3 jiu4 zen3me5 xiang3。	You can think what you like. 
+七上八下	qi1shang4-ba1xia4	confused 
+一百一十八	yi1bai3yi1 shi2ba1	one hundred eighteen 
+四十有八年	si4shi2 you3 ba1 nian2	48 years 
+七大八小	qi1da4ba1xiao3	of unequal size 
+下个月他就十八岁了。	xia4 ge4 yue4 ta1jiu4 shi2ba1 sui4 le5。	He's going to be eighteen next month. 
+我的飞机八点半起飞。	wo3 de5 fei1ji1 ba1 dian3 ban4 qi3fei1。	My plane leaves at eight thirty. 
+早上八点开始上课。	zao3shang5 ba1 dian3 kai1shi3 shang4 ke4。	School starts at eight a.m. 
+爸爸是医生, 妈妈也是医生。	ba4ba5 shi4 yi1sheng1, ma1ma5 ye3shi4 yi1sheng1。	My father is a doctor, and so is my mother. 
+我爸爸已经不在了。	wo3 ba4ba5 yi3jing1 bu4zai4le5。	My father has passed away. 
+我爸爸不在家。	wo3 ba4ba5 bu4 zai4jia1。	My dad is away. 
+把杯子放在桌子上。	ba3 bei1zi5 fang4 zai4 zhuo1zi5 shang4。	Put the cup on the table. 
+我在北京住。	wo3 zai4 Bei3jing1 zhu4。	I live in Beijing. 
+我是北京人。	wo3 shi4 Bei3jing1ren2。	I come from Beijing. 
+才有两本书	cai2 you3 liang3 ben3 shu1	There are only two books. 
+这本书能借我看看吗?	zhe4 ben3 shu1 neng2 jie4 wo3 kan4kan5 ma5	Can you lend me the book? 
+那本书卖多少钱?	na4 ben3 shu1 mai4 duo1shao5 qian2	How much is that book? 
+这本书不卖。	zhe4 ben3 shu1 bu4 mai4。	This book isn't for sale. 
+动物本能	dong4wu4 ben3neng2	animal instinct 
+这门课我们用一本新的中文课本。	zhe4 men2 ke4 wo3men5 yong4 yi1 ben3 xin1 de5 Zhong1wen2 ke4ben3。	We're adopting a new Chinese textbook for this course. 
+我只拿到一本。	wo3 zhi3 na2dao4 yi1 ben3。	I simply got one copy. 
+因为有人要求,所以图书馆买了这本书。	yin1wei4 you3ren2 yao1qiu2, suo3yi3 tu2shu1guan3 mai3 le5 zhe4 ben3 shu1。	The library acquired this book by request. 
+这本书是她的。	zhe4 ben3 shu1 shi4 ta1 de5。	This book is hers. 
+这本书是我的还是你的?	zhe4 ben3 shu1 shi4 wo3 de5 hai2shi5 ni3 de5	Is this book mine or yours? 
+这本书你看完了吗?	zhe4 ben3 shu1 ni3 kan4wan2 le5 ma5	Are you through with this book? 
+这本书是你的吗?	zhe4 ben3 shu1 shi4 ni3 de5 ma5	Is this book yours? 
+我们经过日本去中国。	wo3men5 jing1guo4 Ri4ben3 qu4 Zhong1guo2。	We went to China by way of Japan. 
+你觉得我们的汉语课本怎么样?	ni3 jue2de5 wo3men5 de5 Han4yu3 ke4ben3 zen3me5yang4	What do you think of our Chinese language textbook? 
+我本来应该跟他一起去。	wo3 ben3lai2 ying1gai1 gen1 ta1 yi4qi3 qu4。	I was supposed to go with him. 
+看起来不会下雨了。	kan4qi5lai5 bu4hui4 xia4 yu3 le5。	It appears that it won't rain. 
+这回他不会再回来了。	zhe4 hui2 ta1 bu4hui4 zai4 hui2lai5 le5。	This time, he left for good. 
+我跟他不再有来往了。	wo3 gen1 ta1 bu4zai4 you3 lai2wang5 le5。	I no longer have any contact with him. 
+我不再听新闻了。	wo3 bu4zai4 ting1 xin1wen2 le5。	I stopped listening to the news. 
+我们每人点一个菜。	wo3men5 mei3ren2 dian3 yi1 ge4 cai4。	Let's each choose a dish. 
+你跟服务员点菜了吗?	ni3 gen1 fu2wu4yuan2 dian3 cai4 le5 ma5	Have you given the waiter your order? 
+老人很能吃。	lao3ren2 hen3 neng2chi1。	The old man has an excellent appetite 
+这里有多种小吃。	zhe4li5 you3 duo1zhong3 xiao3chi1。	There are many snacks here. 
+再吃一点儿。	zai4 chi1 yi4dian3r5。	Eat some more. 
+你吃了吗?	ni3 chi1 le5 ma5	Have you eaten? 
+有什么吃什么。	you3 shen2me5 chi1 shen2me5。	Eat whatever there is. 
+这鱼还能吃吗?	zhe4 yu2 hai2 neng2chi1 ma5	Is this fish still edible? 
+吃干净!	chi1 gan1jing4	Eat up everything! 
+他到哪儿都吃得开。	ta1 dao4 na3r5 dou1 chi1de5kai1。	He is popular everywhere. 
+现在有钱才吃得开。	xian4zai4 you3qian2 cai2 chi1de5kai1。	Now being rich brings power and influence. 
+他好了, 现在吃得了。	ta1 hao3le5, xian4zai4 chi1de5 le5。	He's well again and can eat now. 
+吃得了	chi1de5 le5	can eat 
+别小口小口地吃东西,大口吃。	bie2 xiao3kou3 xiao3kou3 di4 chi1 dong1xi5, da4 kou3chi1。	Don't just peck at your food. Eat it. 
+他说话口吃。	ta1 shuo1hua4 kou3chi1。	He has an impediment in his speech. 
+你想吃什么甜点?	ni3 xiang3 chi1 shen2me5 tian2dian3	What will you have for dessert? 
+他吃得太多了,吃坏了。	ta1 chi1de5 tai4 duo1 le5, chi1 huai4 le5。	He's sick from overeating. 
+米快吃完了。	mi3 kuai4 chi1wan2 le5。	We are low on rice. 
+今天面包会吃完?	jin1tian1 mian4bao1 hui4 chi1wan2	We'll run out of bread today. 
+面包吃完了。	mian4bao1 chi1wan2 le5。	The bread has run out. 
+把米饭吃完。	ba3 mi3fan4 chi1wan2。	Eat up your rice. 
+我只吃得下一小碗米饭。	wo3 zhi3 chi1de5xia4 yi1xiao3 wan3 mi3fan4。	I can only manage one small bowl of rice. 
+有很多吃的。	you3 hen3 duo1 chi1 de5。	There's plenty of food. 
+让马出去吃草。	rang4 ma3 chu1qu5 chi1cao3。	Let the horses out to graze. 
+明天给我打电话。	ming2tian1 gei3 wo3 da3 dian4hua4。	Call me tomorrow. 
+你可以打电话找我。	ni3 ke3yi3 da3 dian4hua4 zhao3 wo3。	You can reach me by phone. 
+你什么时候都可以给我打电话。	ni3 shen2me5 shi2hou5 dou1 ke3yi3 gei3 wo3 da3 dian4hua4。	You can phone me whenever. 
+你多大了?	ni3 duo1 da4 le5	How old are you? 
+请把空调开大些。	qing3 ba3 kong1tiao2 kai1 da4xie5。	Please turn up the air-conditioning. 
+他“喂喂”地大叫。	ta1“ wei4 wei4” di4 da4 jiao4。	He hollered “hello.” 
+张大嘴。	zhang1da4 zui3。	Open your mouth wide. 
+船就要开了,请大家上船。	chuan2 jiu4yao4 kai1le5, qing3 da4jia1 shang4 chuan2。	All aboard! The ship is about to cast anchor. 
+大家对我都很好。	da4jia1 dui4 wo3 dou1 hen3 hao3。	Everyone is very nice to me. 
+她在找一个有大把钱的丈夫。	ta1 zai4 zhao3 yi1 ge4 you3 da4ba3 qian2 de5 zhang4fu5。	She's looking for a husband with oodles of money. 
+这些孩子是奶奶爷爷带大的。	zhe4xie1 hai2zi5 shi4 nai3nai5 ye2ye5 dai4da4 de5。	These children were raised by their grandparents. 
+差一刻九点。	cha1 yi1 ke4 jiu3 dian3。	It's a quarter to nine. 
+现在差不多十点了。	xian4zai4 cha4bu5duo1 shi2 dian3 le5。	It's almost 10 o'clock now. 
+几点了	ji3dian3le5	What time is it? 
+到点了。	dao4dian3 le5。	Time is up. 
+我六点以前得回家。	wo3 liu4 dian3 yi3qian2 de5 hui2jia1。	I have to return home by 6 o'clock. 
+你觉得好一点儿了吗?	ni3 jue2de5 hao3 yi4dian3r5 le5 ma5	Do you feel any better? 
+我觉得那一点儿都不好笑。	wo3 jue2de5 na4 yi4dian3r5 dou1 bu4 hao3xiao4。	I don't think that's at all funny. 
+这个甜点太甜了。	zhe4ge5 tian2dian3 tai4 tian2 le5。	The dessert is too sweet. 
+会议下午两点开始。	hui4yi4 xia4wu3 liang3 dian3 kai1shi3。	The meeting starts at two pm. 
+商店七点开门。	shang1dian4 qi1 dian3 kai1men2。	All shops open at seven. 
+关于这一点我要向你说清楚。	guan1yu2 zhe4 yi1dian3 wo3 yao4 xiang4 ni3 shuo1 qing1chu5。	I want to be quite clear on this point. 
+你要说的要点是什么?	ni3 yao4shuo1 de5 yao4dian3 shi4 shen2me5	What's the major point you want to make? 
+除了电脑, 他对什么都不感兴趣。	chu2le5 dian4nao3, ta1 dui4 shen2me5 dou1 bu4 gan3 xing4qu4。	Apart from computers, he's not interested in anything. 
+我想借用一下你的电脑, 好吗?	wo3 xiang3 jie4yong4 yi2xia4 ni3 de5 dian4nao3, hao3 ma5	May I use your computer for a while? 
+电脑是办公室的。	dian4nao3 shi4 ban4gong1shi4 de5。	The computer belongs to the office. 
+电脑又坏了。	dian4nao3 you4 huai4 le5。	The computer is playing up again. 
+教我用电脑吧。	jiao4 wo3 yong4 dian4nao3 ba5。	Show me how to use the computer. 
+今天电视有什么好节目?	jin1tian1 dian4shi4 you3 shen2me5 hao3 jie2mu4	Are there any good programs on TV today? 
+我的电视坏了。	wo3 de5 dian4shi4 huai4 le5。	My TV is broken. 
+我不想去看电影。	wo3 bu4xiang3 qu4 kan4 dian4ying3。	I don't want to go and see the movie. 
+这个电影真好看。	zhe4ge5 dian4ying3 zhen1 hao3kan4。	The film is very interesting. 
+今天的电影不要票。	jin1tian1 de5 dian4ying3 bu2yao4 piao4。	Today's movie is free. 
+你看了那个新电影了吗?	ni3 kan4 le5 na4ge5 xin1 dian4ying3 le5 ma5	Have you seen that new movie? 
+电影真好看。	dian4ying3 zhen1 hao3kan4。	The film is really wonderful. 
+那个电影不好看。	na4ge5 dian4ying3 bu4 hao3kan4。	That is a bad movie. 
+我看过那个电影了。	wo3 kan4 guo4 na4ge5 dian4ying3 le5。	I've seen that movie before. 
+这是我看过的最好的电影。	zhe4 shi4 wo3 kan4 guo4 de5 zui4hao3 de5 dian4ying3。	This is the best movie I've ever seen. 
+我们后来去看了电影。	wo3men5 hou4 lai2qu4 kan4 le5 dian4ying3。	We went to a movie next. 
+你多久看一次电影?	ni3 duo1 jiu3 kan4 yi1ci4 dian4ying3	How often do you go to the movies? 
+今天晚上去看电影怎么样?	jin1tian1 wan3shang5  qu4 kan4 dian4ying3 zen3me5yang4	What do you think of going to the movies tonight? 
+真不是东西!	zhen1 bu2shi5 dong1xi5	What a contemptible creature! 
+这个人不是好东西。	zhe4 ge4ren2 bu2shi5 hao3dong1xi5。	This guy is a nasty piece of work. 
+你是不是少了东西?	ni3 shi4bu5shi4 shao3le5 dong1xi5	Are you missing something? 
+来, 我给你看一样东西。	lai2, wo3 gei3 ni3 kan4 yi2yang4 dong1xi5。	Come, I'll show you something. 
+那东西买得不错。	na4 dong1xi5 mai3 de5 bu2cuo4。	That was a good buy. 
+你不能把那个东西带上飞机。	ni3 bu4neng2 ba3 na4ge5 dong1xi5 dai4shang5 fei1ji1。	You can't carry that on the plane. 
+这东西叫什么?	zhe4 dong1xi5 jiao4 shen2me5	What's this called? 
+让我看看你包里的东西。	rang4 wo3 kan4kan5 ni3 bao1 li3 de5 dong1xi5。	Let me see the contents of your bag. 
+去买东西	qu4 mai3 dong1xi5	Go shopping 
+把你的东西放在这个房间里。	ba3 ni3 de5 dong1xi5 fang4 zai4 zhe4ge5 fang2jian1 li3。	Put your stuff in this room. 
+我们都做好了解决这个问题的准备。	wo3men5 dou1 zuo4hao3 le5 jie3jue2 zhe4ge5 wen4ti2 de5 zhun3bei4。	We're all geared up to tackle the problem. 
+这家商店什么都卖。	zhe4 jia1 shang1dian4 shen2me5 dou1 mai4。	This store sells all sorts of goods. 
+你知道什么都告诉我。	ni3 zhi1dao5 shen2me5 dou1 gao4su5 wo3。	Tell me what you know. 
+他是个什么书都看的人。	ta1 shi4 ge4 shen2me5 shu1 dou1 kan4 de5 ren2。	He's an omnivorous reader. 
+他什么都自己做。	ta1 shen2me5 dou1 zi4ji3 zuo4。	He does everything himself. 
+读第一段。	du2 di4-yi1 duan4。	Read paragraph one. 
+对不起, 让你久等了。	dui4bu5qi3, rang4 ni3 jiu3deng3 le5。	Sorry to have kept you waiting. 
+对不起,我迟到了。	dui4bu5qi3, wo3 chi2dao4 le5。	I'm sorry to be late. 
+人口买卖越来越多。	ren2kou3 mai3mai5 yue4lai2yue4 duo1。	The traffic in human beings is increasing. 
+他的汉语讲得比我好多了。	ta1 de5 Han4yu3 jiang3 de5 bi3 wo3 hao3 duo1 le5。	He speaks far better Chinese than I do. 
+你胖多了。	ni3 pang4 duo1 le5。	You've gained too much weight. 
+这门课要求做很多作业。	zhe4 men2 ke4 yao1qiu2 zuo4 hen3 duo1 zuo4ye4。	This course requires a lot of homework. 
+你应该多喝水。	ni3 ying1gai1 duo1 he1shui3。	You should drink more fluids. 
+你今天完成了多少?	ni3 jin1tian1 wan2cheng2 le5 duo1shao5	How much did you accomplish today? 
+你有多少钱?	ni3 you3 duo1shao5 qian2	How much dough do you have? 
+这个多少钱?	zhe4ge5 duo1shao5 qian2	How much does this cost? 
+你出多少钱,我就出多少钱。	ni3 chu1 duo1shao5 qian2, wo3 jiu4 chu1 duo1shao5 qian2。	I'll match you dollar for dollar. 
+比分是多少?	bi3fen1 shi4 duo1shao5	What's the score? 
+我把很多时间花在图书馆里。	wo3 ba3 hen3 duo1 shi2jian1 hua1 zai4 tu2shu1guan3 li3。	I spend many hours in the library. 
+需要更多的老师。	xu1yao4 geng4duo1 de5 lao3shi1。	There's a need for more teachers. 
+他开口要更多的钱。	ta1 kai1kou3 yao4 geng4duo1 de5 qian2。	He's asking for still more money. 
+这里到图书馆有多远?	zhe4li5 dao4 tu2shu1guan3 you3 duo1yuan3	How far is it to the library? 
+他有很多钱。	ta1 you3 hen3 duo1 qian2。	He has a lot of money. 
+我出了很多错。	wo3 chu1 le5 hen3 duo1 cuo4。	I've made an awful lot of mistakes. 
+你的船有多长?	ni3 de5 chuan2 you3 duo1 zhang3	How long is your boat? 
+我们有很多问题。	wo3men5 you3 hen3 duo1 wen4ti2。	Our problems are legion. 
+你有多高?	ni3 you3 duo1 gao1	What's your height? 
+多少钱一个?	duo1shao5 qian2 yi1 ge4	How much is it for one? 
+儿子离家出走了。	er2zi5 li2jia1chu1zou3 le5。	The son ran away from home. 
+一百一十二	yi1bai3yi1 shi2er4	one hundred twelve 
+他向来都是说一不二。	ta1 xiang4lai2 dou1 shi4 shuo1 yi1 bu4 er4。	He always means what he says. 
+二七	Er4 Qi1 	second seventh-day memorial 
+二十好几年	er4shi2 hao3 ji3 nian2	20-odd years 
+十二的二是个位。	shi2er4 de5 er4 shi4 ge4wei4。	The two in twelve is the (last) digit. 
+二来	er4lai2	secondly 
+一差二错	yi1cha1-er4cuo4	one or two mistakes 
+请接二二一房间。	qing3 jie1 er4 er4 yi1 fang2jian1。	Please put me through to room 221. 
+我的房间在二楼。	wo3 de5 fang2jian1 zai4 er4lou2。	My room is on the second floor. 
+飞机十点起飞。	fei1ji1 shi2 dian3 qi3fei1。	The plane takes off at ten. 
+飞机已经到了。	fei1ji1 yi3jing1 dao4liao3。	The plane is in already. 
+要等一个小时飞机才会起飞。	yao4 deng3 yi1 ge4 xiao3shi2 fei1ji1 cai2 hui4 qi3fei1。	There will be an hour's wait before the plane takes off. 
+会议休息十分钟。	hui4yi4 xiu1xi5 shi2 fen1zhong1。	The meeting adjourned for a ten-minute recess. 
+我们休息十分钟吧。	wo3men5 xiu1xi5 shi2 fen1zhong1 ba5。	Let's take a ten-minute break. 
+只需要一分钟我就好了。	zhi3 xu1yao4 yi1 fen1zhong1 wo3 jiu4 hao3le5。	I'll be ready in just a minute. 
+你能给我几分钟吗?	ni3 neng2 gei3 wo3 ji3 fen1zhong1 ma5	Can you spare me a couple of minutes? 
+从办公室到我家走路十分钟。	cong2 ban4gong1shi4 dao4 wo3jia1 zou3lu4 shi2 fen1zhong1。	My office is a ten-minute walk from my home. 
+高兴得了不得	gao1xing4 de2le5 bu5de5	extremely happy 
+他一脸的不高兴。	ta1 yi1 lian3 de5 bu4 gao1xing4。	He is unhappy all over the face. 
+我不喜欢这个,也不喜欢那个。	wo3 bu4 xi3huan5 zhe4ge5, ye3 bu4 xi3huan5 na4ge5。	I don't like this one, and I don't like that one either. 
+你要哪个?	ni3 yao4 na3ge5	Which one would you pick? 
+你喜欢哪个?	ni3 xi3huan5 na3ge5	Which do you prefer? 
+你喜欢哪个就拿哪个。	ni3 xi3huan5 na3ge5 jiu4 na2 na3ge5。	You can take whichever one you like. 
+我的办公室在那个五层楼里。	wo3 de5 ban4gong1shi4 zai4 na4ge5 wu3 ceng2lou2 li3。	My office is in that five-story building. 
+这个房间只能住三个人。	zhe4ge5 fang2jian1 zhi3neng2 zhu4 san1 ge4ren2。	This room can accommodate only three people. 
+只有一个人能回答这个问题,那就是你。	zhi3you3 yi2 ge5 ren2 neng2 hui2da2 zhe4ge5 wen4ti2, na4 jiu4shi4 ni3。	Only one person can answer this question, namely you. 
+你看出那个人有什么奇怪的地方吗?	ni3 kan4chu1 na4 ge4ren2 you3 shen2me5 qi2guai4 de5 di4fang5 ma5	Did you notice anything strange about that man? 
+我想过要自己开个公司。	wo3 xiang3 guo4 yao4 zi4ji3 kai1 ge4 gong1si1。	I flirted with the idea of setting up my own business. 
+你喜欢这个吗?	ni3 xi3huan5 zhe4ge5 ma5	Do you like this? 
+她不但唱歌好, 而且跳舞也好。	ta1 bu2dan4 chang4ge1 hao3, er2qie3 tiao4wu3 ye3hao3。	She not only sings well, but also dances well. 
+他的中文也还可以。	ta1 de5 Zhong1wen2 ye3 hai2 ke3yi3。	His Chinese is passable. 
+我们经常出去旅游。	wo3men5 jing1chang2 chu1qu5 lü3you2。	We often travel. 
+她说着就站起来走出去了。	ta1 shuo1zhao2 jiu4 zhan4 qi3lai5 zou3chu1 qu4le5。	With this, she got up and walked out. 
+那老外中文讲得不错。	na4 lao3wai4 Zhong1wen2 jiang3 de5 bu2cuo4。	The foreigner speaks Chinese well. 
+小心, 别出错。	xiao3xin1, bie2 chu1cuo4。	Be careful and don't make a mistake. 
+注意别出错。	zhu4yi4 bie2 chu1cuo4。	Be careful not to make a mistake. 
+还有一个问题要问。	hai2 you3 yi1 ge4 wen4ti2 yao4 wen4。	I'd like to ask one more question. 
+我跟我的老同事还有来往。	wo3 gen1 wo3 de5 lao3 tong2shi4 hai2 you3 lai2wang5。	I've still kept contact with my old coworkers. 
+他再也不来了。	ta1 zai4ye3bu4 lai2 le5。	He never came again. 
+等一会再说。	deng3 yi1hui3 zai4shuo1。	We'll talk about it in a little while. 
+我们需要你的帮助。	wo3men5 xu1yao4 ni3 de5 bang1zhu4。	We need your help. 
+如果我需要帮忙就来找你。	ru2guo3 wo3 xu1yao4 bang1mang2 jiu4 lai2 zhao3 ni3。	If I need help I'll come to you. 
+这孩子长得真快。	zhe4 hai2zi5 zhang3 de5 zhen1 kuai4。	This kid has grown so fast. 
+他是个人才。	ta1 shi4 ge4 ren2cai2。	He's a talented person. 
+只有他才能解决这个问题。	zhi3you3 ta1 cai2neng2 jie3jue2 zhe4ge5 wen4ti2。	Only he can solve the problem. 
+去不了别为难。	qu4bu5liao3 bie2 wei2nan2。	Don't worry about not being able to go. 
+我感冒好了。	wo3 gan3mao4 hao3le5。	I've recovered from a cold. 
+我可能感冒了。	wo3 ke3neng2 gan3mao4 le5。	I may have a cold. 
+我有点感冒。	wo3 you3dian3 gan3mao4。	I've got a bit of a cold. 
+我感冒了。	wo3 gan3mao4 le5。	I caught a cold. 
+十年早上	shi2 nian2 zao3shang5	10 years earlier 
+旧的不去, 新的不来。	jiu4 de5 bu4 qu4, xin1 de5 bu4 lai2。	If the old doesn't go, the new won't come.  (→ If you don't discard old stuff, you won't have new things.) 
+请喝茶!	qing3 he1 cha2	Have some tea, please! 
+你好!	ni3hao3	How do you do? Hello! 
+太好了!	tai4 hao3le5	That's wonderful! 
+请坐!	qing3zuo4	Sit down, please! 
+请进!	qing3jin4	Please come in! (or Please go in!) 
+有借有还, 再借不难。	you3 jie4 you3 hai2, zai4 jie4 bu4 nan2。	Return what you borrowed, and it won't be difficult to borrow again. 
+几点了?	ji3 dian3 le5	What time is it? 
+这个工作要做好久?	zhe4ge5 gong1zuo4 yao4 zuo4 hao3jiu3	How long will it take to do the job? 
+我的工作不累。	wo3 de5 gong1zuo4 bu4 lei3。	My work doesn't tire me. 
+你会说汉语吗?	ni3 hui4shuo1 Han4yu3 ma5	Can you speak Chinese? 
+我们等你准备好了才走。	wo3men5 deng3 ni3 zhun3bei4 hao3le5 cai2 zou3。	We won't leave until you're ready. 
+你走的时候把灯关上,好吗?	ni3 zou3 de5 shi2hou5 ba3 deng1 guan1shang5, hao3 ma5	Could you turn off the light when you go? 
+最好的旅游季节是什么时候?	zui4hao3 de5 lü3you2 ji4jie2 shi4 shen2me5 shi2hou5	What is the best season for tourism? 
+你能讲个比他更好的故事吗?	ni3 neng2 jiang3 ge4 bi3 ta1 geng4hao3 de5 gu4shi5 ma5	Can you top his story? 
+今天几号?	jin1tian1 ji3 hao4	What's the date today? 
+这水干净吗? 能喝吗?	zhe4 shui3 gan1jing4 ma5 neng2 he1 ma5	Is the water pure enough to drink? 
+我很累。	wo3 hen3 lei3。	I'm pretty tired. 
+下雨了, 我们只好回家。	xia4 yu3 le5, wo3men5 zhi3hao3 hui2jia1。	It was raining, so we had to go home. 
+什么时候回来, 这很难说。	shen2me5 shi2hou5 hui2lai5, zhe4 hen3 nan2shuo1。	As to when I'll come back, that's hard to say. 
+你打算什么时候回老家?	ni3 da3suan4 shen2me5 shi2hou5 hui2 lao3jia1	When will you go back to your hometown? 
+欢迎你又回家了!	huan1ying2 ni3 you4 hui2jia1 le5	Welcome home again! 
+我的回答对吗?	wo3 de5 hui2da2 dui4 ma5	Did I give the right answer? 
+你会开船吗?	ni3 hui4 kai1chuan2 ma5	Do you know how to sail a boat? 
+你会游泳吗?	ni3 hui4 you2yong3 ma5	Do you know how to swim? 
+你会用筷子吗?	ni3 hui4 yong4 kuai4zi5 ma5	Can you use chopsticks? 
+我怎么会知道?	wo3 zen3me5 hui4 zhi1dao5	How should I know? 
+你打算参加明天的会议吗?	ni3 da3suan4 can1jia1 ming2tian1 de5 hui4yi4 ma5	Do you plan to attend the conference tomorrow? 
+今天星期几?	jin1tian1 xing1qi1ji3	Which day is it today? 
+我们几点出发?	wo3men5 ji3 dian3 chu1fa1	When do we set out? 
+现在几点了?。	xian4zai4 ji3 dian3 le5。	What time is it now? 
+你家住哪儿?	ni3 jia1 zhu4 na3r5	What's your home address? 
+他叫什么名字来着?	ta1 jiao4 shen2me5 ming2zi5 lai2zhe5	What was his name again? 
+今天谁过生日?	jin1tian1 shui2 guo4 sheng1ri4	Whose birthday is it today? 
+你今天不去上课吗?	ni3 jin1tian1 bu4 qu4 shang4 ke4 ma5	Aren't you going to class today? 
+你今天的作业做完了吗?	ni3 jin1tian1 de5 zuo4ye4 zuo4wan2 le5 ma5	Have you finished today's assignment? 
+谁能换开十块钱?	shui2neng2 huan4 kai1 shi2 kuai4 qian2	Who can break a ten-yuán note? 
+图书馆还开着吗?	tu2shu1guan3 hai2 kai1 zhe5 ma5	Is the library still open? 
+你对这个问题怎么看?	ni3 dui4 zhe4ge5 wen4ti2 zen3me5 kan4	What's your angle on this problem? 
+对这个问题你怎么看?	dui4 zhe4ge5 wen4ti2 ni3 zen3me5 kan4	What's your view on this subject? 
+你在看什么?	ni3 zai4 kan4 shen2me5	What are you looking at? 
+你看得懂中文吗?	ni3 kan4de5 dong3 Zhong1wen2 ma5	Can you read Chinese? 
+贵得很, 要一百多块呢。	gui4 de5 hen3, yao4 yi1bai3 duo1 kuai4 ne5。	It's awfully expensive, over $100. 
+这块地是谁的?	zhe4 kuai4 di4 shi4 shui2 de5	Who does this plot of land belong to? 
+你从哪儿来?	ni3 cong2 na3r5 lai2	Where did you come from? 
+站起来!	zhan4 qi3lai5	Get up! 
+你能把你说的写下来吗?	ni3 neng2 ba3 ni3 shuo1 de5 xie3 xia4lai5 ma5	Can you put what you said in writing? 
+你能来吗?	ni3 neng2 lai2 ma5	Are you able to come? 
+后来怎么了?	hou4lai2 zen3me5le5	Then what happened ? 
+你能来机场接我吗?	ni3 neng2 lai2 ji1chang3 jie1 wo3 ma5	Could you come and meet me at the airport? 
+牛奶在冰箱里。	niu2nai3 zai4 bing1xiang1 li3。	The milk is in the fridge. 
+五个的六个, 一共十一个。	wu3 ge4 de5 liu4 ge4, yi2gong4 shi2yi1 ge4。	Five plus six is eleven. 
+这还得了(吗) ?	zhe4 hai2 de2le5( ma5)	Isn't it awful? 
+要下雨了。你还要走吗?	yao4 xia4 yu3 le5。 ni3 hai2yao4 zou3 ma5	It's going to rain. Do you still want to go? 
+除了这些, 还有吗?	chu2le5 zhe4xie1, hai2 you3 ma5	Are there still some left apart from these? 
+我好进来吗?	wo3 hao3 jin4lai5 ma5	May I come in? 
+你会吗?	ni3 hui4 ma5	Do you know how? 
+你还记得我吗?	ni3 hai2 ji4de5 wo3 ma5	Do you still remember me? 
+你喜欢教书吗?	ni3 xi3huan5 jiao1shu1 ma5	Do you like teaching? 
+你近来身体好吗?	ni3 jin4lai2 shen1ti3 hao3 ma5	How's your health lately? 
+这不就是你要的书吗?	zhe4 bu4 jiu4shi4 ni3 yao4 de5 shu1 ma5	Isn't this the book you want? 
+你里里外外都检查过了吗?	ni3 li3li3wai4wai4 dou1 jian3cha2 guo4 le5 ma5	Did you check both the inside and the outside? 
+你了解他吗?	ni3 liao3jie3 ta1 ma5	Do you know him well? 
+我可以换些零钱吗?	wo3 ke3yi3 huan4 xie1 ling2qian2 ma5	Can I have some small change? 
+水热吗?	shui3 re4 ma5	Is the water warm? 
+我说错什么了吗?	wo3 shuo1cuo4 shen2me5 le5 ma5	What did I say wrong? 
+你完成作业了吗?	ni3 wan2cheng2 zuo4ye4 le5 ma5	Have you finished your homework? 
+这些水果洗过了吗?	zhe4xie1 shui3guo3 xi3 guo4 le5 ma5	Has the fruit been washed? 
+你洗脸了吗?	ni3 xi3lian3 le5 ma5	Did you wash your face? 
+你找到自行车了吗?	ni3 zhao3dao4 zi4xing2che1 le5 ma5	Have you found your bike? 
+是真的吗?	shi4 zhen1 de5 ma5	Is it true? 
+你准备好了吗?	ni3 zhun3bei4 hao3le5 ma5	Are you ready? 
+你有地方住吗?	ni3 you3 di4fang5 zhu4 ma5	Have you got accommodation? 
+你问问题了吗?	ni3 wen4 wen4ti2 le5 ma5	Did you ask any questions? 
+你刷牙了吗?	ni3 shua1ya2 le5 ma5	Did you brush your teeth? 
+这包衣服是你的吗?	zhe4 bao1 yi1fu5 shi4 ni3 de5 ma5	Is this bundle of clothes yours? 
+你感冒了吗?	ni3 gan3mao4 le5 ma5	Have you caught cold? 
+我能借用一下你的词典吗? 当然可以。	wo3 neng2 jie4yong4 yi2xia4 ni3 de5 ci2dian3 ma5 dang1ran2 ke3yi3。	Can I borrow your dictionary? ... Certainly. 
+你有零钱吗?	ni3 you3 ling2qian2 ma5	Have you got any change? 
+你喜欢这个颜色吗?	ni3 xi3huan5 zhe4ge5 yan2se5 ma5	Do you like this color? 
+你不喜欢体育运动,对吗?	ni3 bu4 xi3huan5 ti3yu4 yun4dong4, dui4 ma5	You don't like sports, do you? 
+你喜欢体育吗?	ni3 xi3huan5 ti3yu4 ma5	Do you like sports? 
+他还说什么了吗?	ta1 hai2 shuo1 shen2me5 le5 ma5	Did he say anything else? 
+你认识那个穿白衣服的女的吗?	ni3 ren4shi5 na4ge5 chuan1 bai2 yi1fu5 de5 nü3de5 ma5	Do you know that woman in white? 
+我写的字清楚吗?	wo3 xie3 de5 zi4 qing1chu5 ma5	Is my handwriting legible? 
+我可以问个问题吗?	wo3 ke3yi3 wen4 ge4 wen4ti2 ma5	May I ask a question? 
+灯关了吗?	deng1 guan1 le5 ma5	Are the lights off? 
+我能问个问题吗?	wo3 neng2 wen4 ge4 wen4ti2 ma5	May I pose a question? 
+你真是那个意思吗?	ni3 zhen1shi5 na4ge5 yi4si5 ma5	Do you really mean that? 
+他结婚了吗?	ta1 jie2hun1 le5 ma5	Is he married or single? 
+我出错了吗?	wo3 chu1cuo4 le5 ma5	Did I make a slip? 
+还有地方再放一张桌子吗?	hai2 you3 di4fang5 zai4 fang4 yi1 zhang1 zhuo1zi5 ma5	Is there enough space for another desk? 
+你疼吗?	ni3 teng2 ma5	Are you suffering any pain? 
+那个故事是真的吗?	na4ge5 gu4shi5 shi4 zhen1 de5 ma5	Is that story true? 
+这是去火车站的路吗?	zhe4 shi4 qu4huo3 che1zhan4 de5 lu4 ma5	Is this the way to the station? 
+你在那个医院有关系没有?	ni3 zai4 na4ge5 yi1yuan4 you3 guan1xi5 mei2you3	Do you know anyone in that hospital? 
+哪儿是出口?	na3r5 shi4 chu1kou3	Where is the exit? 
+您是哪儿?	nin2 shi4 na3r5	Where are you calling from? (on telephone) 
+哪儿好哪儿坏, 我不知道。	na3r5 hao3 na3r5 huai4, wo3 bu4zhi1dao4。	I don't know which is good and which is bad. 
+请问洗手间在哪儿?	qing3wen4 xi3shou3jian1 zai4 na3r5	Where is the bathroom, please? 
+你住哪儿?	ni3 zhu4 na3r5	Where do you live? 
+你站在哪一边?	ni3 zhan4 zai4 na3 yi4bian1	Which side are you on? 
+你是哪儿的人?	ni3 shi4 na3r5 de5 ren2	Where are you from? 
+火车站在哪儿?	huo3che1zhan4 zai4 na3r5	Where is the railroad station? 
+班上其他同学哪儿去了?	ban1 shang4 qi2ta1 tong2xue2 na3r5 qu4le5	Where's the rest of the class? 
+你哪儿不舒服?	ni3 na3r5 bu4 shu1fu5	What's the trouble? 
+那个人很难说话!	na4 ge4ren2 hen3 nan2 shuo1hua4	That person is very difficult to deal with. 
+那个男的是谁?	na4ge5 nan2de5 shi4 shui2	Who is that man? 
+那是什么意思?	na4shi5 shen2me5 yi4si5	What does that mean? 
+为什么呢?	wei4shen2me5 ne5	Why is that? 
+我呢, 我不要。	wo3 ne5, wo3 bu2yao4。	As for me, I don't want it. 
+我的书呢?	wo3 de5 shu1 ne5	Where is my book? 
+你的意思呢?	ni3 de5 yi4si5 ne5	What's your opinion? 
+你怎么解决这个问题呢?	ni3 zen3me5 jie3jue2 zhe4ge5 wen4ti2 ne5	What's your approach to this problem? 
+你在找什么呢?	ni3 zai4 zhao3 shen2me5 ne5	What are you searching for? 
+你最快什么时候能到?	ni3 zui4 kuai4 shen2me5 shi2hou5 neng2 dao4	How soon can you come? 
+你为什么跟他生气?	ni3 wei4shen2me5 gen1 ta1 sheng1qi4	Why are you sore at him? 
+你为什么哭?	ni3 wei4shen2me5 ku1	Why are you crying? 
+你在笑什么?	ni3 zai4 xiao4 shen2me5	What are you smiling about? 
+你姓什么?	ni3 xing4 shen2me5	What's your family name? 
+我只请了一位客人。	wo3 zhi3 qing3 le5 yi1 wei4 ke4ren5。	I invited only one guest. 
+请问您贵姓?	qing3wen4 nin2 gui4xing4	May I ask your (family) name please? 
+你只给了我很少一点儿。	ni3 zhi3 gei3 le5 wo3 hen3 shao3 yi4dian3r5。	You just gave a little bit to me. 
+谁对, 我就向着谁。	shui2 dui4, wo3 jiu4 xiang4zhe5 shui2。	I'll side with whoever's right. 
+这是谁做的决定?	zhe4 shi4 shui2 zuo4 de5 jue2ding4	Who made the decision? 
+谁最后走?	shui2 zui4hou4 zou3	Who leaves last? 
+谁来了?	shui2 lai2 le5	Who came? 
+这是谁的错?	zhe4 shi4 shui2 de5 cuo4	Whose mistake is it? 
+谁给你带孩子?	shui2 gei3 ni3 dai4 hai2zi5	Who looks after your children? 
+谁让你来的?	shui2 rang4 ni3 lai2 de5	Who told you to come? 
+谁把书拿走了?	shui2 ba3 shu1 na2 zou3 le5	Who took the book? 
+谁跟你说的?	shui2 gen1 ni3 shuo1 de5	Who told you that? 
+啊? 你说什么?	a5 ni3 shuo1 shen2me5	Huh, what did you say? 
+有什么不得了的?	you3 shen2me5 bu4de2liao3 de5	What's so serious? 
+出什么问题了?	chu1 shen2me5 wen4ti2 le5	What's wrong? 
+你为什么不开口?	ni3 wei4shen2me5 bu4 kai1kou3	Why don't you speak? 
+我为什么去不得?	wo3 wei4shen2me5 qu4bu5de5	Why shouldn't I go? 
+你在说什么?	ni3 zai4 shuo1 shen2me5	What are you talking about? 
+出了什么问题?	chu1 le5 shen2me5 wen4ti2	What's the matter? 
+你什么时候能做完作业?	ni3 shen2me5 shi2hou5 neng2 zuo4wan2 zuo4ye4	When will you be able to finish your assignment? 
+我还有什么选择?	wo3 hai2 you3 shen2me5 xuan3ze2	What's my alternative? 
+他在哭什么?	ta1 zai4 ku1 shen2me5	What is he blubbering about? 
+他是做什么的?	ta1 shi4 zuo4 shen2me5de5	What's his calling? 
+这条小船是用什么做的?	zhe4 tiao2 xiao3chuan2 shi4 yong4 shen2me5 zuo4 de5	What's the craft made of ? 
+我什么地方做错了?	wo3 shen2me5 di4fang5 zuo4cuo4 le5	What did I do wrong? 
+啊,你说什么?	a5, ni3 shuo1 shen2me5	Huh, what did you say? 
+你有什么打算?	ni3 you3 shen2me5 da3suan4	What do you intend to do? 
+我们有些什么选择?	wo3men5 you3xie1 shen2me5 xuan3ze2	What are our options? 
+你要说的是什么?	ni3 yao4shuo1 de5 shi4 shen2me5	What's your point? 
+忙什么?	mang2 shen2me5	What's the rush? 
+他要什么?	ta1 yao4 shen2me5	What does he want? 
+你说什么?	ni3 shuo1 shen2me5	What did you say? 
+有什么用?	you3 shen2me5 yong4	What's the use? 
+多么新鲜的水果啊!	duo1me5 xin1xian1 de5 shui3guo3 a5	How fresh the fruit is! 
+他只听不说。	ta1 zhi3 ting1 bu4 shuo1。	He listened without speaking. 
+好是好, 但是太贵了。	hao3shi4hao3, dan4shi4 tai4 gui4 le5。	It's good all right, but it's too expensive. 
+你太过分了!	ni3 tai4 guo4fen4 le5	What you've done is too much! 
+这孩子! 你越是说, 他越是不听。	zhe4 hai2zi5 ni3 yue4shi4 shuo1, ta1 yue4shi4 bu4 ting1。	This child! The more you scold him, the less he obeys. 
+听着!	ting1zhe5	Listen to me! 
+快走把, 要下雨了。	kuai4zou3 ba3, yao4 xia4 yu3 le5。	Hurry up. It's about to rain. 
+不想, 他已经先到了。	bu4xiang3, ta1 yi3jing1 xian1dao4 le5。	Unexpectedly, he arrived before us. 
+我想来想去, 觉得还是应该去。	wo3 xiang3lai2xiang3qu4, jue2de5 hai2shi5 ying1gai1 qu4。	I mulled it over and decided that I should go. 
+想来/说来好笑	xiang3lai2 shuo1lai2 hao3xiao4	funny to think/speak of 
+这件衣服难看, 那件衣服好看。	zhe4 jian4 yi1fu5 nan2kan4, na4 jian4 yi1fu5 hao3kan4。	This clothing is ugly; that clothing is good-looking. 
+后来怎么样?	hou4lai2 zen3me5yang4	What happened afterward? 
+他怎么说?	ta1 zen3me5 shuo1	What did he say? 
+你说怎么样?	ni3 shuo1 zen3me5yang4	What do you think? 
+他怎么了?	ta1 zen3me5le5	What's the matter with him? 
+怎么了?	zen3me5le5	What's the trouble? 
+给我住嘴!	gei3 wo3 zhu4zui3	Shut up! 
+你难得来, 多坐一会儿吧。	ni3 nan2de2 lai2, duo1 zuo4 yi2hui4r5 ba5。	You rarely come, so please sit a while longer. 
+来, 坐我旁边。	lai2, zuo4 wo3 pang2bian1。	Come and sit next to me. 
+再好不过了!	zai4hao3bu5guo4 le5	It couldn't be better! 
+孩子多了照顾不过来。	hai2zi5 duo1 le5 zhao4 gu4bu5guo4lai5。	If you have too many children, you won't be able to take good care of them. 
+这只不过是时间问题。	zhe4 zhi3bu5guo4 shi4 shi2jian1 wen4ti2。	It's just a question of time. 
+送客人去机场	song4ke4 ren2 qu4 ji1chang3	accompany visitors to the airport 
+我们去机场为她送别。	wo3men5 qu4 ji1chang3 wei2 ta1 song4bie2。	We're going to the airport to see her off. 
+我当然要说。	wo3 dang1ran2 yao4shuo1。	I'll certainly talk. 
+“当然不,” 她还嘴说。	“ dang1ran2 bu4,” ta1 huan2zui3 shuo1。	“Of course not,” she retorted. 
+我觉得你错了。	wo3 jue2de5 ni3 cuo4le5。	I think you're wrong. 
+他哭得像个孩子。	ta1 ku1 de5 xiang4 ge4 hai2zi5。	He blubbered like a child. 
+等着吧, 有他的好看。	deng3zhe5 ba5, you3 ta1 de5 hao3kan4。	You can be sure he'll soon find himself on the spot. 
+房间很干净。	fang2jian1 hen3 gan1jing4。	The room is clean. 
+水好像开了。	shui3 hao3xiang4 kai1le5。	The water seems to be boiling. 
+别跟我开玩笑。	bie2 gen1 wo3 kai1 wan2xiao4。	Be serious. Don't kid me. 
+拿我开玩笑	na2 wo3 kai1 wan2xiao4	make fun of me 
+千万要来!	qian1wan4 yao4 lai2	You have to come! 
+他比你年轻。	ta1 bi3 ni3 nian2qing1。	He's younger than you. 
+只要一点, 她就明白了。	zhi3yao4 yi1dian3, ta1 jiu4 ming2bai5 le5。	You only have to mention it, and she'll understand. 
+极重要	ji2 zhong4yao4	extremely important 
+你最好别去。	ni3 zui4hao3 bie2 qu4。	You had better not go. 
+个人看来	ge4ren2 kan4lai2	as I see it 
+你这个人就是好问。	ni3 zhe4 ge4ren2 jiu4shi4 hao4wen4。	You have such a questioning mind. 
+你这个人真是!	ni3 zhe4 ge4ren2 zhen1shi5	How can you be like that! 
+这个人真好。	zhe4 ge4ren2 zhen1 hao3。	This person is nice. 

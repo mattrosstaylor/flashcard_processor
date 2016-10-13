@@ -96,9 +96,9 @@ def increment_word(words, character):
 def output_word_list(words):
 	it = sorted(words.items(), key=operator.itemgetter(1))
 	for sc in it:
-		print sc[0] +" " +str(words[sc[0]])
+		print sc[0].text +" " +str(words[sc[0]])
 
-unknown = dict()
+unknown_word_counts = dict()
 passed = []
 
 for s in sentences:
@@ -120,11 +120,14 @@ for s in sentences:
 
 		junk = example_printable.split(' ')
 		for j in junk:
-			increment_word(unknown, j)
+			increment_word(unknown_word_counts, j)
 	else:
 		passed.append(s)
 
-known = dict()
+passed = list(set(passed))
+
+known_word_counts = dict()
+original_known_word_counts = dict()
 
 for s in passed:
 	example = s.text
@@ -132,48 +135,64 @@ for s in passed:
 	for w in words:
 		if w.text in example:
 			example = example.replace(w.text,"")
-			increment_word(known, w.text)
+			increment_word(known_word_counts, w)
+			increment_word(original_known_word_counts, w)
 			s.related.add(w)
 			w.related.add(s)
-"""
-	contains = "\t"
-	for x in s.related:
-		contains = contains +" " +x.text
-
-	print s.text + " " +str(len(s.related))
-"""
 
 covering = []
-covering = passed
-#passed.sort(key=lambda x: len(x.related))
-"""
-while passed:
-	passed.sort(key=lambda x: x.count, reverse=False)
-	#passed.sort(key=lambda x: len(x.related))
+added_word_counts = dict()
+added_sentences = set()
+looping = True
 
-	#top = passed.pop()
+for w in known_word_counts:
+	added_word_counts[w] = 0
 
-	l = len(passed)
-	top = passed[random.randint(0,l-1)/2 + l/4]
-	passed.remove(top)
+while len(covering) < 1000:
+
+	it = sorted(added_word_counts.items(), key=operator.itemgetter(1))
 	
-	for s in passed:
-		for chars in top.related:
-			if chars in s.related:
-				s.related.remove(chars)
+	looping = False
 
-		if not len(s.related):
-			passed.remove(s)
+	for w in it:
+		smallest_word = w[0]
 
-	covering.append(top)
+		if added_word_counts[smallest_word] < 100:
+			
+			sentence = None
+			float cost = 999999
 
-#	print (top.text).encode("utf-8")
-"""
+			for s in smallest_word.related:
+				if s not in added_sentences:
+					
+					float total = 0
+					for ww in s.related:
+						total += float(added_word_counts[ww]*added_word_counts[ww])
+					
+					total = total / float(len(s.related))
+
+					if total < cost:
+						sentence = s
+						cost = total
+
+			if not sentence:
+				continue
+
+			covering.append(sentence)
+			added_sentences.add(sentence)
+
+			for ww in sentence.related:
+				increment_word(added_word_counts, ww)
+			
+			break
+		else:
+			continue
+
 #for w in words:
-#	if not w.text in known:
+#	if not w.text in known_word_counts:
 #		print w.text
 
-#output_word_list(known)
+#output_word_list(known_word_counts)
 
 print ("// Learning " +str(len(covering))).encode('utf-8')
 for s in covering:
@@ -183,7 +202,7 @@ for s in covering:
 
 #print len(covering)
 
-#known = dict()
+#known_word_counts = dict()
 
 #for s in covering:
 #	example = s.text
@@ -191,8 +210,12 @@ for s in covering:
 #	for w in words:
 #		if w.text in example:
 #			example = example.replace(w.text,"")
-#			increment_word(known, w.text)
+#			increment_word(known_word_counts, w.text)
 #			s.related.add(w)
 #			w.related.add(s)
 
-#output_word_list(known)
+it = sorted(original_known_word_counts.items(), key=operator.itemgetter(1))
+for sc in it:
+	oc = original_known_word_counts[sc[0]]
+	ao = added_word_counts[sc[0]]
+	print (sc[0].text +" " +str(ao) +"/" +str(oc)).encode('utf-8')
