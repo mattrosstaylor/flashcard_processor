@@ -1,29 +1,11 @@
 # -*- coding: utf-8 -*-
 #!/bin/python
 
-from unicode_csv import UnicodeReader 
+from unicode_csv import *
+from entry import *
+from flashcard_context import *
 import operator
 import re
-
-class Entry:
-	def __init__(self, text, pinyin, english=None):
-		self.text = text
-		self.pinyin = pinyin
-		self.english = english
-		self.count = len(text)
-		self.related = set()
-    
-	def __repr__(self):
-		return self.text.encode("utf-8")
-
-	def __unicode__(self):
-		return self.sc +" " +self.py +" " +self.category
-
-	def __eq__(self, other):
-		return self.text == other.text
-
-	def __hash__(self):
-		return hash(self.text)
 
 def read_entries_from_csv(path):
 
@@ -51,20 +33,10 @@ def read_entries_from_csv(path):
 
 	return entries
 
-def increment_word(words, character):
-	if character in words:
-		words[character] += 1
-	else:
-		words[character] = 1
-
-def output_word_list(words):
-	it = sorted(words.items(), key=operator.itemgetter(1))
-	for sc in it:
-		print sc[0].text +" " +str(words[sc[0]])
-
 def load_word_file(path):
 	return read_entries_from_csv(path)
 
+# todo: this should be moved to flashcard_context
 def load_export_file(path, words):
 	entries = read_entries_from_csv(path)
 
