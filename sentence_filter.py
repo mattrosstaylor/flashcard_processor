@@ -5,21 +5,17 @@ from entry import *
 from flashcard_context import *
 import operator
 
-minimum_desired_count = 1000
+minimum_desired_count = 1
 maximum_card_count = 30000
 
 class Sentence_Filter:
 
 	def get_filtered_sentences(self, context):
-		source_sentences = context.sentences
-		words = context.words
-		known_word_counts = context.known_word_counts
-
-
+		
 		# null initialise added_word_count dictionary
 		added_word_counts = dict()
 
-		for w in known_word_counts:
+		for w in context.known_word_counts:
 			added_word_counts[w] = 0
 
 		output = []
@@ -28,7 +24,7 @@ class Sentence_Filter:
 		looping = True
 
 		while looping:
-			if len(output) >= maximum_card_count or len(output) >= len(source_sentences):
+			if len(output) >= maximum_card_count or len(output) >= len(context.sentences):
 				looping = False
 				break
 
@@ -42,7 +38,7 @@ class Sentence_Filter:
 				smallest_word = w[0]
 
 				# if you have already added all the examples from this word - continue
-				if known_word_counts[smallest_word] == added_word_counts[smallest_word]:
+				if context.known_word_counts[smallest_word] == added_word_counts[smallest_word]:
 					continue
 
 				# if the least common word has reached the desired count - we're done!
@@ -55,15 +51,15 @@ class Sentence_Filter:
 				best_sentence_score = 0
 
 				# loop through sentences containing this word
-				for sentence in smallest_word.related:
+				for sentence in context.get_related_entries(smallest_word):
 					if sentence in added_sentences:
 						continue
 						
 					# base score is number of unique words
-					sentence_score = len(sentence.related) 
+					sentence_score = len(context.get_related_entries(sentence)) 
 					
 					# score bonus points for how rare each word is
-					for ww in sentence.related:
+					for ww in context.get_related_entries(sentence):
 						sentence_score += maximum_prevalence - added_word_counts[ww]
 
 					# check if best sentence for this word
@@ -80,7 +76,7 @@ class Sentence_Filter:
 				added_sentences.add(best_sentence)
 
 				# update added_word_counts to include new sentence
-				for ww in best_sentence.related:
+				for ww in context.get_related_entries(best_sentence):
 					increment_word(added_word_counts, ww)
 				
 				break # back to main loop

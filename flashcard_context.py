@@ -18,6 +18,13 @@ class Flashcard_Context:
 		self.sentences = sentences
 		self.words = words
 
+		self.related_entries = dict()
+
+		for s in self.sentences:
+			self.related_entries[s] = set()
+		for w in self.words:
+			self.related_entries[w] = set()
+
 		self.known_word_counts = dict()
 		
 		for s in self.sentences:
@@ -28,5 +35,9 @@ class Flashcard_Context:
 					example = example.replace(w.text,"")
 					increment_word(self.known_word_counts, w)
 				
-					s.related.add(w)
-					w.related.add(s)
+					
+					self.related_entries[s].add(w)
+					self.related_entries[w].add(s)
+
+	def get_related_entries(self, entry):
+		return self.related_entries[entry]

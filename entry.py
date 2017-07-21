@@ -7,7 +7,6 @@ class Entry:
 		self.pinyin = pinyin
 		self.english = english
 		self.count = len(text)
-		self.related = set() # TODO: this field should be moved to flashcard_context
     
 	def __repr__(self):
 		return self.text.encode("utf-8")
