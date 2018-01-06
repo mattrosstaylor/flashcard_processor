@@ -12,10 +12,10 @@ class Entry:
 		return self.text.encode("utf-8")
 
 	def __unicode__(self):
-		return self.sc +" " +self.py # this has an error
+		return self.text +" " +self.pinyin # this has an error
 
 	def __eq__(self, other):
-		return self.text == other.text
+		return self.text == other
 
 	def __hash__(self):
 		return hash(self.text)
