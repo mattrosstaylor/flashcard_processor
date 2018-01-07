@@ -1,102 +1,85 @@
 # -*- coding: utf-8 -*-
 #!/bin/python
 
-from unicode_csv import UnicodeReader 
 from export_loader import *
-import operator
-import random
+from entry import *
+from flashcard_context import *
+from sentence_filter import *
+import codecs
 
-minimum_desired_count = 3
-maximum_card_count = 10000
-(words, sentences, unknown) = load_export_file("export.txt")
+import operator	
 
-sentences = list(set(sentences))
-random.shuffle(sentences)
+def process_audio_sentences(words):
+	sentences = load_export_file("SpoonFedChinese.txt", 2, 1, 0)
 
-known_word_counts = dict()
+	context = Flashcard_Context(sentences, words)
 
-for s in sentences:
-	example = s.text
+	# FILTER SENTENCE
+	sf = Sentence_Filter(context)
+	sf.filter_sentences()
 
-	for w in words:
-		if w.text in example:
-			example = example.replace(w.text,"")
-			increment_word(known_word_counts, w)
-		
-			s.related.add(w)
-			w.related.add(s)
+	#print ("// Learning " +str(len(sf.output))).encode('utf-8')
+	
+	for s in sf.output:
+		print (s.english +"\t" "learning").encode('utf-8')
 
-covering = []
-added_word_counts = dict()
-added_sentences = set()
+def process_text_sentences(words):
+	sentences = load_export_file("examples.txt")
+	context = Flashcard_Context(sentences, words)
 
-for w in known_word_counts:
-	added_word_counts[w] = 0
+	with codecs.open("results_unknown_counts.txt", "w", "utf-8") as f:
+		# output unknown words
+		it = sorted(context.unknown_word_counts.items(), key=operator.itemgetter(1))
 
-looping = True
+		for w in it:
+			f.write(w[0] +"\t" +str(w[1]) +"\n")
 
-while looping:
-	if not len(covering) < maximum_card_count:
-		looping = False
-		break
+	with codecs.open("results_failed.txt", "w", "utf-8") as f:
+		it = sorted(context.failed_sentence_map.items(), key=operator.itemgetter(1))
+		for sc in it:
+			s = sc[0]
+			oc = context.failed_sentence_map[s]
+			if s.text and s.pinyin and s.english and oc:
+				f.write(s.text +"\t" +s.pinyin +"\t" +s.english +"\t" +oc +"\n")
 
-	it = sorted(added_word_counts.items(), key=operator.itemgetter(1))
+	# FILTER SENTENCE
+	sf = Sentence_Filter(context, 3, 999999)
+	existing_sentences = load_export_file("examples_already_existing.txt")
+	sf.add_existing_sentences(existing_sentences)
+	sf.filter_sentences()
 
-	maximum_prevalence = added_word_counts[it[len(it)-1][0]]
+	#print ("// Learning " +str(len(sf.output))).encode('utf-8')
+	
+	with codecs.open("results.txt", "w", "utf-8") as f:
+		for s in sf.output:
+			if s.text and s.pinyin and s.english:
+				f.write(s.text +"\t" +s.pinyin +"\t" +s.english +"\n")
+	
+	with codecs.open("results_counts.txt", "w", "utf-8") as f:
+		# words that are missing
+		for w in context.words:
+			if not w in context.known_word_counts:
+				f.write(w.text +" 0\n")
 
-	for w in it:
-		smallest_word = w[0]
+		# Lists the number of cards for each word
+		it = sorted(context.known_word_counts.items(), key=operator.itemgetter(1))
+		for sc in it:
+			oc = context.known_word_counts[sc[0]]
+			f.write(sc[0].text +" " +str(oc) +"\n")
 
-		if known_word_counts[smallest_word] == added_word_counts[smallest_word]:
-			continue
 
-		if not added_word_counts[smallest_word] < minimum_desired_count:
-			looping = False
-			break
+# load stuff
+words = load_word_file("vocab.txt") + load_word_file("vocab_extras.txt")
 
-		
-		sentence = None
-		cost = 0
+#process_audio_sentences(words)
+process_text_sentences(words)
 
-		for s in smallest_word.related:
-			if s not in added_sentences:
-				
-				total = 0
-				for ww in s.related:
-					total += 1 + maximum_prevalence - added_word_counts[ww]
-				
-				if total > cost:
-					sentence = s
-					cost = total
-
-		if not sentence:
-			continue
-
-		covering.append(sentence)
-		added_sentences.add(sentence)
-
-		for ww in sentence.related:
-			increment_word(added_word_counts, ww)
-		
-		break
-
-#for w in words:
-#	if not w.text in known_word_counts:
-#		print w.text
-
-#output_word_list(known_word_counts)
-
-print ("// Learning " +str(len(covering))).encode('utf-8')
-for s in covering:
-	if s.text and s.pinyin and s.english:
-		print (s.text +"\t" +s.pinyin +"\t" +s.english).encode('utf-8')
-		#print (s.text).encode('utf-8')
-
-#print len(covering)
+#output_sentence_list(context.sentences)
+#output_unknown_words(context)
 
 #known_word_counts = dict()
 
-#for s in covering:
+#for s in filtered_sentences:
 #	example = s.text
 #
 #	for w in words:
@@ -105,9 +88,3 @@ for s in covering:
 #			increment_word(known_word_counts, w.text)
 #			s.related.add(w)
 #			w.related.add(s)
-
-#it = sorted(known_word_counts.items(), key=operator.itemgetter(1))
-#for sc in it:
-#	oc = known_word_counts[sc[0]]
-#	ao = added_word_counts[sc[0]]
-#	print (sc[0].text +" " +str(ao) +"/" +str(oc)).encode('utf-8')
