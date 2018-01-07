@@ -22,7 +22,7 @@ class Flashcard_Context:
 	def __init__(self, raw_sentences, words):
 		
 		self.words = words
-		(self.sentences, self.unknown_word_counts) =  self.process_raw_sentence_list(raw_sentences)
+		(self.sentences, self.failed_sentence_map, self.unknown_word_counts) =  self.process_raw_sentence_list(raw_sentences)
 		
 		# eliminate duplicates in sentence list (crudely)
 		self.sentences = list(set(self.sentences))
@@ -59,6 +59,9 @@ class Flashcard_Context:
 		# unknown words mapped to number of entries with that word
 		unknown_word_counts = dict()
 
+		# failed sentences mapped to string of remaining characters
+		failed = dict()
+
 		for s in sentences:
 			example = s.text
 			example_printable = s.text
@@ -83,13 +86,15 @@ class Flashcard_Context:
 				example_printable = re.sub(r'(\*)\1+', r'\1', example_printable)
 				example_printable = example_printable.replace("*", " ").strip()
 
+				failed[s] = example_printable
+
 				junk = example_printable.split(' ')
 				for j in junk:
 					increment_word(unknown_word_counts, j)
 			else:
 				passed.append(s)
 
-		return (passed, unknown_word_counts)
+		return (passed, failed, unknown_word_counts)
 
 	def get_related_words(self, sentence):
 		return self.related_words[sentence]

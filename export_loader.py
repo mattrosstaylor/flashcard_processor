@@ -13,21 +13,14 @@ def read_entries_from_csv(path, text_index=0, pinyin_index=1, english_index=2):
 
 	for r in lines:
 		if r:
-			if u'…' in r[text_index]: # search for ellipsis
-				text_tokens = r[text_index].split(u'…')
-				pinyin_tokens = r[pinyin_index].split(u'…')
-
-				for i, t in enumerate(text_tokens):
-					if t:
-						entry = Entry(t, pinyin_tokens[0])
-						entries.append(entry)
+			
+			
+			if len(r) >= 3:
+				entry = Entry(r[text_index], r[pinyin_index], r[english_index])
+				entries.append(entry)
 			else:
-				if len(r) >= 3:
-					entry = Entry(r[text_index], r[pinyin_index], r[english_index])
-					entries.append(entry)
-				else:
-					entry = Entry(r[text_index], r[pinyin_index])
-					entries.append(entry)
+				entry = Entry(r[text_index], r[pinyin_index])
+				entries.append(entry)
 
 	return entries
 

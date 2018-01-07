@@ -7,7 +7,7 @@ import operator
 
 class Sentence_Filter:
 
-	def __init__(self, context, minimum_desired_count = 5, maximum_card_count = 30000):
+	def __init__(self, context, minimum_desired_count = 999999, maximum_card_count = 999999):
 
 		self.context = context
 		self.minimum_desired_count = minimum_desired_count
@@ -31,13 +31,11 @@ class Sentence_Filter:
 		for ww in self.context.get_related_words(sentence):
 			increment_word(self.added_word_counts, ww)
 
-
 	def add_existing_sentences(self, existing_sentences):
 		# processing exiting sentences first
 		for sentence in existing_sentences:
 			if sentence in self.context.sentences:
 				self.add_sentence(sentence)
-
 
 	def filter_sentences(self):
 
